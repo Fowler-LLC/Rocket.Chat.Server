@@ -1,0 +1,5185 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "77a44e708bd2f99fe5d1f5a0d696527d4d391bf5.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/__cordova/77a44e708bd2f99fe5d1f5a0d696527d4d391bf5.js?meteor_js_resource=true",
+      "size": 10342767,
+      "hash": "77a44e708bd2f99fe5d1f5a0d696527d4d391bf5",
+      "sri": "mu69AZcd0SgFbwnkQ2OtaRA6MkJYl1nrH0SJA7UpZsb7nicKShMWxRNTsM+O7idLTYLPfTUcMYE6BYh0vdo0uw=="
+    },
+    {
+      "path": "77a44e708bd2f99fe5d1f5a0d696527d4d391bf5.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/__cordova/77a44e708bd2f99fe5d1f5a0d696527d4d391bf5.stats.json?meteor_js_resource=true",
+      "size": 191035,
+      "hash": "ca17d0ba52f56a91b0f3ca3a43081066e3469cdd",
+      "sri": "hKmOiOOZfLb8qu70EJybZQ7c6K3kwHd0mWTQLWJVFSv10JVRs2D3BjyTMBC8BN8V6gBUmzixufujXK/ywx3UWw=="
+    },
+    {
+      "path": "1a64ae9b0c32c7f91263bebe83ebe8b6ab85299d.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/__cordova/1a64ae9b0c32c7f91263bebe83ebe8b6ab85299d.css?meteor_css_resource=true",
+      "size": 559763,
+      "hash": "1a64ae9b0c32c7f91263bebe83ebe8b6ab85299d",
+      "sri": "sNjaDSIkUUpyYwTAtMU8yHgBEeYPrmHNO1YBtefw3m4iWBzZxnSUDOLuTJK1eemQ9HbJ6WVYOI1ElJ1T9kHK9A=="
+    },
+    {
+      "path": "packages/oauth/end_of_popup_response.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/packages/oauth/end_of_popup_response.js",
+      "size": 1236,
+      "hash": "cebe0774feb530a0f294bbb9e5e76babd47901f1",
+      "sri": "odXbW5eF6T4K2PPbIoSzUTa3oXVS5U2dcIErsulYVDpwRK7EPJ6WPpYPD+4FB4TW4TxwOMohga0GV8gKpAQYmw=="
+    },
+    {
+      "path": "packages/oauth/end_of_popup_response.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/oauth/end_of_popup_response.js",
+      "size": 1236,
+      "hash": "cebe0774feb530a0f294bbb9e5e76babd47901f1",
+      "sri": "odXbW5eF6T4K2PPbIoSzUTa3oXVS5U2dcIErsulYVDpwRK7EPJ6WPpYPD+4FB4TW4TxwOMohga0GV8gKpAQYmw=="
+    },
+    {
+      "path": "packages/oauth/end_of_redirect_response.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/packages/oauth/end_of_redirect_response.js",
+      "size": 455,
+      "hash": "558278c11f19a17afb952e154bab0254db689f74",
+      "sri": "gGAd4TcVJN9lf92ZkYe2Ae4XIuz77VJ/IyFllNoVUT1U3yaQ2pO89por0EutOmVY2Mg3XDux1GRBAnfc30A2MA=="
+    },
+    {
+      "path": "packages/oauth/end_of_redirect_response.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/oauth/end_of_redirect_response.js",
+      "size": 455,
+      "hash": "558278c11f19a17afb952e154bab0254db689f74",
+      "sri": "gGAd4TcVJN9lf92ZkYe2Ae4XIuz77VJ/IyFllNoVUT1U3yaQ2pO89por0EutOmVY2Mg3XDux1GRBAnfc30A2MA=="
+    },
+    {
+      "path": "packages/rocketchat_livechat/assets/demo.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/packages/rocketchat_livechat/assets/demo.html",
+      "size": 1384,
+      "hash": "73d4e83cf9909e9ae5bba277504d77683a4c16b2",
+      "sri": "Q6Ldoz+uomGamOYeOytnVgAgVea29HhU5/U6JiiU0itjJ36ZBl3JUpAiuz6Fcz0AhSyMtcIc3ZrIcbWUkRfohQ=="
+    },
+    {
+      "path": "packages/rocketchat_livechat/assets/demo.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/assets/demo.html",
+      "size": 1384,
+      "hash": "73d4e83cf9909e9ae5bba277504d77683a4c16b2",
+      "sri": "Q6Ldoz+uomGamOYeOytnVgAgVea29HhU5/U6JiiU0itjJ36ZBl3JUpAiuz6Fcz0AhSyMtcIc3ZrIcbWUkRfohQ=="
+    },
+    {
+      "path": "app/favicon.ico",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/favicon.ico",
+      "size": 15086,
+      "hash": "3d393279760d304e7d01f08c9c45c35d0f89b918",
+      "sri": null
+    },
+    {
+      "path": "app/favicon.ico",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon.ico",
+      "size": 15086,
+      "hash": "3d393279760d304e7d01f08c9c45c35d0f89b918",
+      "sri": null
+    },
+    {
+      "path": "app/manifest.webapp",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/manifest.webapp",
+      "size": 394,
+      "hash": "393ff538275be3f917c327d42b2caed279093430",
+      "sri": null
+    },
+    {
+      "path": "app/manifest.webapp",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/manifest.webapp",
+      "size": 394,
+      "hash": "393ff538275be3f917c327d42b2caed279093430",
+      "sri": null
+    },
+    {
+      "path": "app/pdf.worker.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/pdf.worker.min.js",
+      "size": 637923,
+      "hash": "d5f54b088cabfcf70446858eec84b3364bf661ec",
+      "sri": null
+    },
+    {
+      "path": "app/pdf.worker.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/pdf.worker.min.js",
+      "size": 637923,
+      "hash": "d5f54b088cabfcf70446858eec84b3364bf661ec",
+      "sri": null
+    },
+    {
+      "path": "app/font/fontello.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/font/fontello.eot",
+      "size": 171784,
+      "hash": "28b6183e8580e3334586755d6509f6d124665714",
+      "sri": null
+    },
+    {
+      "path": "app/font/fontello.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/font/fontello.eot",
+      "size": 171784,
+      "hash": "28b6183e8580e3334586755d6509f6d124665714",
+      "sri": null
+    },
+    {
+      "path": "app/font/fontello.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/font/fontello.svg",
+      "size": 231754,
+      "hash": "3a78711d39997e988e5f3ee18ae65eba216edef5",
+      "sri": null
+    },
+    {
+      "path": "app/font/fontello.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/font/fontello.svg",
+      "size": 231754,
+      "hash": "3a78711d39997e988e5f3ee18ae65eba216edef5",
+      "sri": null
+    },
+    {
+      "path": "app/font/fontello.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/font/fontello.ttf",
+      "size": 171616,
+      "hash": "8a24c8dd4e467b0c01979c6d0f7cb0c3f24ae548",
+      "sri": null
+    },
+    {
+      "path": "app/font/fontello.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/font/fontello.ttf",
+      "size": 171616,
+      "hash": "8a24c8dd4e467b0c01979c6d0f7cb0c3f24ae548",
+      "sri": null
+    },
+    {
+      "path": "app/font/fontello.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/font/fontello.woff",
+      "size": 96796,
+      "hash": "559e4e8674e7cdbeabfd3c021d449b908cbfe5a7",
+      "sri": null
+    },
+    {
+      "path": "app/font/fontello.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/font/fontello.woff",
+      "size": 96796,
+      "hash": "559e4e8674e7cdbeabfd3c021d449b908cbfe5a7",
+      "sri": null
+    },
+    {
+      "path": "app/font/fontello.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/font/fontello.woff2",
+      "size": 79840,
+      "hash": "881798a988fc8d2e45178bd553a1c14529f9617d",
+      "sri": null
+    },
+    {
+      "path": "app/font/fontello.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/font/fontello.woff2",
+      "size": 79840,
+      "hash": "881798a988fc8d2e45178bd553a1c14529f9617d",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_AMS-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_AMS-Regular.ttf",
+      "size": 70972,
+      "hash": "812c372a622f9381ca5940a301972aa8379387e9",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_AMS-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_AMS-Regular.ttf",
+      "size": 70972,
+      "hash": "812c372a622f9381ca5940a301972aa8379387e9",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_AMS-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_AMS-Regular.woff",
+      "size": 38868,
+      "hash": "bad23895ff5110fd476da40230ff121f4058e0a2",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_AMS-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_AMS-Regular.woff",
+      "size": 38868,
+      "hash": "bad23895ff5110fd476da40230ff121f4058e0a2",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_AMS-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_AMS-Regular.woff2",
+      "size": 32944,
+      "hash": "1ec4e611d22e2c2d75f27d0af08b946e3531135d",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_AMS-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_AMS-Regular.woff2",
+      "size": 32944,
+      "hash": "1ec4e611d22e2c2d75f27d0af08b946e3531135d",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Caligraphic-Bold.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Caligraphic-Bold.ttf",
+      "size": 19316,
+      "hash": "5d446463907b0092772e87ba5a16d9a20da4e890",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Caligraphic-Bold.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Caligraphic-Bold.ttf",
+      "size": 19316,
+      "hash": "5d446463907b0092772e87ba5a16d9a20da4e890",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Caligraphic-Bold.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Caligraphic-Bold.woff",
+      "size": 11696,
+      "hash": "38de656c944dd84a436bf383f1e5ac4acd2e988a",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Caligraphic-Bold.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Caligraphic-Bold.woff",
+      "size": 11696,
+      "hash": "38de656c944dd84a436bf383f1e5ac4acd2e988a",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Caligraphic-Bold.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Caligraphic-Bold.woff2",
+      "size": 10448,
+      "hash": "37fc62e2062cf5cd30c4ee403fee513e441f476b",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Caligraphic-Bold.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Caligraphic-Bold.woff2",
+      "size": 10448,
+      "hash": "37fc62e2062cf5cd30c4ee403fee513e441f476b",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Caligraphic-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Caligraphic-Regular.ttf",
+      "size": 18684,
+      "hash": "a9e5a966c1c08a5cdb2a72487b2ecb489d3e8edf",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Caligraphic-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Caligraphic-Regular.ttf",
+      "size": 18684,
+      "hash": "a9e5a966c1c08a5cdb2a72487b2ecb489d3e8edf",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Caligraphic-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Caligraphic-Regular.woff",
+      "size": 11460,
+      "hash": "d17476d338f08eb8550a6d3c69f9b9754e7e2998",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Caligraphic-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Caligraphic-Regular.woff",
+      "size": 11460,
+      "hash": "d17476d338f08eb8550a6d3c69f9b9754e7e2998",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Caligraphic-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Caligraphic-Regular.woff2",
+      "size": 10240,
+      "hash": "a7e192777428df4e765cf5ad6bf8cc4e19e01cd5",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Caligraphic-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Caligraphic-Regular.woff2",
+      "size": 10240,
+      "hash": "a7e192777428df4e765cf5ad6bf8cc4e19e01cd5",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Fraktur-Bold.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Fraktur-Bold.ttf",
+      "size": 35660,
+      "hash": "a70f283081da393cd184abe42dee364f1497fbd6",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Fraktur-Bold.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Fraktur-Bold.ttf",
+      "size": 35660,
+      "hash": "a70f283081da393cd184abe42dee364f1497fbd6",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Fraktur-Bold.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Fraktur-Bold.woff",
+      "size": 22632,
+      "hash": "55657a618baf6902a59bbe1ed2d3239b2231a698",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Fraktur-Bold.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Fraktur-Bold.woff",
+      "size": 22632,
+      "hash": "55657a618baf6902a59bbe1ed2d3239b2231a698",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Fraktur-Bold.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Fraktur-Bold.woff2",
+      "size": 20360,
+      "hash": "8801dc1694acfce9ddb8bf855abffd8ab150b5a6",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Fraktur-Bold.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Fraktur-Bold.woff2",
+      "size": 20360,
+      "hash": "8801dc1694acfce9ddb8bf855abffd8ab150b5a6",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Fraktur-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Fraktur-Regular.ttf",
+      "size": 34352,
+      "hash": "95b59b5b77cf494acc923177a84074f0b0f2a108",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Fraktur-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Fraktur-Regular.ttf",
+      "size": 34352,
+      "hash": "95b59b5b77cf494acc923177a84074f0b0f2a108",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Fraktur-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Fraktur-Regular.woff",
+      "size": 22088,
+      "hash": "29cac532a3942913e2d31669d3adde5e3bb6f261",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Fraktur-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Fraktur-Regular.woff",
+      "size": 22088,
+      "hash": "29cac532a3942913e2d31669d3adde5e3bb6f261",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Fraktur-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Fraktur-Regular.woff2",
+      "size": 19784,
+      "hash": "187207299755f9f598e8530198cbf292b5bb5f5a",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Fraktur-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Fraktur-Regular.woff2",
+      "size": 19784,
+      "hash": "187207299755f9f598e8530198cbf292b5bb5f5a",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Bold.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Main-Bold.ttf",
+      "size": 60784,
+      "hash": "a64217d1c476a077d057802c2ff6710bc1512311",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Bold.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Main-Bold.ttf",
+      "size": 60784,
+      "hash": "a64217d1c476a077d057802c2ff6710bc1512311",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Bold.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Main-Bold.woff",
+      "size": 35464,
+      "hash": "d54d87257e2ff34ce381c596bc12c85c771e3f3e",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Bold.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Main-Bold.woff",
+      "size": 35464,
+      "hash": "d54d87257e2ff34ce381c596bc12c85c771e3f3e",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Bold.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Main-Bold.woff2",
+      "size": 30244,
+      "hash": "5b17ac5e4df14597fa8e4b96192b126a1d53bd6e",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Bold.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Main-Bold.woff2",
+      "size": 30244,
+      "hash": "5b17ac5e4df14597fa8e4b96192b126a1d53bd6e",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-BoldItalic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Main-BoldItalic.ttf",
+      "size": 44496,
+      "hash": "f2088809a5e9162e72f898a0a0649bbf1c942cc4",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-BoldItalic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Main-BoldItalic.ttf",
+      "size": 44496,
+      "hash": "f2088809a5e9162e72f898a0a0649bbf1c942cc4",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-BoldItalic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Main-BoldItalic.woff",
+      "size": 25352,
+      "hash": "b46d3549c601f3ddbfc01a905a9974a54b226db0",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-BoldItalic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Main-BoldItalic.woff",
+      "size": 25352,
+      "hash": "b46d3549c601f3ddbfc01a905a9974a54b226db0",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-BoldItalic.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Main-BoldItalic.woff2",
+      "size": 21944,
+      "hash": "438bc48afd86768ba45055b1baa63e1536acce76",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-BoldItalic.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Main-BoldItalic.woff2",
+      "size": 21944,
+      "hash": "438bc48afd86768ba45055b1baa63e1536acce76",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Italic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Main-Italic.ttf",
+      "size": 47640,
+      "hash": "ac64af2872a0187c7deb798727b09323c209c3fb",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Italic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Main-Italic.ttf",
+      "size": 47640,
+      "hash": "ac64af2872a0187c7deb798727b09323c209c3fb",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Italic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Main-Italic.woff",
+      "size": 26228,
+      "hash": "d84f9ec99c35b92e9f5aa489145d181330657df6",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Italic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Main-Italic.woff",
+      "size": 26228,
+      "hash": "d84f9ec99c35b92e9f5aa489145d181330657df6",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Italic.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Main-Italic.woff2",
+      "size": 22748,
+      "hash": "252e2251e00c1ca63067011acba9272c05b27830",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Italic.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Main-Italic.woff2",
+      "size": 22748,
+      "hash": "252e2251e00c1ca63067011acba9272c05b27830",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Main-Regular.ttf",
+      "size": 69520,
+      "hash": "943315c23caf209b3d3889402d82d8e193a1a057",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Main-Regular.ttf",
+      "size": 69520,
+      "hash": "943315c23caf209b3d3889402d82d8e193a1a057",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Main-Regular.woff",
+      "size": 38112,
+      "hash": "5763b71fd6b6a5b33c98fe60bb0117519d2c3a40",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Main-Regular.woff",
+      "size": 38112,
+      "hash": "5763b71fd6b6a5b33c98fe60bb0117519d2c3a40",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Main-Regular.woff2",
+      "size": 32464,
+      "hash": "fdaa8ae9f77823129ee890069f405f1884e20e1e",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Main-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Main-Regular.woff2",
+      "size": 32464,
+      "hash": "fdaa8ae9f77823129ee890069f405f1884e20e1e",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Math-BoldItalic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Math-BoldItalic.ttf",
+      "size": 39308,
+      "hash": "7a41778556cbe66d204875ec4090ed7f56ef3fbc",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Math-BoldItalic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Math-BoldItalic.ttf",
+      "size": 39308,
+      "hash": "7a41778556cbe66d204875ec4090ed7f56ef3fbc",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Math-BoldItalic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Math-BoldItalic.woff",
+      "size": 22324,
+      "hash": "f195ebbf5a4c93bc17537b8e1e2e37a8e7fa757e",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Math-BoldItalic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Math-BoldItalic.woff",
+      "size": 22324,
+      "hash": "f195ebbf5a4c93bc17537b8e1e2e37a8e7fa757e",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Math-BoldItalic.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Math-BoldItalic.woff2",
+      "size": 19720,
+      "hash": "dc3669211668e4bda3de32ba5824712ba19c8af8",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Math-BoldItalic.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Math-BoldItalic.woff2",
+      "size": 19720,
+      "hash": "dc3669211668e4bda3de32ba5824712ba19c8af8",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Math-Italic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Math-Italic.ttf",
+      "size": 40992,
+      "hash": "aca94d12ada31f4c8163fc06b082ebac3ee3990e",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Math-Italic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Math-Italic.ttf",
+      "size": 40992,
+      "hash": "aca94d12ada31f4c8163fc06b082ebac3ee3990e",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Math-Italic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Math-Italic.woff",
+      "size": 22844,
+      "hash": "a2a4cf73c4b978f702d3ff6b806fce3b210e4731",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Math-Italic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Math-Italic.woff",
+      "size": 22844,
+      "hash": "a2a4cf73c4b978f702d3ff6b806fce3b210e4731",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Math-Italic.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Math-Italic.woff2",
+      "size": 20096,
+      "hash": "0275586b32deabaee11d80016d21cbe851cca48a",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Math-Italic.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Math-Italic.woff2",
+      "size": 20096,
+      "hash": "0275586b32deabaee11d80016d21cbe851cca48a",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Bold.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_SansSerif-Bold.ttf",
+      "size": 33688,
+      "hash": "6cdd3e558b30f0e7983cc1659fdf5b8b758cd28e",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Bold.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_SansSerif-Bold.ttf",
+      "size": 33688,
+      "hash": "6cdd3e558b30f0e7983cc1659fdf5b8b758cd28e",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Bold.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_SansSerif-Bold.woff",
+      "size": 18516,
+      "hash": "6b902101d09fc92773d16669cd825a1cabca52e2",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Bold.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_SansSerif-Bold.woff",
+      "size": 18516,
+      "hash": "6b902101d09fc92773d16669cd825a1cabca52e2",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Bold.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_SansSerif-Bold.woff2",
+      "size": 15732,
+      "hash": "204e3aec39024f91be0dc2322f82906a3da86bdd",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Bold.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_SansSerif-Bold.woff2",
+      "size": 15732,
+      "hash": "204e3aec39024f91be0dc2322f82906a3da86bdd",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Italic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_SansSerif-Italic.ttf",
+      "size": 30960,
+      "hash": "487aaca1311c7f007557e4968ced343202c53d36",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Italic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_SansSerif-Italic.ttf",
+      "size": 30960,
+      "hash": "487aaca1311c7f007557e4968ced343202c53d36",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Italic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_SansSerif-Italic.woff",
+      "size": 17572,
+      "hash": "862eb5881ca227dff1b8abb9e6eb7f646ff6c993",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Italic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_SansSerif-Italic.woff",
+      "size": 17572,
+      "hash": "862eb5881ca227dff1b8abb9e6eb7f646ff6c993",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Italic.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_SansSerif-Italic.woff2",
+      "size": 15024,
+      "hash": "ac099f33104235ce2830e05a2fbb714856da5f2d",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Italic.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_SansSerif-Italic.woff2",
+      "size": 15024,
+      "hash": "ac099f33104235ce2830e05a2fbb714856da5f2d",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_SansSerif-Regular.ttf",
+      "size": 29812,
+      "hash": "265044ae625621c5524f27aab6d1fca602808735",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_SansSerif-Regular.ttf",
+      "size": 29812,
+      "hash": "265044ae625621c5524f27aab6d1fca602808735",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_SansSerif-Regular.woff",
+      "size": 16228,
+      "hash": "83629c05e65c93b2125ed508eb81bdb37c1632ed",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_SansSerif-Regular.woff",
+      "size": 16228,
+      "hash": "83629c05e65c93b2125ed508eb81bdb37c1632ed",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_SansSerif-Regular.woff2",
+      "size": 13708,
+      "hash": "6d0f02c9e37729281df057800d241a164b4c51d0",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_SansSerif-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_SansSerif-Regular.woff2",
+      "size": 13708,
+      "hash": "6d0f02c9e37729281df057800d241a164b4c51d0",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Script-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Script-Regular.ttf",
+      "size": 24620,
+      "hash": "79592a730fcd06561ed554b7af016bd8db9527e1",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Script-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Script-Regular.ttf",
+      "size": 24620,
+      "hash": "79592a730fcd06561ed554b7af016bd8db9527e1",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Script-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Script-Regular.woff",
+      "size": 13428,
+      "hash": "b296b3787b2314694868d33302ebd4336d3f4e26",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Script-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Script-Regular.woff",
+      "size": 13428,
+      "hash": "b296b3787b2314694868d33302ebd4336d3f4e26",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Script-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Script-Regular.woff2",
+      "size": 12064,
+      "hash": "d4f8500d41260bc5e0f231077921c389725e74b9",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Script-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Script-Regular.woff2",
+      "size": 12064,
+      "hash": "d4f8500d41260bc5e0f231077921c389725e74b9",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size1-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Size1-Regular.ttf",
+      "size": 12916,
+      "hash": "31833126142b834a45ca3d173ae92a6870ef8a40",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size1-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Size1-Regular.ttf",
+      "size": 12916,
+      "hash": "31833126142b834a45ca3d173ae92a6870ef8a40",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size1-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Size1-Regular.woff",
+      "size": 6696,
+      "hash": "cd9ffaf211211b60983279840ea13b041c685175",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size1-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Size1-Regular.woff",
+      "size": 6696,
+      "hash": "cd9ffaf211211b60983279840ea13b041c685175",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size1-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Size1-Regular.woff2",
+      "size": 5592,
+      "hash": "982243036a32a75ce5843b186b691d6310fed9ba",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size1-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Size1-Regular.woff2",
+      "size": 5592,
+      "hash": "982243036a32a75ce5843b186b691d6310fed9ba",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size2-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Size2-Regular.ttf",
+      "size": 12172,
+      "hash": "e93c18328df72b5a4cea56906d737a954123a853",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size2-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Size2-Regular.ttf",
+      "size": 12172,
+      "hash": "e93c18328df72b5a4cea56906d737a954123a853",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size2-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Size2-Regular.woff",
+      "size": 6436,
+      "hash": "f9e914e47e326d4db258b0e70540465feb6143c9",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size2-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Size2-Regular.woff",
+      "size": 6436,
+      "hash": "f9e914e47e326d4db258b0e70540465feb6143c9",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size2-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Size2-Regular.woff2",
+      "size": 5392,
+      "hash": "9eb268224c334eabe1871df2ed199ed88f5b9ea9",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size2-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Size2-Regular.woff2",
+      "size": 5392,
+      "hash": "9eb268224c334eabe1871df2ed199ed88f5b9ea9",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size3-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Size3-Regular.ttf",
+      "size": 8120,
+      "hash": "81e6e8247a7de88cc594d509dd69769ccd932207",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size3-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Size3-Regular.ttf",
+      "size": 8120,
+      "hash": "81e6e8247a7de88cc594d509dd69769ccd932207",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size3-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Size3-Regular.woff",
+      "size": 4568,
+      "hash": "65f68cf2dc189343d474a9bb18ac8fbdf107afa5",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size3-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Size3-Regular.woff",
+      "size": 4568,
+      "hash": "65f68cf2dc189343d474a9bb18ac8fbdf107afa5",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size3-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Size3-Regular.woff2",
+      "size": 3728,
+      "hash": "30d6ebe2578045917f58b1c6587fe1efbbab4426",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size3-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Size3-Regular.woff2",
+      "size": 3728,
+      "hash": "30d6ebe2578045917f58b1c6587fe1efbbab4426",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size4-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Size4-Regular.ttf",
+      "size": 11016,
+      "hash": "042842ae1be3196ff07e931d10ab48430c5a352b",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size4-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Size4-Regular.ttf",
+      "size": 11016,
+      "hash": "042842ae1be3196ff07e931d10ab48430c5a352b",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size4-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Size4-Regular.woff",
+      "size": 6184,
+      "hash": "98eca7214ff54826f715299cf67077846e231090",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size4-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Size4-Regular.woff",
+      "size": 6184,
+      "hash": "98eca7214ff54826f715299cf67077846e231090",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size4-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Size4-Regular.woff2",
+      "size": 5028,
+      "hash": "865db09d30da71b5d61e2e231768dd6303367c11",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Size4-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Size4-Regular.woff2",
+      "size": 5028,
+      "hash": "865db09d30da71b5d61e2e231768dd6303367c11",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Typewriter-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Typewriter-Regular.ttf",
+      "size": 35924,
+      "hash": "d176f790da131edb9a0ff08339b6f503f01b4896",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Typewriter-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Typewriter-Regular.ttf",
+      "size": 35924,
+      "hash": "d176f790da131edb9a0ff08339b6f503f01b4896",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Typewriter-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Typewriter-Regular.woff",
+      "size": 20260,
+      "hash": "185b545fc347e713d79004ad4a280dd412125ab3",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Typewriter-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Typewriter-Regular.woff",
+      "size": 20260,
+      "hash": "185b545fc347e713d79004ad4a280dd412125ab3",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Typewriter-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/KaTeX_Typewriter-Regular.woff2",
+      "size": 17272,
+      "hash": "9ea7131b5d4266069535bd3dfff367a64fa9b969",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/KaTeX_Typewriter-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/KaTeX_Typewriter-Regular.woff2",
+      "size": 17272,
+      "hash": "9ea7131b5d4266069535bd3dfff367a64fa9b969",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/rocketchat.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/rocketchat.eot",
+      "size": 44434,
+      "hash": "78684e4ee8c1fa28af9119d3b7da9ecebf140fb7",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/rocketchat.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/rocketchat.eot",
+      "size": 44434,
+      "hash": "78684e4ee8c1fa28af9119d3b7da9ecebf140fb7",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/rocketchat.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/rocketchat.svg",
+      "size": 315686,
+      "hash": "5e6971fdda9b6f26419c0fbaec1b8e82728f4303",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/rocketchat.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/rocketchat.svg",
+      "size": 315686,
+      "hash": "5e6971fdda9b6f26419c0fbaec1b8e82728f4303",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/rocketchat.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/rocketchat.ttf",
+      "size": 44256,
+      "hash": "080b42aee4ef2ee601b05c07d9a299463cc734da",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/rocketchat.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/rocketchat.ttf",
+      "size": 44256,
+      "hash": "080b42aee4ef2ee601b05c07d9a299463cc734da",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/rocketchat.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/rocketchat.woff",
+      "size": 22212,
+      "hash": "cbd05452b8a9dd9941a02c8545e9b5c1b32deb78",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/rocketchat.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/rocketchat.woff",
+      "size": 22212,
+      "hash": "cbd05452b8a9dd9941a02c8545e9b5c1b32deb78",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/rocketchat.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/fonts/rocketchat.woff2",
+      "size": 18468,
+      "hash": "f976f6b833eb93e4656b15e23d27acd1b9856af3",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/rocketchat.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/rocketchat.woff2",
+      "size": 18468,
+      "hash": "f976f6b833eb93e4656b15e23d27acd1b9856af3",
+      "sri": null
+    },
+    {
+      "path": "app/images/404.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/404.svg",
+      "size": 110934,
+      "hash": "7e920bc333a36f124f9b2ab8b1dc927a0282eba2",
+      "sri": null
+    },
+    {
+      "path": "app/images/404.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/404.svg",
+      "size": 110934,
+      "hash": "7e920bc333a36f124f9b2ab8b1dc927a0282eba2",
+      "sri": null
+    },
+    {
+      "path": "app/images/browserconfig.xml",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/browserconfig.xml",
+      "size": 419,
+      "hash": "0036b0303887bf6c381b0afcccc410bb6bbf7246",
+      "sri": null
+    },
+    {
+      "path": "app/images/browserconfig.xml",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/browserconfig.xml",
+      "size": 419,
+      "hash": "0036b0303887bf6c381b0afcccc410bb6bbf7246",
+      "sri": null
+    },
+    {
+      "path": "app/images/gallery-skin.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/gallery-skin.svg",
+      "size": 1306,
+      "hash": "e997e9831ee389655e1a0fa557708ef9710d9efc",
+      "sri": null
+    },
+    {
+      "path": "app/images/gallery-skin.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/gallery-skin.svg",
+      "size": 1306,
+      "hash": "e997e9831ee389655e1a0fa557708ef9710d9efc",
+      "sri": null
+    },
+    {
+      "path": "app/images/integration-attachment-example.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/integration-attachment-example.png",
+      "size": 11478,
+      "hash": "c5da3441120120e98bc0b4c364765341af1070fa",
+      "sri": null
+    },
+    {
+      "path": "app/images/integration-attachment-example.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/integration-attachment-example.png",
+      "size": 11478,
+      "hash": "c5da3441120120e98bc0b4c364765341af1070fa",
+      "sri": null
+    },
+    {
+      "path": "app/images/join-chat.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/join-chat.svg",
+      "size": 757,
+      "hash": "98fdb697d12e0be5f8afc438936bfefca858cc21",
+      "sri": null
+    },
+    {
+      "path": "app/images/join-chat.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/join-chat.svg",
+      "size": 757,
+      "hash": "98fdb697d12e0be5f8afc438936bfefca858cc21",
+      "sri": null
+    },
+    {
+      "path": "app/images/manifest.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/manifest.json",
+      "size": 345,
+      "hash": "b1fff7fedde50c59c9c0b83ffe760d3148c9ba5a",
+      "sri": null
+    },
+    {
+      "path": "app/images/manifest.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/manifest.json",
+      "size": 345,
+      "hash": "b1fff7fedde50c59c9c0b83ffe760d3148c9ba5a",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/0.chunk.85c58.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/0.chunk.85c58.js",
+      "size": 30980,
+      "hash": "73d68ffdf89addc1a0539f4788b2e65f07258b48",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/0.chunk.85c58.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/0.chunk.85c58.js",
+      "size": 30980,
+      "hash": "73d68ffdf89addc1a0539f4788b2e65f07258b48",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/0.chunk.85c58.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/0.chunk.85c58.js.map",
+      "size": 100997,
+      "hash": "089c23b02380227085286bc63d3320c08414ce37",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/0.chunk.85c58.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/0.chunk.85c58.js.map",
+      "size": 100997,
+      "hash": "089c23b02380227085286bc63d3320c08414ce37",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/61.chunk.6a8fa.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/61.chunk.6a8fa.js",
+      "size": 1606622,
+      "hash": "00df46bf495a556d8591ce0e68bc0ab6513ad408",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/61.chunk.6a8fa.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/61.chunk.6a8fa.js",
+      "size": 1606622,
+      "hash": "00df46bf495a556d8591ce0e68bc0ab6513ad408",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/61.chunk.6a8fa.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/61.chunk.6a8fa.js.map",
+      "size": 3134567,
+      "hash": "22e1f39a7fc480551588ef6bc968add3f6c48251",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/61.chunk.6a8fa.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/61.chunk.6a8fa.js.map",
+      "size": 3134567,
+      "hash": "22e1f39a7fc480551588ef6bc968add3f6c48251",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/61.chunk.a8a84.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/61.chunk.a8a84.css",
+      "size": 8419,
+      "hash": "c72c721c15e98a22c79a119887e56a98907b55d6",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/61.chunk.a8a84.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/61.chunk.a8a84.css",
+      "size": 8419,
+      "hash": "c72c721c15e98a22c79a119887e56a98907b55d6",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/61.chunk.a8a84.css.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/61.chunk.a8a84.css.map",
+      "size": 13513,
+      "hash": "8df5c03537cf2d00dab0fced2125bd732ac291fa",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/61.chunk.a8a84.css.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/61.chunk.a8a84.css.map",
+      "size": 13513,
+      "hash": "8df5c03537cf2d00dab0fced2125bd732ac291fa",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/62.chunk.39808.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/62.chunk.39808.js",
+      "size": 468076,
+      "hash": "4ae411c26a62369afd7ea2d014f7d5854ac7fb2a",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/62.chunk.39808.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/62.chunk.39808.js",
+      "size": 468076,
+      "hash": "4ae411c26a62369afd7ea2d014f7d5854ac7fb2a",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/62.chunk.39808.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/62.chunk.39808.js.map",
+      "size": 678285,
+      "hash": "f031d3d432d94795b11a3aa5f7541df42cf686a8",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/62.chunk.39808.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/62.chunk.39808.js.map",
+      "size": 678285,
+      "hash": "f031d3d432d94795b11a3aa5f7541df42cf686a8",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/62.chunk.e3920.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/62.chunk.e3920.css",
+      "size": 45777,
+      "hash": "2cde5b18d47186266184a20b7cf5a4a8d27e0fdf",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/62.chunk.e3920.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/62.chunk.e3920.css",
+      "size": 45777,
+      "hash": "2cde5b18d47186266184a20b7cf5a4a8d27e0fdf",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/62.chunk.e3920.css.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/62.chunk.e3920.css.map",
+      "size": 77725,
+      "hash": "4e7ae215d9aea968b4550e2bb1765d5dc4ccc0f8",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/62.chunk.e3920.css.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/62.chunk.e3920.css.map",
+      "size": 77725,
+      "hash": "4e7ae215d9aea968b4550e2bb1765d5dc4ccc0f8",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/bundle.e0274.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/bundle.e0274.js",
+      "size": 6890,
+      "hash": "41a1cb113fd7ce4e7f306a7712b604e3d9c83ac7",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/bundle.e0274.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/bundle.e0274.js",
+      "size": 6890,
+      "hash": "41a1cb113fd7ce4e7f306a7712b604e3d9c83ac7",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/bundle.e0274.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/bundle.e0274.js.map",
+      "size": 23121,
+      "hash": "afb96326a29a12d940e8091114f65e9c41f9dd4a",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/bundle.e0274.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/bundle.e0274.js.map",
+      "size": 23121,
+      "hash": "afb96326a29a12d940e8091114f65e9c41f9dd4a",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/e9ae7973e9fdbbe4aa91df9a6a684116.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/e9ae7973e9fdbbe4aa91df9a6a684116.png",
+      "size": 3094,
+      "hash": "44e57286155ff2355222e644f7d85ca58eface59",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/e9ae7973e9fdbbe4aa91df9a6a684116.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/e9ae7973e9fdbbe4aa91df9a6a684116.png",
+      "size": 3094,
+      "hash": "44e57286155ff2355222e644f7d85ca58eface59",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.af.chunk.0f804.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.af.chunk.0f804.js",
+      "size": 4833,
+      "hash": "1a4b5cb0373cc139f8fac350223b6940304e8592",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.af.chunk.0f804.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.af.chunk.0f804.js",
+      "size": 4833,
+      "hash": "1a4b5cb0373cc139f8fac350223b6940304e8592",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.af.chunk.0f804.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.af.chunk.0f804.js.map",
+      "size": 99,
+      "hash": "128cb9001a6d6f9eba1737f685ad208ff6059248",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.af.chunk.0f804.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.af.chunk.0f804.js.map",
+      "size": 99,
+      "hash": "128cb9001a6d6f9eba1737f685ad208ff6059248",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ar.chunk.d9a0d.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ar.chunk.d9a0d.js",
+      "size": 4905,
+      "hash": "0b0bb741d118b6707c625ae895807e5ba7b0e815",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ar.chunk.d9a0d.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ar.chunk.d9a0d.js",
+      "size": 4905,
+      "hash": "0b0bb741d118b6707c625ae895807e5ba7b0e815",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ar.chunk.d9a0d.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ar.chunk.d9a0d.js.map",
+      "size": 99,
+      "hash": "3999d10ffd97988e082837ded461cbd01287fd30",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ar.chunk.d9a0d.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ar.chunk.d9a0d.js.map",
+      "size": 99,
+      "hash": "3999d10ffd97988e082837ded461cbd01287fd30",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.az.chunk.d3376.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.az.chunk.d3376.js",
+      "size": 4849,
+      "hash": "38ba30875f37189b0039888d9a442e77c8a5815b",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.az.chunk.d3376.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.az.chunk.d3376.js",
+      "size": 4849,
+      "hash": "38ba30875f37189b0039888d9a442e77c8a5815b",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.az.chunk.d3376.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.az.chunk.d3376.js.map",
+      "size": 99,
+      "hash": "88928fe6497daf9d53fd3bf3b1732e7dafd10560",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.az.chunk.d3376.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.az.chunk.d3376.js.map",
+      "size": 99,
+      "hash": "88928fe6497daf9d53fd3bf3b1732e7dafd10560",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.be_BY.chunk.e16aa.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.be_BY.chunk.e16aa.js",
+      "size": 4985,
+      "hash": "3b373862d53f1c3e8117266d52c6a99b8fe8b5d1",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.be_BY.chunk.e16aa.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.be_BY.chunk.e16aa.js",
+      "size": 4985,
+      "hash": "3b373862d53f1c3e8117266d52c6a99b8fe8b5d1",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.be_BY.chunk.e16aa.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.be_BY.chunk.e16aa.js.map",
+      "size": 102,
+      "hash": "40d3543c0df4ad2067cb907a9f6650bd1be3846f",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.be_BY.chunk.e16aa.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.be_BY.chunk.e16aa.js.map",
+      "size": 102,
+      "hash": "40d3543c0df4ad2067cb907a9f6650bd1be3846f",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.bg.chunk.a3916.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.bg.chunk.a3916.js",
+      "size": 4974,
+      "hash": "7fbc1edf64a546ab506a4590db190037b50d9d95",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.bg.chunk.a3916.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.bg.chunk.a3916.js",
+      "size": 4974,
+      "hash": "7fbc1edf64a546ab506a4590db190037b50d9d95",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.bg.chunk.a3916.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.bg.chunk.a3916.js.map",
+      "size": 99,
+      "hash": "027de896a24199dff971f631441d2d1ea7c986b1",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.bg.chunk.a3916.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.bg.chunk.a3916.js.map",
+      "size": 99,
+      "hash": "027de896a24199dff971f631441d2d1ea7c986b1",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.bs.chunk.7ee61.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.bs.chunk.7ee61.js",
+      "size": 4812,
+      "hash": "2b98c364c9dec2d36e79d879890d92a7546a01e0",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.bs.chunk.7ee61.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.bs.chunk.7ee61.js",
+      "size": 4812,
+      "hash": "2b98c364c9dec2d36e79d879890d92a7546a01e0",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.bs.chunk.7ee61.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.bs.chunk.7ee61.js.map",
+      "size": 99,
+      "hash": "cb44b7032b94fca8ecbf2ce25e30fb88786299fc",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.bs.chunk.7ee61.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.bs.chunk.7ee61.js.map",
+      "size": 99,
+      "hash": "cb44b7032b94fca8ecbf2ce25e30fb88786299fc",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ca.chunk.1ffdf.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ca.chunk.1ffdf.js",
+      "size": 4841,
+      "hash": "60f8f28abf59e029d7e51b04dc596158effe74db",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ca.chunk.1ffdf.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ca.chunk.1ffdf.js",
+      "size": 4841,
+      "hash": "60f8f28abf59e029d7e51b04dc596158effe74db",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ca.chunk.1ffdf.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ca.chunk.1ffdf.js.map",
+      "size": 99,
+      "hash": "a074502227a20fdc1ec830aac9c82d6725391f83",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ca.chunk.1ffdf.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ca.chunk.1ffdf.js.map",
+      "size": 99,
+      "hash": "a074502227a20fdc1ec830aac9c82d6725391f83",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.cs.chunk.eccc0.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.cs.chunk.eccc0.js",
+      "size": 5119,
+      "hash": "79064cd206a216a97a6ca8fe872a42b9132378f5",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.cs.chunk.eccc0.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.cs.chunk.eccc0.js",
+      "size": 5119,
+      "hash": "79064cd206a216a97a6ca8fe872a42b9132378f5",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.cs.chunk.eccc0.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.cs.chunk.eccc0.js.map",
+      "size": 99,
+      "hash": "c38a8b5f364c6d02c14a3310d3cb1ea30b087617",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.cs.chunk.eccc0.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.cs.chunk.eccc0.js.map",
+      "size": 99,
+      "hash": "c38a8b5f364c6d02c14a3310d3cb1ea30b087617",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.cy.chunk.ddbed.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.cy.chunk.ddbed.js",
+      "size": 4851,
+      "hash": "43ec141ed8ca5d0cc7810b172acf7a595bcc7767",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.cy.chunk.ddbed.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.cy.chunk.ddbed.js",
+      "size": 4851,
+      "hash": "43ec141ed8ca5d0cc7810b172acf7a595bcc7767",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.cy.chunk.ddbed.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.cy.chunk.ddbed.js.map",
+      "size": 99,
+      "hash": "686d8085b15152015e85ec6aca350d9365ad1866",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.cy.chunk.ddbed.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.cy.chunk.ddbed.js.map",
+      "size": 99,
+      "hash": "686d8085b15152015e85ec6aca350d9365ad1866",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.da.chunk.bf710.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.da.chunk.bf710.js",
+      "size": 4848,
+      "hash": "5c431f598be14097091c4f50322e93d6375356e2",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.da.chunk.bf710.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.da.chunk.bf710.js",
+      "size": 4848,
+      "hash": "5c431f598be14097091c4f50322e93d6375356e2",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.da.chunk.bf710.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.da.chunk.bf710.js.map",
+      "size": 99,
+      "hash": "53776201dcecf8976a4fe578d56c025f910a8d16",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.da.chunk.bf710.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.da.chunk.bf710.js.map",
+      "size": 99,
+      "hash": "53776201dcecf8976a4fe578d56c025f910a8d16",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.de.chunk.76b63.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.de.chunk.76b63.js",
+      "size": 5416,
+      "hash": "c32715f5ec874e2fce0485dccc8294c2d0311fce",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.de.chunk.76b63.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.de.chunk.76b63.js",
+      "size": 5416,
+      "hash": "c32715f5ec874e2fce0485dccc8294c2d0311fce",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.de.chunk.76b63.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.de.chunk.76b63.js.map",
+      "size": 99,
+      "hash": "2ecc87dd3c1a76525f744b1b9abdf71f9a24e0be",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.de.chunk.76b63.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.de.chunk.76b63.js.map",
+      "size": 99,
+      "hash": "2ecc87dd3c1a76525f744b1b9abdf71f9a24e0be",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.de_AT.chunk.cc405.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.de_AT.chunk.cc405.js",
+      "size": 5422,
+      "hash": "3ed4c996a616c01c57fa6712b082cdeadfe2a0d4",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.de_AT.chunk.cc405.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.de_AT.chunk.cc405.js",
+      "size": 5422,
+      "hash": "3ed4c996a616c01c57fa6712b082cdeadfe2a0d4",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.de_AT.chunk.cc405.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.de_AT.chunk.cc405.js.map",
+      "size": 102,
+      "hash": "e3caa870ce1555861389d5ed2573f3dc458a852b",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.de_AT.chunk.cc405.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.de_AT.chunk.cc405.js.map",
+      "size": 102,
+      "hash": "e3caa870ce1555861389d5ed2573f3dc458a852b",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.default.chunk.82e48.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.default.chunk.82e48.js",
+      "size": 4821,
+      "hash": "00b53d1febcca442d525f88ead9e118b401c76d5",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.default.chunk.82e48.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.default.chunk.82e48.js",
+      "size": 4821,
+      "hash": "00b53d1febcca442d525f88ead9e118b401c76d5",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.default.chunk.82e48.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.default.chunk.82e48.js.map",
+      "size": 104,
+      "hash": "ffa23b60a94bec59a38c6cbf4430cbdcac9ffb81",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.default.chunk.82e48.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.default.chunk.82e48.js.map",
+      "size": 104,
+      "hash": "ffa23b60a94bec59a38c6cbf4430cbdcac9ffb81",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.el.chunk.c7b16.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.el.chunk.c7b16.js",
+      "size": 4989,
+      "hash": "15d97b5763ed4a2a9eb6f43d785f39290bbad9f5",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.el.chunk.c7b16.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.el.chunk.c7b16.js",
+      "size": 4989,
+      "hash": "15d97b5763ed4a2a9eb6f43d785f39290bbad9f5",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.el.chunk.c7b16.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.el.chunk.c7b16.js.map",
+      "size": 99,
+      "hash": "5704d14076ad6daaf692c924ffe18869dc14602f",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.el.chunk.c7b16.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.el.chunk.c7b16.js.map",
+      "size": 99,
+      "hash": "5704d14076ad6daaf692c924ffe18869dc14602f",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.en.chunk.2a3c0.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.en.chunk.2a3c0.js",
+      "size": 4817,
+      "hash": "2f966c667120865d925ddbb5f81fd54a84b891b4",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.en.chunk.2a3c0.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.en.chunk.2a3c0.js",
+      "size": 4817,
+      "hash": "2f966c667120865d925ddbb5f81fd54a84b891b4",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.en.chunk.2a3c0.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.en.chunk.2a3c0.js.map",
+      "size": 99,
+      "hash": "1e0b1ab71a0dbd338efa9944e4b5b478ac7c6427",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.en.chunk.2a3c0.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.en.chunk.2a3c0.js.map",
+      "size": 99,
+      "hash": "1e0b1ab71a0dbd338efa9944e4b5b478ac7c6427",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.eo.chunk.214bd.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.eo.chunk.214bd.js",
+      "size": 4812,
+      "hash": "873827a78b93e137ffe7ebb49e71a9277dc7de8c",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.eo.chunk.214bd.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.eo.chunk.214bd.js",
+      "size": 4812,
+      "hash": "873827a78b93e137ffe7ebb49e71a9277dc7de8c",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.eo.chunk.214bd.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.eo.chunk.214bd.js.map",
+      "size": 99,
+      "hash": "51f430477c7d240a1a7df8ce54ae55b3e6f7fe2f",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.eo.chunk.214bd.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.eo.chunk.214bd.js.map",
+      "size": 99,
+      "hash": "51f430477c7d240a1a7df8ce54ae55b3e6f7fe2f",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.es.chunk.2bbfc.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.es.chunk.2bbfc.js",
+      "size": 5077,
+      "hash": "a52420e5ff2ac077214447aac22d519e015278ab",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.es.chunk.2bbfc.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.es.chunk.2bbfc.js",
+      "size": 5077,
+      "hash": "a52420e5ff2ac077214447aac22d519e015278ab",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.es.chunk.2bbfc.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.es.chunk.2bbfc.js.map",
+      "size": 99,
+      "hash": "edbb6b361a359375b1eee402201da93ec5c35b6e",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.es.chunk.2bbfc.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.es.chunk.2bbfc.js.map",
+      "size": 99,
+      "hash": "edbb6b361a359375b1eee402201da93ec5c35b6e",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.et.chunk.42c8a.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.et.chunk.42c8a.js",
+      "size": 4823,
+      "hash": "1e67a92fa1c55a3d4d3485fe233d113bf3dc474a",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.et.chunk.42c8a.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.et.chunk.42c8a.js",
+      "size": 4823,
+      "hash": "1e67a92fa1c55a3d4d3485fe233d113bf3dc474a",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.et.chunk.42c8a.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.et.chunk.42c8a.js.map",
+      "size": 99,
+      "hash": "500fb3f1b616d5a60c21c28f4a165f99f0bc71a9",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.et.chunk.42c8a.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.et.chunk.42c8a.js.map",
+      "size": 99,
+      "hash": "500fb3f1b616d5a60c21c28f4a165f99f0bc71a9",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.eu.chunk.a0177.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.eu.chunk.a0177.js",
+      "size": 4834,
+      "hash": "2ea24880fbe51a17f5999df4c4ff59909b2e92b2",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.eu.chunk.a0177.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.eu.chunk.a0177.js",
+      "size": 4834,
+      "hash": "2ea24880fbe51a17f5999df4c4ff59909b2e92b2",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.eu.chunk.a0177.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.eu.chunk.a0177.js.map",
+      "size": 99,
+      "hash": "8ab14bb2c61720a8628143f496a41f4d254f162c",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.eu.chunk.a0177.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.eu.chunk.a0177.js.map",
+      "size": 99,
+      "hash": "8ab14bb2c61720a8628143f496a41f4d254f162c",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.fa.chunk.d6f6c.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.fa.chunk.d6f6c.js",
+      "size": 5995,
+      "hash": "87bb9bd8a48f50c19d910633a1b4259b0e06ebbc",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.fa.chunk.d6f6c.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.fa.chunk.d6f6c.js",
+      "size": 5995,
+      "hash": "87bb9bd8a48f50c19d910633a1b4259b0e06ebbc",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.fa.chunk.d6f6c.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.fa.chunk.d6f6c.js.map",
+      "size": 99,
+      "hash": "35dae0ceb5b66b484e87747212aa381f38a6433b",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.fa.chunk.d6f6c.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.fa.chunk.d6f6c.js.map",
+      "size": 99,
+      "hash": "35dae0ceb5b66b484e87747212aa381f38a6433b",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.fi.chunk.2b9e8.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.fi.chunk.2b9e8.js",
+      "size": 4831,
+      "hash": "db3ccd19efc67e6fb9143e50a1fb3719a1f16eaa",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.fi.chunk.2b9e8.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.fi.chunk.2b9e8.js",
+      "size": 4831,
+      "hash": "db3ccd19efc67e6fb9143e50a1fb3719a1f16eaa",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.fi.chunk.2b9e8.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.fi.chunk.2b9e8.js.map",
+      "size": 99,
+      "hash": "424ad3f4b0bdcab41421f92c6c7c1863506816f0",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.fi.chunk.2b9e8.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.fi.chunk.2b9e8.js.map",
+      "size": 99,
+      "hash": "424ad3f4b0bdcab41421f92c6c7c1863506816f0",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.fr.chunk.73786.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.fr.chunk.73786.js",
+      "size": 5382,
+      "hash": "da2d06b9117f2f59ce97079fcdedcaed898ef309",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.fr.chunk.73786.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.fr.chunk.73786.js",
+      "size": 5382,
+      "hash": "da2d06b9117f2f59ce97079fcdedcaed898ef309",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.fr.chunk.73786.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.fr.chunk.73786.js.map",
+      "size": 99,
+      "hash": "767e2844b8dd8bf6db3184acb067dae5359ed78e",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.fr.chunk.73786.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.fr.chunk.73786.js.map",
+      "size": 99,
+      "hash": "767e2844b8dd8bf6db3184acb067dae5359ed78e",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.he.chunk.55fed.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.he.chunk.55fed.js",
+      "size": 5307,
+      "hash": "583971b19cab8fa9e8d707a02e2140fed96fa72e",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.he.chunk.55fed.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.he.chunk.55fed.js",
+      "size": 5307,
+      "hash": "583971b19cab8fa9e8d707a02e2140fed96fa72e",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.he.chunk.55fed.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.he.chunk.55fed.js.map",
+      "size": 99,
+      "hash": "290984c68abb8684bb9b5b95122a7b25141df9ef",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.he.chunk.55fed.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.he.chunk.55fed.js.map",
+      "size": 99,
+      "hash": "290984c68abb8684bb9b5b95122a7b25141df9ef",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.hr.chunk.7fa35.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.hr.chunk.7fa35.js",
+      "size": 4843,
+      "hash": "61c1bc4ab25f2da973c705e994cd39aed2e76d37",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.hr.chunk.7fa35.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.hr.chunk.7fa35.js",
+      "size": 4843,
+      "hash": "61c1bc4ab25f2da973c705e994cd39aed2e76d37",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.hr.chunk.7fa35.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.hr.chunk.7fa35.js.map",
+      "size": 99,
+      "hash": "6c030e3e8989cd8b295ea9a9ab75696b01398736",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.hr.chunk.7fa35.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.hr.chunk.7fa35.js.map",
+      "size": 99,
+      "hash": "6c030e3e8989cd8b295ea9a9ab75696b01398736",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.hu.chunk.ebc31.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.hu.chunk.ebc31.js",
+      "size": 4862,
+      "hash": "e3f9bde8dd0df2e1f8264be2fce30269c963a8e1",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.hu.chunk.ebc31.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.hu.chunk.ebc31.js",
+      "size": 4862,
+      "hash": "e3f9bde8dd0df2e1f8264be2fce30269c963a8e1",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.hu.chunk.ebc31.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.hu.chunk.ebc31.js.map",
+      "size": 99,
+      "hash": "f7f79d3d4a063fc408323cf96e3796603923b85d",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.hu.chunk.ebc31.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.hu.chunk.ebc31.js.map",
+      "size": 99,
+      "hash": "f7f79d3d4a063fc408323cf96e3796603923b85d",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.id.chunk.4e6ee.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.id.chunk.4e6ee.js",
+      "size": 4843,
+      "hash": "d13f00e73fdcad9598d102d00c63c1acad77845e",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.id.chunk.4e6ee.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.id.chunk.4e6ee.js",
+      "size": 4843,
+      "hash": "d13f00e73fdcad9598d102d00c63c1acad77845e",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.id.chunk.4e6ee.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.id.chunk.4e6ee.js.map",
+      "size": 99,
+      "hash": "e9a33a53daf2c1c46bc1a607d5e92f8fbf6b76d8",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.id.chunk.4e6ee.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.id.chunk.4e6ee.js.map",
+      "size": 99,
+      "hash": "e9a33a53daf2c1c46bc1a607d5e92f8fbf6b76d8",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.it.chunk.662c3.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.it.chunk.662c3.js",
+      "size": 5165,
+      "hash": "8c88b4bdf2d18c639cbeef657cb5a55927b1d71d",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.it.chunk.662c3.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.it.chunk.662c3.js",
+      "size": 5165,
+      "hash": "8c88b4bdf2d18c639cbeef657cb5a55927b1d71d",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.it.chunk.662c3.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.it.chunk.662c3.js.map",
+      "size": 99,
+      "hash": "e3cd9c198576576c28802548008f763f14a697e3",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.it.chunk.662c3.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.it.chunk.662c3.js.map",
+      "size": 99,
+      "hash": "e3cd9c198576576c28802548008f763f14a697e3",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ja.chunk.8d640.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ja.chunk.8d640.js",
+      "size": 5824,
+      "hash": "f23a7b1de1acd846580a514d6776ae2cb274ff22",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ja.chunk.8d640.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ja.chunk.8d640.js",
+      "size": 5824,
+      "hash": "f23a7b1de1acd846580a514d6776ae2cb274ff22",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ja.chunk.8d640.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ja.chunk.8d640.js.map",
+      "size": 99,
+      "hash": "0b26a4949211bf2ec833fdb3e7f30d43512f525c",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ja.chunk.8d640.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ja.chunk.8d640.js.map",
+      "size": 99,
+      "hash": "0b26a4949211bf2ec833fdb3e7f30d43512f525c",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.km.chunk.6aa79.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.km.chunk.6aa79.js",
+      "size": 5092,
+      "hash": "cd8b5380756ff6ef222e27d4f60057e2baf01126",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.km.chunk.6aa79.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.km.chunk.6aa79.js",
+      "size": 5092,
+      "hash": "cd8b5380756ff6ef222e27d4f60057e2baf01126",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.km.chunk.6aa79.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.km.chunk.6aa79.js.map",
+      "size": 99,
+      "hash": "22bc4c9e688c9d86ded4f4ff69f1bed2201e3adc",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.km.chunk.6aa79.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.km.chunk.6aa79.js.map",
+      "size": 99,
+      "hash": "22bc4c9e688c9d86ded4f4ff69f1bed2201e3adc",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ko.chunk.a00ec.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ko.chunk.a00ec.js",
+      "size": 4871,
+      "hash": "2a2c95f1f2e2ce4ce79e51ff722be74020f2f85f",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ko.chunk.a00ec.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ko.chunk.a00ec.js",
+      "size": 4871,
+      "hash": "2a2c95f1f2e2ce4ce79e51ff722be74020f2f85f",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ko.chunk.a00ec.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ko.chunk.a00ec.js.map",
+      "size": 99,
+      "hash": "bf7d7df65620526b440849d79e43ea5d08215fcc",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ko.chunk.a00ec.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ko.chunk.a00ec.js.map",
+      "size": 99,
+      "hash": "bf7d7df65620526b440849d79e43ea5d08215fcc",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ku.chunk.69408.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ku.chunk.69408.js",
+      "size": 4847,
+      "hash": "0beb8b8835e931e60bdd22090dd99118f347c4fc",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ku.chunk.69408.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ku.chunk.69408.js",
+      "size": 4847,
+      "hash": "0beb8b8835e931e60bdd22090dd99118f347c4fc",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ku.chunk.69408.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ku.chunk.69408.js.map",
+      "size": 99,
+      "hash": "3f3934308f3497e01ed21324884684ea174792fb",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ku.chunk.69408.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ku.chunk.69408.js.map",
+      "size": 99,
+      "hash": "3f3934308f3497e01ed21324884684ea174792fb",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.lo.chunk.14490.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.lo.chunk.14490.js",
+      "size": 5066,
+      "hash": "8eb4b933ddf70eaf16154f9aa5464978a984a336",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.lo.chunk.14490.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.lo.chunk.14490.js",
+      "size": 5066,
+      "hash": "8eb4b933ddf70eaf16154f9aa5464978a984a336",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.lo.chunk.14490.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.lo.chunk.14490.js.map",
+      "size": 99,
+      "hash": "fb90a1544d3478a9d4c324e762a327f8d8bb855e",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.lo.chunk.14490.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.lo.chunk.14490.js.map",
+      "size": 99,
+      "hash": "fb90a1544d3478a9d4c324e762a327f8d8bb855e",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.lt.chunk.57bff.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.lt.chunk.57bff.js",
+      "size": 4851,
+      "hash": "e60de52320e88548c350e1546615dde203f07c41",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.lt.chunk.57bff.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.lt.chunk.57bff.js",
+      "size": 4851,
+      "hash": "e60de52320e88548c350e1546615dde203f07c41",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.lt.chunk.57bff.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.lt.chunk.57bff.js.map",
+      "size": 99,
+      "hash": "5b46c6aee9909e95347893272feec1be845cd675",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.lt.chunk.57bff.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.lt.chunk.57bff.js.map",
+      "size": 99,
+      "hash": "5b46c6aee9909e95347893272feec1be845cd675",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.lv.chunk.51bae.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.lv.chunk.51bae.js",
+      "size": 4852,
+      "hash": "158b8dac603cf90c96ce7117a97b88faf468e2a0",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.lv.chunk.51bae.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.lv.chunk.51bae.js",
+      "size": 4852,
+      "hash": "158b8dac603cf90c96ce7117a97b88faf468e2a0",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.lv.chunk.51bae.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.lv.chunk.51bae.js.map",
+      "size": 99,
+      "hash": "3599b5666e8d01c01ca56425966b06507f3a81fd",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.lv.chunk.51bae.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.lv.chunk.51bae.js.map",
+      "size": 99,
+      "hash": "3599b5666e8d01c01ca56425966b06507f3a81fd",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.mn.chunk.f4bba.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.mn.chunk.f4bba.js",
+      "size": 4993,
+      "hash": "ee8ce8f845c3b2175a8202d11b2516cdc11c52e3",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.mn.chunk.f4bba.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.mn.chunk.f4bba.js",
+      "size": 4993,
+      "hash": "ee8ce8f845c3b2175a8202d11b2516cdc11c52e3",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.mn.chunk.f4bba.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.mn.chunk.f4bba.js.map",
+      "size": 99,
+      "hash": "d636305006bf2627fd19339c377a8e1dc02c0a60",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.mn.chunk.f4bba.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.mn.chunk.f4bba.js.map",
+      "size": 99,
+      "hash": "d636305006bf2627fd19339c377a8e1dc02c0a60",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ms_MY.chunk.c46ec.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ms_MY.chunk.c46ec.js",
+      "size": 4848,
+      "hash": "4b1bdd4736fd7ba2431617b915d47da8bb589ec4",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ms_MY.chunk.c46ec.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ms_MY.chunk.c46ec.js",
+      "size": 4848,
+      "hash": "4b1bdd4736fd7ba2431617b915d47da8bb589ec4",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ms_MY.chunk.c46ec.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ms_MY.chunk.c46ec.js.map",
+      "size": 102,
+      "hash": "6660771b3da9fd0d514651298fbc7181dfffb4bc",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ms_MY.chunk.c46ec.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ms_MY.chunk.c46ec.js.map",
+      "size": 102,
+      "hash": "6660771b3da9fd0d514651298fbc7181dfffb4bc",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.nl.chunk.c7fcf.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.nl.chunk.c7fcf.js",
+      "size": 5140,
+      "hash": "3492e98ad484ec119e7c079d64c9c9bac103e2c8",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.nl.chunk.c7fcf.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.nl.chunk.c7fcf.js",
+      "size": 5140,
+      "hash": "3492e98ad484ec119e7c079d64c9c9bac103e2c8",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.nl.chunk.c7fcf.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.nl.chunk.c7fcf.js.map",
+      "size": 99,
+      "hash": "6fe76429b453859ef6975589aed45cfc20e09c22",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.nl.chunk.c7fcf.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.nl.chunk.c7fcf.js.map",
+      "size": 99,
+      "hash": "6fe76429b453859ef6975589aed45cfc20e09c22",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.no.chunk.1b63e.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.no.chunk.1b63e.js",
+      "size": 4817,
+      "hash": "593f89e0f789f0ea5daa9da4dc3a96ca1f30a8b1",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.no.chunk.1b63e.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.no.chunk.1b63e.js",
+      "size": 4817,
+      "hash": "593f89e0f789f0ea5daa9da4dc3a96ca1f30a8b1",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.no.chunk.1b63e.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.no.chunk.1b63e.js.map",
+      "size": 99,
+      "hash": "06beeab18ef1e26a3cf68847aebcd0397ac9e1e6",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.no.chunk.1b63e.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.no.chunk.1b63e.js.map",
+      "size": 99,
+      "hash": "06beeab18ef1e26a3cf68847aebcd0397ac9e1e6",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.pl.chunk.05c14.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.pl.chunk.05c14.js",
+      "size": 5051,
+      "hash": "f13b1ebe0759b955ca1b01a43cdc20d28dd811a3",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.pl.chunk.05c14.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.pl.chunk.05c14.js",
+      "size": 5051,
+      "hash": "f13b1ebe0759b955ca1b01a43cdc20d28dd811a3",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.pl.chunk.05c14.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.pl.chunk.05c14.js.map",
+      "size": 99,
+      "hash": "acfdabc7696f89beaeedfe095bd75f03d120b0b1",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.pl.chunk.05c14.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.pl.chunk.05c14.js.map",
+      "size": 99,
+      "hash": "acfdabc7696f89beaeedfe095bd75f03d120b0b1",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.pt.chunk.3f26d.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.pt.chunk.3f26d.js",
+      "size": 4829,
+      "hash": "16815d630702b8687c41500de34e4417aba8c310",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.pt.chunk.3f26d.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.pt.chunk.3f26d.js",
+      "size": 4829,
+      "hash": "16815d630702b8687c41500de34e4417aba8c310",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.pt.chunk.3f26d.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.pt.chunk.3f26d.js.map",
+      "size": 99,
+      "hash": "d56f7d2f3cbda0dcd6295a96f663b559537a52bb",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.pt.chunk.3f26d.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.pt.chunk.3f26d.js.map",
+      "size": 99,
+      "hash": "d56f7d2f3cbda0dcd6295a96f663b559537a52bb",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.pt_BR.chunk.30bdb.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.pt_BR.chunk.30bdb.js",
+      "size": 5159,
+      "hash": "2596b2ef8ac6a5479a5e5d13a651f0c12272ceba",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.pt_BR.chunk.30bdb.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.pt_BR.chunk.30bdb.js",
+      "size": 5159,
+      "hash": "2596b2ef8ac6a5479a5e5d13a651f0c12272ceba",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.pt_BR.chunk.30bdb.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.pt_BR.chunk.30bdb.js.map",
+      "size": 102,
+      "hash": "40ce7e2500adae4a791c3bddf36e1d8c974384ca",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.pt_BR.chunk.30bdb.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.pt_BR.chunk.30bdb.js.map",
+      "size": 102,
+      "hash": "40ce7e2500adae4a791c3bddf36e1d8c974384ca",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ro.chunk.09929.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ro.chunk.09929.js",
+      "size": 4866,
+      "hash": "4a279895016b436bf096d7993063b2da67fa08b4",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ro.chunk.09929.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ro.chunk.09929.js",
+      "size": 4866,
+      "hash": "4a279895016b436bf096d7993063b2da67fa08b4",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ro.chunk.09929.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ro.chunk.09929.js.map",
+      "size": 99,
+      "hash": "365bfd973cc71b4b359c4bfd98814f18562c7eb2",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ro.chunk.09929.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ro.chunk.09929.js.map",
+      "size": 99,
+      "hash": "365bfd973cc71b4b359c4bfd98814f18562c7eb2",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ru.chunk.411ae.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ru.chunk.411ae.js",
+      "size": 6483,
+      "hash": "2cbb77b171a6c0ad69b9471b85dd30b0b561f168",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ru.chunk.411ae.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ru.chunk.411ae.js",
+      "size": 6483,
+      "hash": "2cbb77b171a6c0ad69b9471b85dd30b0b561f168",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ru.chunk.411ae.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ru.chunk.411ae.js.map",
+      "size": 99,
+      "hash": "7866365176bd6fad950694cd7a953b3632a820d1",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ru.chunk.411ae.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ru.chunk.411ae.js.map",
+      "size": 99,
+      "hash": "7866365176bd6fad950694cd7a953b3632a820d1",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sk_SK.chunk.0dcfb.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.sk_SK.chunk.0dcfb.js",
+      "size": 4879,
+      "hash": "458f24d831a24ac2f9a685e42178886bc3d6ebc2",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sk_SK.chunk.0dcfb.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.sk_SK.chunk.0dcfb.js",
+      "size": 4879,
+      "hash": "458f24d831a24ac2f9a685e42178886bc3d6ebc2",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sk_SK.chunk.0dcfb.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.sk_SK.chunk.0dcfb.js.map",
+      "size": 102,
+      "hash": "f0fcfa55ce9f0af48e1774d15aa232bbc156e87a",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sk_SK.chunk.0dcfb.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.sk_SK.chunk.0dcfb.js.map",
+      "size": 102,
+      "hash": "f0fcfa55ce9f0af48e1774d15aa232bbc156e87a",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sl_SI.chunk.c3df6.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.sl_SI.chunk.c3df6.js",
+      "size": 4844,
+      "hash": "922cef691fd480a411da6484d6f683b368119ab3",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sl_SI.chunk.c3df6.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.sl_SI.chunk.c3df6.js",
+      "size": 4844,
+      "hash": "922cef691fd480a411da6484d6f683b368119ab3",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sl_SI.chunk.c3df6.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.sl_SI.chunk.c3df6.js.map",
+      "size": 102,
+      "hash": "1eb9d4a3a445eb5ca4ef1ff747d9900f3520fe24",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sl_SI.chunk.c3df6.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.sl_SI.chunk.c3df6.js.map",
+      "size": 102,
+      "hash": "1eb9d4a3a445eb5ca4ef1ff747d9900f3520fe24",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sq.chunk.572f8.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.sq.chunk.572f8.js",
+      "size": 4813,
+      "hash": "322732f888d3ab9ed9f59c952080d47fc831d6c2",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sq.chunk.572f8.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.sq.chunk.572f8.js",
+      "size": 4813,
+      "hash": "322732f888d3ab9ed9f59c952080d47fc831d6c2",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sq.chunk.572f8.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.sq.chunk.572f8.js.map",
+      "size": 99,
+      "hash": "e8c5b959a49bd961aff7d5c251710000dff5d741",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sq.chunk.572f8.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.sq.chunk.572f8.js.map",
+      "size": 99,
+      "hash": "e8c5b959a49bd961aff7d5c251710000dff5d741",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sr.chunk.2ae4d.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.sr.chunk.2ae4d.js",
+      "size": 6502,
+      "hash": "1ad2bccf180e06c17a2c4e956ae64f9e426c2164",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sr.chunk.2ae4d.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.sr.chunk.2ae4d.js",
+      "size": 6502,
+      "hash": "1ad2bccf180e06c17a2c4e956ae64f9e426c2164",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sr.chunk.2ae4d.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.sr.chunk.2ae4d.js.map",
+      "size": 99,
+      "hash": "071cf5e50f16e295f8a9b327d7aae4e06e6bfcd8",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sr.chunk.2ae4d.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.sr.chunk.2ae4d.js.map",
+      "size": 99,
+      "hash": "071cf5e50f16e295f8a9b327d7aae4e06e6bfcd8",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sv.chunk.3751f.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.sv.chunk.3751f.js",
+      "size": 4839,
+      "hash": "2960f68c302cefc09f5fca3287bd5158904a5adc",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sv.chunk.3751f.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.sv.chunk.3751f.js",
+      "size": 4839,
+      "hash": "2960f68c302cefc09f5fca3287bd5158904a5adc",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sv.chunk.3751f.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.sv.chunk.3751f.js.map",
+      "size": 99,
+      "hash": "0f520596edadac3ea33fadde45447e168531b4f5",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.sv.chunk.3751f.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.sv.chunk.3751f.js.map",
+      "size": 99,
+      "hash": "0f520596edadac3ea33fadde45447e168531b4f5",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ta_IN.chunk.f2dc8.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ta_IN.chunk.f2dc8.js",
+      "size": 5139,
+      "hash": "768472ec4c1e80951917085a212db732e8cfbde1",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ta_IN.chunk.f2dc8.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ta_IN.chunk.f2dc8.js",
+      "size": 5139,
+      "hash": "768472ec4c1e80951917085a212db732e8cfbde1",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ta_IN.chunk.f2dc8.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ta_IN.chunk.f2dc8.js.map",
+      "size": 102,
+      "hash": "b49342eed5fd47deec104712ac9d7f51ebb00375",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ta_IN.chunk.f2dc8.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ta_IN.chunk.f2dc8.js.map",
+      "size": 102,
+      "hash": "b49342eed5fd47deec104712ac9d7f51ebb00375",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.th_TH.chunk.91cac.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.th_TH.chunk.91cac.js",
+      "size": 5057,
+      "hash": "f4bd76b4f70d5097275241c502fa7ef432394ac7",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.th_TH.chunk.91cac.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.th_TH.chunk.91cac.js",
+      "size": 5057,
+      "hash": "f4bd76b4f70d5097275241c502fa7ef432394ac7",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.th_TH.chunk.91cac.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.th_TH.chunk.91cac.js.map",
+      "size": 102,
+      "hash": "6fb45e1e00ed42528edd9b258cea81f1638c7fd0",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.th_TH.chunk.91cac.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.th_TH.chunk.91cac.js.map",
+      "size": 102,
+      "hash": "6fb45e1e00ed42528edd9b258cea81f1638c7fd0",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.tr.chunk.18f1e.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.tr.chunk.18f1e.js",
+      "size": 4853,
+      "hash": "8bafcad1fd15ff2fa5f7dd6a88c0a8167fd4fe49",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.tr.chunk.18f1e.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.tr.chunk.18f1e.js",
+      "size": 4853,
+      "hash": "8bafcad1fd15ff2fa5f7dd6a88c0a8167fd4fe49",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.tr.chunk.18f1e.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.tr.chunk.18f1e.js.map",
+      "size": 99,
+      "hash": "93a98ec3803db34edd8c5257a7638913d778a4e4",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.tr.chunk.18f1e.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.tr.chunk.18f1e.js.map",
+      "size": 99,
+      "hash": "93a98ec3803db34edd8c5257a7638913d778a4e4",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ug.chunk.ac1f7.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ug.chunk.ac1f7.js",
+      "size": 4916,
+      "hash": "f07e0e1590cf6eaf69b3b03c6d7d500d6a2feee8",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ug.chunk.ac1f7.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ug.chunk.ac1f7.js",
+      "size": 4916,
+      "hash": "f07e0e1590cf6eaf69b3b03c6d7d500d6a2feee8",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ug.chunk.ac1f7.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.ug.chunk.ac1f7.js.map",
+      "size": 99,
+      "hash": "0a9ea72e297c3d9f6e6215adf9b1af5b944d9875",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.ug.chunk.ac1f7.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.ug.chunk.ac1f7.js.map",
+      "size": 99,
+      "hash": "0a9ea72e297c3d9f6e6215adf9b1af5b944d9875",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.uk.chunk.1c114.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.uk.chunk.1c114.js",
+      "size": 4978,
+      "hash": "2b86f10f7cca01f420d6244e52eb010096e09d31",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.uk.chunk.1c114.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.uk.chunk.1c114.js",
+      "size": 4978,
+      "hash": "2b86f10f7cca01f420d6244e52eb010096e09d31",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.uk.chunk.1c114.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.uk.chunk.1c114.js.map",
+      "size": 99,
+      "hash": "a74463d9efc84981f6bfe5d1f010748688211a6c",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.uk.chunk.1c114.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.uk.chunk.1c114.js.map",
+      "size": 99,
+      "hash": "a74463d9efc84981f6bfe5d1f010748688211a6c",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.vi_VN.chunk.449d4.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.vi_VN.chunk.449d4.js",
+      "size": 4899,
+      "hash": "b24fc3d4ad797858fdc65f91986f31d692edc8a5",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.vi_VN.chunk.449d4.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.vi_VN.chunk.449d4.js",
+      "size": 4899,
+      "hash": "b24fc3d4ad797858fdc65f91986f31d692edc8a5",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.vi_VN.chunk.449d4.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.vi_VN.chunk.449d4.js.map",
+      "size": 102,
+      "hash": "2c2957a661a90cc27989f1ba0d69c6e4c7edcc6c",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.vi_VN.chunk.449d4.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.vi_VN.chunk.449d4.js.map",
+      "size": 102,
+      "hash": "2c2957a661a90cc27989f1ba0d69c6e4c7edcc6c",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.zh.chunk.549ea.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.zh.chunk.549ea.js",
+      "size": 4781,
+      "hash": "ff347e8da44c25620969ffadc2cf4fc225081a19",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.zh.chunk.549ea.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.zh.chunk.549ea.js",
+      "size": 4781,
+      "hash": "ff347e8da44c25620969ffadc2cf4fc225081a19",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.zh.chunk.549ea.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.zh.chunk.549ea.js.map",
+      "size": 99,
+      "hash": "143eb0f6b711be2cfff920fe68f8f4f013563a9a",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.zh.chunk.549ea.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.zh.chunk.549ea.js.map",
+      "size": 99,
+      "hash": "143eb0f6b711be2cfff920fe68f8f4f013563a9a",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.zh_HK.chunk.532bc.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.zh_HK.chunk.532bc.js",
+      "size": 4801,
+      "hash": "2088055ed6976a07f1e86e2272c39487114e4734",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.zh_HK.chunk.532bc.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.zh_HK.chunk.532bc.js",
+      "size": 4801,
+      "hash": "2088055ed6976a07f1e86e2272c39487114e4734",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.zh_HK.chunk.532bc.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.zh_HK.chunk.532bc.js.map",
+      "size": 102,
+      "hash": "b86e5746b2c9c0ba07ea77205e4b807bd0d6241b",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.zh_HK.chunk.532bc.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.zh_HK.chunk.532bc.js.map",
+      "size": 102,
+      "hash": "b86e5746b2c9c0ba07ea77205e4b807bd0d6241b",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.zh_TW.chunk.3560b.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.zh_TW.chunk.3560b.js",
+      "size": 4813,
+      "hash": "a703c45d42da858c8195d9551090a541788e62e8",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.zh_TW.chunk.3560b.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.zh_TW.chunk.3560b.js",
+      "size": 4813,
+      "hash": "a703c45d42da858c8195d9551090a541788e62e8",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.zh_TW.chunk.3560b.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/i18n.zh_TW.chunk.3560b.js.map",
+      "size": 102,
+      "hash": "831a7f5ad0b406f160d53dad42eb7afa24ba6723",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/i18n.zh_TW.chunk.3560b.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/i18n.zh_TW.chunk.3560b.js.map",
+      "size": 102,
+      "hash": "831a7f5ad0b406f160d53dad42eb7afa24ba6723",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/index.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/index.html",
+      "size": 392,
+      "hash": "145624e37567a070c6a6634fcb406ae8cf7ac6ff",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/index.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/index.html",
+      "size": 392,
+      "hash": "145624e37567a070c6a6634fcb406ae8cf7ac6ff",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/polyfills.38c0c.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/polyfills.38c0c.js",
+      "size": 10841,
+      "hash": "7180ff54ac3eb14ada0c497c48904ca652419243",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/polyfills.38c0c.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/polyfills.38c0c.js",
+      "size": 10841,
+      "hash": "7180ff54ac3eb14ada0c497c48904ca652419243",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/polyfills.38c0c.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/polyfills.38c0c.js.map",
+      "size": 36633,
+      "hash": "557e6271ba26e93e96983f455fd7ce2546398236",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/polyfills.38c0c.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/polyfills.38c0c.js.map",
+      "size": 36633,
+      "hash": "557e6271ba26e93e96983f455fd7ce2546398236",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/rocketchat-livechat.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/rocketchat-livechat.min.js",
+      "size": 8044,
+      "hash": "1d6336fd146429affe1943c8351eec51ee3dee7b",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/rocketchat-livechat.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/rocketchat-livechat.min.js",
+      "size": 8044,
+      "hash": "1d6336fd146429affe1943c8351eec51ee3dee7b",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/rocketchat-livechat.min.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/rocketchat-livechat.min.js.map",
+      "size": 26588,
+      "hash": "a08bbdd274cedba9375953366fc822db1283e736",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/rocketchat-livechat.min.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/rocketchat-livechat.min.js.map",
+      "size": 26588,
+      "hash": "a08bbdd274cedba9375953366fc822db1283e736",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/vendors~bundle.chunk.b4ad3.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/vendors~bundle.chunk.b4ad3.js",
+      "size": 175413,
+      "hash": "86332821b1d8541238fe022c13a1d23921a3da60",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/vendors~bundle.chunk.b4ad3.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/vendors~bundle.chunk.b4ad3.js",
+      "size": 175413,
+      "hash": "86332821b1d8541238fe022c13a1d23921a3da60",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/vendors~bundle.chunk.b4ad3.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/vendors~bundle.chunk.b4ad3.js.map",
+      "size": 899440,
+      "hash": "990c894d8641300a1a5f0a9ff279e20f04741f73",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/vendors~bundle.chunk.b4ad3.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/vendors~bundle.chunk.b4ad3.js.map",
+      "size": 899440,
+      "hash": "990c894d8641300a1a5f0a9ff279e20f04741f73",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/widget-demo.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/livechat/widget-demo.html",
+      "size": 4160,
+      "hash": "aa2af80816279f1f4d6d1bd613ba2e0f673e1306",
+      "sri": null
+    },
+    {
+      "path": "app/livechat/widget-demo.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/livechat/widget-demo.html",
+      "size": 4160,
+      "hash": "aa2af80816279f1f4d6d1bd613ba2e0f673e1306",
+      "sri": null
+    },
+    {
+      "path": "app/public/icons.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/public/icons.html",
+      "size": 222095,
+      "hash": "e6fc39576738b0d7eab2144efdd948421e594b63",
+      "sri": null
+    },
+    {
+      "path": "app/public/icons.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/public/icons.html",
+      "size": 222095,
+      "hash": "e6fc39576738b0d7eab2144efdd948421e594b63",
+      "sri": null
+    },
+    {
+      "path": "app/sounds/beep.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/sounds/beep.mp3",
+      "size": 6318,
+      "hash": "900e56446e779c91ea5a73c9adb7b80c38aac052",
+      "sri": null
+    },
+    {
+      "path": "app/sounds/beep.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/sounds/beep.mp3",
+      "size": 6318,
+      "hash": "900e56446e779c91ea5a73c9adb7b80c38aac052",
+      "sri": null
+    },
+    {
+      "path": "app/sounds/chelle.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/sounds/chelle.mp3",
+      "size": 33489,
+      "hash": "dc8cf326423fdc3e69753014740539cec57f7e8e",
+      "sri": null
+    },
+    {
+      "path": "app/sounds/chelle.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/sounds/chelle.mp3",
+      "size": 33489,
+      "hash": "dc8cf326423fdc3e69753014740539cec57f7e8e",
+      "sri": null
+    },
+    {
+      "path": "app/sounds/chime.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/sounds/chime.mp3",
+      "size": 5248,
+      "hash": "52615fd1d2d28eff443f65dae0400c88dd919cae",
+      "sri": null
+    },
+    {
+      "path": "app/sounds/chime.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/sounds/chime.mp3",
+      "size": 5248,
+      "hash": "52615fd1d2d28eff443f65dae0400c88dd919cae",
+      "sri": null
+    },
+    {
+      "path": "app/sounds/ding.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/sounds/ding.mp3",
+      "size": 24737,
+      "hash": "90736a47be832ad665225238b1b704f136a369ce",
+      "sri": null
+    },
+    {
+      "path": "app/sounds/ding.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/sounds/ding.mp3",
+      "size": 24737,
+      "hash": "90736a47be832ad665225238b1b704f136a369ce",
+      "sri": null
+    },
+    {
+      "path": "app/sounds/door.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/sounds/door.mp3",
+      "size": 30137,
+      "hash": "bf4d432afeb826cf518a578e9592280f032609b8",
+      "sri": null
+    },
+    {
+      "path": "app/sounds/door.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/sounds/door.mp3",
+      "size": 30137,
+      "hash": "bf4d432afeb826cf518a578e9592280f032609b8",
+      "sri": null
+    },
+    {
+      "path": "app/sounds/droplet.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/sounds/droplet.mp3",
+      "size": 6059,
+      "hash": "49faa10df2cb30393faa0553d524a4045799d260",
+      "sri": null
+    },
+    {
+      "path": "app/sounds/droplet.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/sounds/droplet.mp3",
+      "size": 6059,
+      "hash": "49faa10df2cb30393faa0553d524a4045799d260",
+      "sri": null
+    },
+    {
+      "path": "app/sounds/highbell.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/sounds/highbell.mp3",
+      "size": 65745,
+      "hash": "5768afaa490488ea3523b70a1ecef0f213923986",
+      "sri": null
+    },
+    {
+      "path": "app/sounds/highbell.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/sounds/highbell.mp3",
+      "size": 65745,
+      "hash": "5768afaa490488ea3523b70a1ecef0f213923986",
+      "sri": null
+    },
+    {
+      "path": "app/sounds/seasons.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/sounds/seasons.mp3",
+      "size": 17664,
+      "hash": "13278d03abca907bc936ace37f751c833a1a81f3",
+      "sri": null
+    },
+    {
+      "path": "app/sounds/seasons.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/sounds/seasons.mp3",
+      "size": 17664,
+      "hash": "13278d03abca907bc936ace37f751c833a1a81f3",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/1024x1024.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/logo/1024x1024.png",
+      "size": 40084,
+      "hash": "96215db7c99b1baae81fa3e7a4408bfda1fbba3e",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/1024x1024.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo/1024x1024.png",
+      "size": 40084,
+      "hash": "96215db7c99b1baae81fa3e7a4408bfda1fbba3e",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/android-chrome-192x192.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/logo/android-chrome-192x192.png",
+      "size": 7063,
+      "hash": "9fdefa9c8765e0f6c37ab8e8eddddc0841c80f90",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/android-chrome-192x192.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo/android-chrome-192x192.png",
+      "size": 7063,
+      "hash": "9fdefa9c8765e0f6c37ab8e8eddddc0841c80f90",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/android-chrome-512x512.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/logo/android-chrome-512x512.png",
+      "size": 23290,
+      "hash": "ea1324e45b091e6ca389c332c740e2c8c69abb28",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/android-chrome-512x512.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo/android-chrome-512x512.png",
+      "size": 23290,
+      "hash": "ea1324e45b091e6ca389c332c740e2c8c69abb28",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/apple-touch-icon-precomposed.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/logo/apple-touch-icon-precomposed.png",
+      "size": 6237,
+      "hash": "75a42d81bd63a7744fccf41af202aa34af5ec439",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/apple-touch-icon-precomposed.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo/apple-touch-icon-precomposed.png",
+      "size": 6237,
+      "hash": "75a42d81bd63a7744fccf41af202aa34af5ec439",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/apple-touch-icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/logo/apple-touch-icon.png",
+      "size": 5564,
+      "hash": "0696e4f9d16af26466d4680cc24a1cf90b01de62",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/apple-touch-icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo/apple-touch-icon.png",
+      "size": 5564,
+      "hash": "0696e4f9d16af26466d4680cc24a1cf90b01de62",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/favicon-16x16.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/logo/favicon-16x16.png",
+      "size": 546,
+      "hash": "46aa6c33500f30e16fa1f53d6f91a5d815e7fb66",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/favicon-16x16.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo/favicon-16x16.png",
+      "size": 546,
+      "hash": "46aa6c33500f30e16fa1f53d6f91a5d815e7fb66",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/favicon-32x32.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/logo/favicon-32x32.png",
+      "size": 1081,
+      "hash": "811077e62c1fe81c336e5b2ae51b9f3e339087d3",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/favicon-32x32.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo/favicon-32x32.png",
+      "size": 1081,
+      "hash": "811077e62c1fe81c336e5b2ae51b9f3e339087d3",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/icon.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/logo/icon.svg",
+      "size": 2567,
+      "hash": "14f96d38ace1b8abda4381d473522d56e830c132",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/icon.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo/icon.svg",
+      "size": 2567,
+      "hash": "14f96d38ace1b8abda4381d473522d56e830c132",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/logo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/logo/logo.png",
+      "size": 17921,
+      "hash": "348ded4e145bb166cdf34470f511a69c584884d1",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/logo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo/logo.png",
+      "size": 17921,
+      "hash": "348ded4e145bb166cdf34470f511a69c584884d1",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/logo.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/logo/logo.svg",
+      "size": 8655,
+      "hash": "eac609fe7e0eaa89d842e00ade36b7efda74f1a4",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/logo.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo/logo.svg",
+      "size": 8655,
+      "hash": "eac609fe7e0eaa89d842e00ade36b7efda74f1a4",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/mstile-144x144.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/logo/mstile-144x144.png",
+      "size": 3427,
+      "hash": "c7d699b3cf22b358784457ca8265f5d90f5476d4",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/mstile-144x144.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo/mstile-144x144.png",
+      "size": 3427,
+      "hash": "c7d699b3cf22b358784457ca8265f5d90f5476d4",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/mstile-150x150.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/logo/mstile-150x150.png",
+      "size": 3365,
+      "hash": "fc031c3a955ded90f379211bc5168386419273bd",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/mstile-150x150.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo/mstile-150x150.png",
+      "size": 3365,
+      "hash": "fc031c3a955ded90f379211bc5168386419273bd",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/mstile-310x150.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/logo/mstile-310x150.png",
+      "size": 3506,
+      "hash": "a6e003b8e53fd9456fcc86cfdc4e4cb5c2f95b52",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/mstile-310x150.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo/mstile-310x150.png",
+      "size": 3506,
+      "hash": "a6e003b8e53fd9456fcc86cfdc4e4cb5c2f95b52",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/mstile-310x310.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/logo/mstile-310x310.png",
+      "size": 5782,
+      "hash": "b73ff96563f588364c7cd0d58534100b51f77489",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/mstile-310x310.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo/mstile-310x310.png",
+      "size": 5782,
+      "hash": "b73ff96563f588364c7cd0d58534100b51f77489",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/mstile-70x70.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/logo/mstile-70x70.png",
+      "size": 2302,
+      "hash": "5660ddddc1f64bc8b54d0d4b3ad009f4a8f9b216",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/mstile-70x70.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo/mstile-70x70.png",
+      "size": 2302,
+      "hash": "5660ddddc1f64bc8b54d0d4b3ad009f4a8f9b216",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/safari-pinned-tab.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/images/logo/safari-pinned-tab.svg",
+      "size": 1858,
+      "hash": "6d6250e75361c7240cdfffd3683970bb1d179727",
+      "sri": null
+    },
+    {
+      "path": "app/images/logo/safari-pinned-tab.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo/safari-pinned-tab.svg",
+      "size": 1858,
+      "hash": "6d6250e75361c7240cdfffd3683970bb1d179727",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/activity-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/packages/emojione/activity-sprites.png",
+      "size": 837136,
+      "hash": "799c5b8432547861cbbb32ec320dde4ef51f1347",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/activity-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/emojione/activity-sprites.png",
+      "size": 837136,
+      "hash": "799c5b8432547861cbbb32ec320dde4ef51f1347",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/flags-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/packages/emojione/flags-sprites.png",
+      "size": 465145,
+      "hash": "c072ba5cdbd419e96834b7ef6934491ad596de93",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/flags-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/emojione/flags-sprites.png",
+      "size": 465145,
+      "hash": "c072ba5cdbd419e96834b7ef6934491ad596de93",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/food-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/packages/emojione/food-sprites.png",
+      "size": 413969,
+      "hash": "1ba522cb74a1e1f419a886a123f76b0d2bbeaff7",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/food-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/emojione/food-sprites.png",
+      "size": 413969,
+      "hash": "1ba522cb74a1e1f419a886a123f76b0d2bbeaff7",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/modifier-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/packages/emojione/modifier-sprites.png",
+      "size": 4358,
+      "hash": "f57433e0282c36cb1ebfa38401031ce2689a21a3",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/modifier-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/emojione/modifier-sprites.png",
+      "size": 4358,
+      "hash": "f57433e0282c36cb1ebfa38401031ce2689a21a3",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/nature-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/packages/emojione/nature-sprites.png",
+      "size": 659156,
+      "hash": "2e8e4be74f828ac49b326104442e443b516436b6",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/nature-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/emojione/nature-sprites.png",
+      "size": 659156,
+      "hash": "2e8e4be74f828ac49b326104442e443b516436b6",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/objects-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/packages/emojione/objects-sprites.png",
+      "size": 552504,
+      "hash": "1fb365348eac52cee5c48b23875b9e03ad4f6b94",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/objects-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/emojione/objects-sprites.png",
+      "size": 552504,
+      "hash": "1fb365348eac52cee5c48b23875b9e03ad4f6b94",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/people-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/packages/emojione/people-sprites.png",
+      "size": 3452500,
+      "hash": "00d123f7cf817a060c4c5500fa4e17f55c7daefa",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/people-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/emojione/people-sprites.png",
+      "size": 3452500,
+      "hash": "00d123f7cf817a060c4c5500fa4e17f55c7daefa",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/regional-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/packages/emojione/regional-sprites.png",
+      "size": 20555,
+      "hash": "cd2671cee37a166899743c2f035539922a7dc461",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/regional-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/emojione/regional-sprites.png",
+      "size": 20555,
+      "hash": "cd2671cee37a166899743c2f035539922a7dc461",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/symbols-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/packages/emojione/symbols-sprites.png",
+      "size": 478409,
+      "hash": "855f2aa99ba576c44092d0f14d9fdf63462a8575",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/symbols-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/emojione/symbols-sprites.png",
+      "size": 478409,
+      "hash": "855f2aa99ba576c44092d0f14d9fdf63462a8575",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/travel-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/packages/emojione/travel-sprites.png",
+      "size": 340248,
+      "hash": "6badb3e87e6ced088008be423e3d3c20aba6cb25",
+      "sri": null
+    },
+    {
+      "path": "packages/emojione/travel-sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/emojione/travel-sprites.png",
+      "size": 340248,
+      "hash": "6badb3e87e6ced088008be423e3d3c20aba6cb25",
+      "sri": null
+    },
+    {
+      "path": "app/workers/mp3-encoder/index.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/workers/mp3-encoder/index.js",
+      "size": 533479,
+      "hash": "bdec3d28419d61b0cd561227d769d1be7ef06baa",
+      "sri": null
+    },
+    {
+      "path": "app/workers/mp3-encoder/index.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/workers/mp3-encoder/index.js",
+      "size": 533479,
+      "hash": "bdec3d28419d61b0cd561227d769d1be7ef06baa",
+      "sri": null
+    },
+    {
+      "path": "app/workers/mp3-encoder/index.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/workers/mp3-encoder/index.js.map",
+      "size": 1140890,
+      "hash": "bba61d08ee58d98960e85caa4a2808e5adcb86ee",
+      "sri": null
+    },
+    {
+      "path": "app/workers/mp3-encoder/index.js.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/workers/mp3-encoder/index.js.map",
+      "size": 1140890,
+      "hash": "bba61d08ee58d98960e85caa4a2808e5adcb86ee",
+      "sri": null
+    },
+    {
+      "path": "app/client/vendor/fontello/demo.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/client/vendor/fontello/demo.html",
+      "size": 101502,
+      "hash": "ff9e20ce6c57e0ccc73ffa93c7f6f439ee96e937",
+      "sri": null
+    },
+    {
+      "path": "app/client/vendor/fontello/demo.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/client/vendor/fontello/demo.html",
+      "size": 101502,
+      "hash": "ff9e20ce6c57e0ccc73ffa93c7f6f439ee96e937",
+      "sri": null
+    },
+    {
+      "path": "app/client/vendor/fontello/utf8-rtl.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/client/vendor/fontello/utf8-rtl.html",
+      "size": 30889,
+      "hash": "a8778e8fb10fa19e98fec0212776d56669466c97",
+      "sri": null
+    },
+    {
+      "path": "app/client/vendor/fontello/utf8-rtl.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/client/vendor/fontello/utf8-rtl.html",
+      "size": 30889,
+      "hash": "a8778e8fb10fa19e98fec0212776d56669466c97",
+      "sri": null
+    },
+    {
+      "path": "packages/rocketchat_videobridge/client/public/external_api.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/packages/rocketchat_videobridge/client/public/external_api.js",
+      "size": 15209,
+      "hash": "c9a234d8963e844bd67cee64eddd5f5bee0b9eef",
+      "sri": null
+    },
+    {
+      "path": "packages/rocketchat_videobridge/client/public/external_api.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_videobridge/client/public/external_api.js",
+      "size": 15209,
+      "hash": "c9a234d8963e844bd67cee64eddd5f5bee0b9eef",
+      "sri": null
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "39cf3b15ca78ded6a5498bf2bc3f05e3c332e5eb"
+    }
+  ],
+  "cordovaCompatibilityVersions": {
+    "android": "f32694a9762e9bdba17491424b513da88e67e03c",
+    "ios": "568858946cc0177bdaf19fde387abce88b3fc311"
+  }
+}

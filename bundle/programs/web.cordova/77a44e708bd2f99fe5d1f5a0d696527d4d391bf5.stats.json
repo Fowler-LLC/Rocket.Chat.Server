@@ -1,0 +1,6178 @@
+{
+  "minifier": {
+    "name": "standard-minifier-js",
+    "version": "2.6.0"
+  },
+  "totalMinifiedBytes": 10342767,
+  "totalMinifiedGzipBytes": 2672176,
+  "minifiedBytesByPackage": {
+    "packages/meteor.js": 9639,
+    "packages/modules-runtime.js": 4269,
+    "packages/modules.js": [
+      6595164,
+      {
+        "node_modules": {
+          "meteor": {
+            "modules": {
+              "client.js": 126,
+              "legacy.js": 59,
+              "css.js": 263,
+              "install-packages.js": 3990,
+              "process.js": 415,
+              "reify.js": 73,
+              "stubs.js": 99,
+              "node_modules": {
+                "reify": {
+                  "lib": {
+                    "runtime": {
+                      "index.js": 911,
+                      "utils.js": 1222,
+                      "entry.js": 3047
+                    }
+                  }
+                },
+                "meteor-babel-helpers": {
+                  "package.json": 90,
+                  "index.js": 408
+                }
+              }
+            }
+          },
+          "codemirror": {
+            "lib": {
+              "codemirror.css": 5764,
+              "codemirror.js": 171930
+            },
+            "addon": {
+              "dialog": {
+                "dialog.css": 471,
+                "dialog.js": 2367
+              },
+              "fold": {
+                "foldgutter.css": 439,
+                "brace-fold.js": 1912,
+                "comment-fold.js": 1015,
+                "foldcode.js": 2570,
+                "foldgutter.js": 2731,
+                "indent-fold.js": 646,
+                "markdown-fold.js": 711,
+                "xml-fold.js": 3245
+              },
+              "selection": {
+                "active-line.js": 1345
+              },
+              "search": {
+                "search.js": 5441,
+                "searchcursor.js": 5307
+              },
+              "mode": {
+                "overlay.js": 1318,
+                "simple.js": 4054,
+                "multiplex.js": 2214
+              },
+              "edit": {
+                "continuelist.js": 1517,
+                "matchbrackets.js": 3073
+              }
+            },
+            "mode": {
+              "apl": {
+                "apl.js": 2675
+              },
+              "asterisk": {
+                "asterisk.js": 4629
+              },
+              "clike": {
+                "clike.js": 20869
+              },
+              "clojure": {
+                "clojure.js": 11129
+              },
+              "cobol": {
+                "cobol.js": 6453
+              },
+              "commonlisp": {
+                "commonlisp.js": 2533
+              },
+              "coffeescript": {
+                "coffeescript.js": 4215
+              },
+              "css": {
+                "css.js": 27104
+              },
+              "cypher": {
+                "cypher.js": 4082
+              },
+              "d": {
+                "d.js": 4009
+              },
+              "diff": {
+                "diff.js": 553
+              },
+              "django": {
+                "django.js": 4811
+              },
+              "htmlmixed": {
+                "htmlmixed.js": 2885
+              },
+              "xml": {
+                "xml.js": 6002
+              },
+              "javascript": {
+                "javascript.js": 17095
+              },
+              "dockerfile": {
+                "dockerfile.js": 2190
+              },
+              "dtd": {
+                "dtd.js": 2284
+              },
+              "dylan": {
+                "dylan.js": 4239
+              },
+              "ecl": {
+                "ecl.js": 5365
+              },
+              "eiffel": {
+                "eiffel.js": 2056
+              },
+              "erlang": {
+                "erlang.js": 8331
+              },
+              "fortran": {
+                "fortran.js": 4905
+              },
+              "gas": {
+                "gas.js": 4442
+              },
+              "gfm": {
+                "gfm.js": 2740
+              },
+              "markdown": {
+                "markdown.js": 14990
+              },
+              "meta.js": 12721,
+              "gherkin": {
+                "gherkin.js": 10406
+              },
+              "go": {
+                "go.js": 3055
+              },
+              "groovy": {
+                "groovy.js": 4133
+              },
+              "haml": {
+                "haml.js": 2260
+              },
+              "ruby": {
+                "ruby.js": 5355
+              },
+              "haskell": {
+                "haskell.js": 4558
+              },
+              "haxe": {
+                "haxe.js": 8160
+              },
+              "htmlembedded": {
+                "htmlembedded.js": 1051
+              },
+              "http": {
+                "http.js": 1248
+              },
+              "idl": {
+                "idl.js": 11958
+              },
+              "jinja2": {
+                "jinja2.js": 2167
+              },
+              "julia": {
+                "julia.js": 6239
+              },
+              "livescript": {
+                "livescript.js": 4415
+              },
+              "lua": {
+                "lua.js": 3636
+              },
+              "mirc": {
+                "mirc.js": 6161
+              },
+              "mllike": {
+                "mllike.js": 5082
+              },
+              "modelica": {
+                "modelica.js": 3309
+              },
+              "nginx": {
+                "nginx.js": 7539
+              },
+              "ntriples": {
+                "ntriples.js": 2474
+              },
+              "octave": {
+                "octave.js": 2564
+              },
+              "pascal": {
+                "pascal.js": 2440
+              },
+              "pegjs": {
+                "pegjs.js": 1636
+              },
+              "perl": {
+                "perl.js": 9846
+              },
+              "php": {
+                "php.js": 13931
+              },
+              "pig": {
+                "pig.js": 2888
+              },
+              "properties": {
+                "properties.js": 955
+              },
+              "puppet": {
+                "puppet.js": 2766
+              },
+              "python": {
+                "python.js": 6475
+              },
+              "q": {
+                "q.js": 4244
+              },
+              "r": {
+                "r.js": 3232
+              },
+              "rpm": {
+                "rpm.js": 1967
+              },
+              "rst": {
+                "rst.js": 6603
+              },
+              "stex": {
+                "stex.js": 3317
+              },
+              "rust": {
+                "rust.js": 2376
+              },
+              "sass": {
+                "sass.js": 4653
+              },
+              "scheme": {
+                "scheme.js": 6254
+              },
+              "shell": {
+                "shell.js": 2561
+              },
+              "sieve": {
+                "sieve.js": 1881
+              },
+              "slim": {
+                "slim.js": 7528
+              },
+              "smalltalk": {
+                "smalltalk.js": 2213
+              },
+              "smarty": {
+                "smarty.js": 3007
+              },
+              "solr": {
+                "solr.js": 1173
+              },
+              "sparql": {
+                "sparql.js": 3631
+              },
+              "sql": {
+                "sql.js": 37501
+              },
+              "tcl": {
+                "tcl.js": 2574
+              },
+              "textile": {
+                "textile.js": 7069
+              },
+              "tiddlywiki": {
+                "tiddlywiki.js": 3072
+              },
+              "tiki": {
+                "tiki.js": 3583
+              },
+              "toml": {
+                "toml.js": 1243
+              },
+              "tornado": {
+                "tornado.js": 1406
+              },
+              "turtle": {
+                "turtle.js": 2180
+              },
+              "vb": {
+                "vb.js": 4241
+              },
+              "vbscript": {
+                "vbscript.js": 6139
+              },
+              "velocity": {
+                "velocity.js": 2903
+              },
+              "verilog": {
+                "verilog.js": 9023
+              },
+              "xquery": {
+                "xquery.js": 6898
+              },
+              "yaml": {
+                "yaml.js": 1821
+              },
+              "z80": {
+                "z80.js": 1982
+              }
+            },
+            "keymap": {
+              "sublime.js": 15156
+            }
+          },
+          "highlight.js": {
+            "styles": {
+              "github.css": 916
+            },
+            "package.json": 89,
+            "lib": {
+              "index.js": 9746,
+              "highlight.js": 12651,
+              "languages": {
+                "1c.js": 55156,
+                "abnf.js": 615,
+                "accesslog.js": 733,
+                "actionscript.js": 1286,
+                "ada.js": 1980,
+                "angelscript.js": 1481,
+                "apache.js": 659,
+                "applescript.js": 2319,
+                "arcade.js": 2786,
+                "cpp.js": 4224,
+                "arduino.js": 3763,
+                "armasm.js": 2989,
+                "xml.js": 1855,
+                "asciidoc.js": 1715,
+                "aspectj.js": 2410,
+                "autohotkey.js": 867,
+                "autoit.js": 6426,
+                "avrasm.js": 1928,
+                "awk.js": 640,
+                "axapta.js": 783,
+                "bash.js": 1537,
+                "basic.js": 1422,
+                "bnf.js": 248,
+                "brainfuck.js": 363,
+                "cal.js": 961,
+                "capnproto.js": 793,
+                "ceylon.js": 1073,
+                "clean.js": 518,
+                "clojure.js": 3387,
+                "clojure-repl.js": 146,
+                "cmake.js": 2401,
+                "coffeescript.js": 1893,
+                "coq.js": 3444,
+                "cos.js": 1296,
+                "crmsh.js": 1379,
+                "crystal.js": 3528,
+                "cs.js": 3027,
+                "csp.js": 408,
+                "css.js": 1531,
+                "d.js": 2240,
+                "markdown.js": 1100,
+                "dart.js": 1733,
+                "delphi.js": 1821,
+                "diff.js": 548,
+                "django.js": 1730,
+                "dns.js": 1714,
+                "dockerfile.js": 377,
+                "dos.js": 1097,
+                "dsconfig.js": 583,
+                "dts.js": 1306,
+                "dust.js": 429,
+                "ebnf.js": 357,
+                "elixir.js": 2185,
+                "elm.js": 1099,
+                "ruby.js": 2726,
+                "erb.js": 182,
+                "erlang-repl.js": 668,
+                "erlang.js": 1793,
+                "excel.js": 4276,
+                "fix.js": 367,
+                "flix.js": 582,
+                "fortran.js": 4407,
+                "fsharp.js": 1075,
+                "gams.js": 2857,
+                "gauss.js": 12942,
+                "gcode.js": 968,
+                "gherkin.js": 500,
+                "glsl.js": 8289,
+                "gml.js": 50245,
+                "go.js": 934,
+                "golo.js": 513,
+                "gradle.js": 1509,
+                "groovy.js": 1303,
+                "haml.js": 1007,
+                "handlebars.js": 1040,
+                "haskell.js": 1642,
+                "haxe.js": 1924,
+                "hsp.js": 3339,
+                "htmlbars.js": 979,
+                "http.js": 539,
+                "hy.js": 2934,
+                "inform7.js": 651,
+                "ini.js": 813,
+                "irpf90.js": 4626,
+                "isbl.js": 72569,
+                "java.js": 1724,
+                "javascript.js": 3318,
+                "jboss-cli.js": 850,
+                "json.js": 550,
+                "julia.js": 4186,
+                "julia-repl.js": 177,
+                "kotlin.js": 3054,
+                "lasso.js": 2943,
+                "ldif.js": 311,
+                "leaf.js": 404,
+                "less.js": 1962,
+                "lisp.js": 1153,
+                "livecodeserver.js": 8169,
+                "livescript.js": 2358,
+                "llvm.js": 2304,
+                "lsl.js": 12466,
+                "lua.js": 1892,
+                "makefile.js": 1021,
+                "mathematica.js": 95548,
+                "matlab.js": 2269,
+                "maxima.js": 28678,
+                "mel.js": 16509,
+                "mercury.js": 2027,
+                "mipsasm.js": 2340,
+                "mizar.js": 690,
+                "perl.js": 3298,
+                "mojolicious.js": 265,
+                "monkey.js": 1289,
+                "moonscript.js": 1649,
+                "n1ql.js": 2983,
+                "nginx.js": 1333,
+                "nimrod.js": 1396,
+                "nix.js": 607,
+                "nsis.js": 5032,
+                "objectivec.js": 2447,
+                "ocaml.js": 1214,
+                "openscad.js": 1262,
+                "oxygene.js": 1882,
+                "parser3.js": 532,
+                "pf.js": 1238,
+                "pgsql.js": 18858,
+                "php.js": 2061,
+                "plaintext.js": 70,
+                "pony.js": 935,
+                "powershell.js": 3905,
+                "processing.js": 3078,
+                "profile.js": 454,
+                "prolog.js": 657,
+                "properties.js": 604,
+                "protobuf.js": 627,
+                "puppet.js": 4050,
+                "purebasic.js": 1565,
+                "python.js": 1780,
+                "q.js": 1129,
+                "qml.js": 2640,
+                "r.js": 947,
+                "reasonml.js": 3260,
+                "rib.js": 1263,
+                "roboconf.js": 673,
+                "routeros.js": 2834,
+                "rsl.js": 1028,
+                "ruleslanguage.js": 3807,
+                "rust.js": 2190,
+                "sas.js": 3658,
+                "scala.js": 1483,
+                "scheme.js": 3294,
+                "scilab.js": 1186,
+                "scss.js": 6238,
+                "shell.js": 179,
+                "smali.js": 1088,
+                "smalltalk.js": 580,
+                "sml.js": 1098,
+                "sqf.js": 32208,
+                "sql.js": 12176,
+                "stan.js": 7445,
+                "stata.js": 16674,
+                "step21.js": 590,
+                "stylus.js": 5185,
+                "subunit.js": 491,
+                "swift.js": 3420,
+                "taggerscript.js": 371,
+                "yaml.js": 1122,
+                "tap.js": 357,
+                "tcl.js": 1659,
+                "tex.js": 643,
+                "thrift.js": 576,
+                "tp.js": 1432,
+                "twig.js": 1137,
+                "typescript.js": 2944,
+                "vala.js": 891,
+                "vbnet.js": 1776,
+                "vbscript.js": 1393,
+                "vbscript-html.js": 123,
+                "verilog.js": 4839,
+                "vhdl.js": 1680,
+                "vim.js": 8554,
+                "x86asm.js": 18984,
+                "xl.js": 1610,
+                "xquery.js": 5387,
+                "zephir.js": 1890
+              }
+            }
+          },
+          "katex": {
+            "dist": {
+              "katex.min.css": 22205,
+              "katex.js": 253039
+            },
+            "package.json": 81
+          },
+          "photoswipe": {
+            "dist": {
+              "photoswipe.css": 2133,
+              "photoswipe.js": 31882,
+              "photoswipe-ui-default.js": 9910
+            },
+            "package.json": 90
+          },
+          "toastr": {
+            "build": {
+              "toastr.min.css": 6253
+            },
+            "package.json": 77,
+            "toastr.js": 5898
+          },
+          "@babel": {
+            "runtime": {
+              "helpers": {
+                "toConsumableArray.js": 192,
+                "arrayWithoutHoles.js": 106,
+                "arrayLikeToArray.js": 136,
+                "iterableToArray.js": 125,
+                "unsupportedIterableToArray.js": 346,
+                "nonIterableSpread.js": 199,
+                "slicedToArray.js": 198,
+                "arrayWithHoles.js": 73,
+                "iterableToArrayLimit.js": 330,
+                "nonIterableRest.js": 204,
+                "objectSpread2.js": 633,
+                "defineProperty.js": 150,
+                "typeof.js": 285,
+                "createSuper.js": 300,
+                "getPrototypeOf.js": 172,
+                "isNativeReflectConstruct.js": 280,
+                "possibleConstructorReturn.js": 161,
+                "assertThisInitialized.js": 153,
+                "inheritsLoose.js": 125,
+                "createForOfIteratorHelperLoose.js": 502,
+                "objectWithoutProperties.js": 313,
+                "objectWithoutPropertiesLoose.js": 164,
+                "createClass.js": 253,
+                "extends.js": 248,
+                "taggedTemplateLiteralLoose.js": 81,
+                "interopRequireDefault.js": 81,
+                "toArray.js": 187
+              },
+              "regenerator": {
+                "index.js": 53
+              },
+              "package.json": 550
+            }
+          },
+          "@rocket.chat": {
+            "fuselage-polyfills": {
+              "package.json": 102,
+              "index.js": 187
+            },
+            "fuselage-hooks": {
+              "package.json": 133,
+              "dist": {
+                "index.js": 10563
+              }
+            },
+            "fuselage": {
+              "package.json": 92,
+              "index.js": 63,
+              "dist": {
+                "fuselage.production.js": 229961,
+                "fuselage.development.js": 322681
+              }
+            },
+            "icons": {
+              "package.json": 94,
+              "dist": {
+                "index.js": 3204
+              }
+            },
+            "css-in-js": {
+              "package.json": 128,
+              "dist": {
+                "index.js": 5746
+              }
+            },
+            "apps-engine": {
+              "client": {
+                "AppClientManager.js": 1514,
+                "AppsEngineUIHost.js": 1971,
+                "constants": {
+                  "index.js": 133
+                },
+                "definition": {
+                  "index.js": 210,
+                  "AppsEngineUIMethods.js": 210
+                },
+                "AppServerCommunicator.js": 147
+              },
+              "definition": {
+                "AppStatus.js": 1124,
+                "uikit": {
+                  "index.js": 339,
+                  "IUIKitIncomingInteraction.js": 244,
+                  "IUIKitView.js": 168,
+                  "IUIKitInteractionType.js": 254,
+                  "UIKitInteractionContext.js": 1391,
+                  "UIKitInteractionResponder.js": 1079,
+                  "UIKitInteractionPayloadFormatter.js": 793,
+                  "blocks": {
+                    "index.js": 257,
+                    "Blocks.js": 407,
+                    "Objects.js": 185,
+                    "Elements.js": 409,
+                    "BlockBuilder.js": 2973
+                  },
+                  "livechat": {
+                    "index.js": 222,
+                    "UIKitLivechatInteractionContext.js": 905
+                  },
+                  "UIKitIncomingInteractionContainer.js": 220
+                }
+              }
+            },
+            "fuselage-ui-kit": {
+              "package.json": 99,
+              "index.js": 70,
+              "dist": {
+                "fuselage-ui-kit.production.js": 30181,
+                "fuselage-ui-kit.development.js": 46219
+              }
+            },
+            "ui-kit": {
+              "package.json": 95,
+              "dist": {
+                "index.js": 5270
+              }
+            }
+          },
+          "focus-visible": {
+            "package.json": 96,
+            "dist": {
+              "focus-visible.js": 3065
+            }
+          },
+          "@juggle": {
+            "resize-observer": {
+              "package.json": 159,
+              "lib": {
+                "exports": {
+                  "resize-observer.umd.js": 8438
+                }
+              }
+            }
+          },
+          "clipboard-polyfill": {
+            "package.json": 146,
+            "dist": {
+              "clipboard-polyfill.js": 6458
+            }
+          },
+          "url-polyfill": {
+            "package.json": 90,
+            "url-polyfill.js": 6100
+          },
+          "regenerator-runtime": {
+            "package.json": 92,
+            "runtime.js": 6288
+          },
+          "underscore": {
+            "package.json": 116,
+            "underscore.js": 17633
+          },
+          "underscore.string": {
+            "package.json": 89,
+            "index.js": 2810,
+            "isBlank.js": 99,
+            "helper": {
+              "makeString.js": 66,
+              "defaultToWhiteSpace.js": 121,
+              "escapeRegExp.js": 124,
+              "escapeChars.js": 159,
+              "htmlEntities.js": 147,
+              "toPositive.js": 62,
+              "adjacent.js": 161,
+              "strRepeat.js": 111
+            },
+            "stripTags.js": 112,
+            "capitalize.js": 162,
+            "decapitalize.js": 124,
+            "chop.js": 129,
+            "trim.js": 223,
+            "clean.js": 95,
+            "cleanDiacritics.js": 411,
+            "count.js": 144,
+            "chars.js": 96,
+            "swapCase.js": 175,
+            "escapeHTML.js": 216,
+            "unescapeHTML.js": 311,
+            "splice.js": 117,
+            "insert.js": 85,
+            "replaceAll.js": 143,
+            "include.js": 111,
+            "join.js": 140,
+            "lines.js": 89,
+            "dedent.js": 320,
+            "reverse.js": 93,
+            "startsWith.js": 185,
+            "endsWith.js": 215,
+            "pred.js": 87,
+            "succ.js": 86,
+            "titleize.js": 163,
+            "camelize.js": 182,
+            "underscored.js": 148,
+            "dasherize.js": 137,
+            "classify.js": 174,
+            "humanize.js": 157,
+            "ltrim.js": 215,
+            "rtrim.js": 213,
+            "truncate.js": 137,
+            "prune.js": 405,
+            "words.js": 118,
+            "pad.js": 326,
+            "lpad.js": 80,
+            "rpad.js": 88,
+            "lrpad.js": 87,
+            "sprintf.js": 172,
+            "vsprintf.js": 174,
+            "toNumber.js": 125,
+            "numberFormat.js": 223,
+            "strRight.js": 154,
+            "strRightBack.js": 158,
+            "strLeft.js": 138,
+            "strLeftBack.js": 137,
+            "toSentence.js": 175,
+            "toSentenceSerial.js": 90,
+            "slugify.js": 166,
+            "surround.js": 68,
+            "quote.js": 86,
+            "unquote.js": 113,
+            "repeat.js": 186,
+            "naturalCmp.js": 338,
+            "levenshtein.js": 391,
+            "toBoolean.js": 338,
+            "exports.js": 173,
+            "wrap.js": 531,
+            "map.js": 143
+          },
+          "util-deprecate": {
+            "package.json": 104,
+            "browser.js": 397
+          },
+          "sprintf-js": {
+            "package.json": 86,
+            "src": {
+              "sprintf.js": 3222
+            }
+          },
+          "jquery": {
+            "package.json": 82,
+            "dist": {
+              "jquery.js": 90148
+            }
+          },
+          "mem": {
+            "package.json": 57,
+            "index.js": 976,
+            "node_modules": {
+              "mimic-fn": {
+                "package.json": 62,
+                "index.js": 1294
+              }
+            }
+          },
+          "map-age-cleaner": {
+            "package.json": 90,
+            "dist": {
+              "index.js": 1990
+            }
+          },
+          "p-defer": {
+            "package.json": 61,
+            "index.js": 162
+          },
+          "localforage": {
+            "package.json": 92,
+            "dist": {
+              "localforage.js": 29865
+            }
+          },
+          "wolfy87-eventemitter": {
+            "package.json": 97,
+            "EventEmitter.js": 3078
+          },
+          "react": {
+            "package.json": 77,
+            "index.js": 76,
+            "cjs": {
+              "react.production.min.js": 6455,
+              "react.development.js": 270
+            }
+          },
+          "object-assign": {
+            "package.json": 67,
+            "index.js": 998
+          },
+          "prop-types": {
+            "checkPropTypes.js": 136,
+            "lib": {
+              "ReactPropTypesSecret.js": 96
+            },
+            "package.json": 81,
+            "index.js": 70,
+            "factoryWithTypeCheckers.js": 5645,
+            "factoryWithThrowingShims.js": 678
+          },
+          "react-dom": {
+            "package.json": 177,
+            "index.js": 289,
+            "cjs": {
+              "react-dom.production.min.js": 117319,
+              "react-dom.development.js": 276
+            }
+          },
+          "scheduler": {
+            "package.json": 80,
+            "index.js": 108,
+            "cjs": {
+              "scheduler.production.min.js": 4853,
+              "scheduler.development.js": 350,
+              "scheduler-tracing.production.min.js": 625,
+              "scheduler-tracing.development.js": 281
+            },
+            "tracing.js": 116
+          },
+          "use-subscription": {
+            "package.json": 70,
+            "index.js": 87,
+            "cjs": {
+              "use-subscription.production.min.js": 821,
+              "use-subscription.development.js": 279
+            }
+          },
+          "@emotion": {
+            "hash": {
+              "package.json": 227,
+              "dist": {
+                "hash.cjs.js": 54,
+                "hash.browser.cjs.js": 641
+              }
+            },
+            "stylis": {
+              "package.json": 241,
+              "dist": {
+                "stylis.cjs.js": 58,
+                "stylis.browser.cjs.js": 8300
+              }
+            }
+          },
+          "react-keyed-flatten-children": {
+            "package.json": 98,
+            "index.js": 457
+          },
+          "react-is": {
+            "package.json": 79,
+            "index.js": 79,
+            "cjs": {
+              "react-is.production.min.js": 2165,
+              "react-is.development.js": 272
+            }
+          },
+          "semver": {
+            "package.json": 77,
+            "semver.js": 15670
+          },
+          "marked": {
+            "package.json": 83,
+            "lib": {
+              "marked.js": 23461
+            }
+          },
+          "moment": {
+            "package.json": 80,
+            "moment.js": 60515
+          },
+          "clipboard": {
+            "package.json": 88,
+            "dist": {
+              "clipboard.js": 10782
+            }
+          },
+          "url": {
+            "package.json": 74,
+            "url.js": 7205,
+            "node_modules": {
+              "punycode": {
+                "package.json": 81,
+                "punycode.js": 2714
+              }
+            }
+          },
+          "querystring": {
+            "package.json": 65,
+            "index.js": 95,
+            "decode.js": 548,
+            "encode.js": 533
+          },
+          "bytebuffer": {
+            "package.json": 124,
+            "dist": {
+              "bytebuffer.js": 43627
+            },
+            "node_modules": {
+              "long": {
+                "package.json": 78,
+                "dist": {
+                  "long.js": 7770
+                }
+              }
+            }
+          },
+          "emojione": {
+            "package.json": 88,
+            "lib": {
+              "js": {
+                "emojione.js": 594577
+              }
+            }
+          },
+          "uuid": {
+            "package.json": 184,
+            "lib": {
+              "rng.js": 39,
+              "rng-browser.js": 449,
+              "bytesToUuid.js": 317
+            },
+            "v1.js": 861
+          },
+          "mime-type": {
+            "with-db.js": 155,
+            "lib": {
+              "mime-type.js": 3220
+            }
+          },
+          "util-ex": {
+            "lib": {
+              "defineProperty.js": 438,
+              "is": {
+                "type": {
+                  "object.js": 78,
+                  "array.js": 138,
+                  "string.js": 66,
+                  "function.js": 70,
+                  "null-or-undefined.js": 56
+                }
+              }
+            }
+          },
+          "mime-db": {
+            "package.json": 62,
+            "index.js": 113,
+            "db.json": 131530
+          },
+          "minimatch": {
+            "package.json": 83,
+            "minimatch.js": 7442
+          },
+          "meteor-node-stubs": {
+            "deps": {
+              "path.js": 35,
+              "zlib.js": 35,
+              "stream.js": 37,
+              "fs.js": 14,
+              "http.js": 31,
+              "https.js": 36,
+              "tty.js": 34
+            },
+            "node_modules": {
+              "path-browserify": {
+                "package.json": 85,
+                "index.js": 4173
+              },
+              "browserify-zlib": {
+                "package.json": 89,
+                "lib": {
+                  "index.js": 8018,
+                  "binding.js": 5867
+                }
+              },
+              "buffer": {
+                "package.json": 76,
+                "index.js": 20562
+              },
+              "base64-js": {
+                "package.json": 79,
+                "index.js": 1446
+              },
+              "ieee754": {
+                "package.json": 78,
+                "index.js": 883
+              },
+              "stream-browserify": {
+                "package.json": 87,
+                "index.js": 1116,
+                "node_modules": {
+                  "readable-stream": {
+                    "package.json": 300,
+                    "readable.js": 113,
+                    "writable.js": 113,
+                    "duplex.js": 111,
+                    "lib": {
+                      "internal": {
+                        "streams": {
+                          "stream.js": 132,
+                          "stream-browser.js": 53,
+                          "BufferList.js": 1270,
+                          "destroy.js": 960
+                        }
+                      },
+                      "_stream_readable.js": 10733,
+                      "_stream_duplex.js": 1273,
+                      "_stream_writable.js": 7264,
+                      "_stream_transform.js": 2024,
+                      "_stream_passthrough.js": 254
+                    },
+                    "readable-browser.js": 257,
+                    "node_modules": {
+                      "inherits": {
+                        "package.json": 115,
+                        "inherits_browser.js": 319
+                      }
+                    },
+                    "writable-browser.js": 59,
+                    "duplex-browser.js": 57,
+                    "transform.js": 54,
+                    "passthrough.js": 56
+                  },
+                  "string_decoder": {
+                    "package.json": 97,
+                    "lib": {
+                      "string_decoder.js": 3589
+                    }
+                  }
+                }
+              },
+              "events": {
+                "package.json": 79,
+                "events.js": 5774
+              },
+              "inherits": {
+                "package.json": 115,
+                "inherits_browser.js": 319
+              },
+              "process-nextick-args": {
+                "package.json": 90,
+                "index.js": 701
+              },
+              "isarray": {
+                "package.json": 77,
+                "index.js": 108
+              },
+              "safe-buffer": {
+                "package.json": 81,
+                "index.js": 739
+              },
+              "core-util-is": {
+                "package.json": 85,
+                "lib": {
+                  "util.js": 981
+                }
+              },
+              "util": {
+                "package.json": 141,
+                "support": {
+                  "isBuffer.js": 78,
+                  "isBufferBrowser.js": 158
+                },
+                "util.js": 7768,
+                "node_modules": {
+                  "inherits": {
+                    "package.json": 115,
+                    "inherits_browser.js": 319
+                  }
+                }
+              },
+              "util-deprecate": {
+                "package.json": 104,
+                "browser.js": 397
+              },
+              "assert": {
+                "package.json": 79,
+                "assert.js": 4555,
+                "node_modules": {
+                  "util": {
+                    "package.json": 141,
+                    "support": {
+                      "isBuffer.js": 98,
+                      "isBufferBrowser.js": 158
+                    },
+                    "util.js": 6106
+                  }
+                }
+              },
+              "pako": {
+                "lib": {
+                  "zlib": {
+                    "zstream.js": 244,
+                    "deflate.js": 14413,
+                    "trees.js": 6657,
+                    "adler32.js": 199,
+                    "crc32.js": 260,
+                    "messages.js": 214,
+                    "inflate.js": 12106,
+                    "inffast.js": 1820,
+                    "inftrees.js": 1639,
+                    "constants.js": 425
+                  },
+                  "utils": {
+                    "common.js": 1105
+                  }
+                }
+              },
+              "stream-http": {
+                "package.json": 81,
+                "index.js": 949,
+                "lib": {
+                  "request.js": 4385,
+                  "capability.js": 703,
+                  "response.js": 2861
+                }
+              },
+              "readable-stream": {
+                "package.json": 275,
+                "errors.js": 80,
+                "readable.js": 82,
+                "lib": {
+                  "internal": {
+                    "streams": {
+                      "stream.js": 101,
+                      "stream-browser.js": 53,
+                      "buffer_list.js": 2382,
+                      "destroy.js": 1207,
+                      "state.js": 370,
+                      "async_iterator.js": 1944,
+                      "end-of-stream.js": 1454
+                    }
+                  },
+                  "_stream_readable.js": 11661,
+                  "_stream_duplex.js": 1388,
+                  "_stream_writable.js": 7494,
+                  "_stream_transform.js": 1957,
+                  "_stream_passthrough.js": 212
+                },
+                "readable-browser.js": 257,
+                "errors-browser.js": 2132,
+                "experimentalWarning.js": 277,
+                "node_modules": {
+                  "inherits": {
+                    "package.json": 115,
+                    "inherits_browser.js": 319
+                  }
+                }
+              },
+              "string_decoder": {
+                "package.json": 97,
+                "lib": {
+                  "string_decoder.js": 3589
+                }
+              },
+              "xtend": {
+                "package.json": 76,
+                "immutable.js": 191
+              },
+              "builtin-status-codes": {
+                "package.json": 111,
+                "browser.js": 1431
+              },
+              "url": {
+                "package.json": 74,
+                "url.js": 7530,
+                "node_modules": {
+                  "punycode": {
+                    "package.json": 81,
+                    "punycode.js": 2714
+                  }
+                },
+                "util.js": 229
+              },
+              "querystring": {
+                "package.json": 65,
+                "index.js": 95,
+                "decode.js": 548,
+                "encode.js": 533
+              },
+              "https-browserify": {
+                "package.json": 86,
+                "index.js": 420
+              },
+              "tty-browserify": {
+                "package.json": 84,
+                "index.js": 210
+              }
+            },
+            "package.json": 87,
+            "index.js": 392,
+            "map.json": 1008
+          },
+          "brace-expansion": {
+            "package.json": 86,
+            "index.js": 2037
+          },
+          "concat-map": {
+            "package.json": 80,
+            "index.js": 227
+          },
+          "balanced-match": {
+            "package.json": 84,
+            "index.js": 582
+          },
+          "path.js": {
+            "package.json": 79,
+            "index.js": 39,
+            "lib": {
+              "index.js": 147,
+              "win": {
+                "index.js": 2945
+              },
+              "path.js": 5273,
+              "posix": {
+                "index.js": 245
+              }
+            }
+          },
+          "inherits-ex": {
+            "package.json": 151,
+            "lib": {
+              "isEmptyFunction.js": 54,
+              "inherits.js": 522,
+              "isInheritedFrom.js": 510,
+              "isInheritedFromStr.js": 458,
+              "getPrototypeOf.js": 124,
+              "inheritsDirectly.js": 225,
+              "newPrototype.js": 422,
+              "getConstructor.js": 192,
+              "isEmptyFunction-cli.js": 127,
+              "setPrototypeOf.js": 128,
+              "defineProperty.js": 458,
+              "mixin.js": 1685,
+              "isMixinedFrom.js": 170,
+              "isMixinedFromStr.js": 130,
+              "createCtor.js": 220,
+              "createFunction.js": 468,
+              "extend.js": 100,
+              "_extend.js": 47,
+              "inheritsObject.js": 202
+            },
+            "index.js": 222
+          },
+          "xtend": {
+            "mutable.js": 187
+          },
+          "escape-string-regexp": {
+            "package.json": 74,
+            "index.js": 172
+          },
+          "grapheme-splitter": {
+            "package.json": 87,
+            "index.js": 23139
+          },
+          "limax": {
+            "package.json": 78,
+            "lib": {
+              "limax.js": 1091
+            }
+          },
+          "speakingurl": {
+            "package.json": 79,
+            "index.js": 51,
+            "lib": {
+              "speakingurl.js": 15388
+            }
+          },
+          "pinyin": {
+            "package.json": 108,
+            "lib": {
+              "web-pinyin.js": 606,
+              "pinyin.js": 2262,
+              "phonetic-symbol.js": 329
+            },
+            "data": {
+              "dict-zi-web.js": 94998
+            }
+          },
+          "hepburn": {
+            "package.json": 82,
+            "lib": {
+              "hepburn.js": 9158
+            }
+          },
+          "bulk-replace": {
+            "package.json": 89,
+            "bulk-replace.js": 173
+          },
+          "autolinker": {
+            "package.json": 90,
+            "dist": {
+              "Autolinker.js": 39341
+            }
+          },
+          "pdfjs-dist": {
+            "package.json": 134,
+            "build": {
+              "pdf.js": 197244
+            }
+          },
+          "blockstack": {
+            "dist": {
+              "blockstack.js": 1156193
+            }
+          },
+          "chart.js": {
+            "package.json": 83,
+            "dist": {
+              "Chart.js": 174553
+            }
+          },
+          "ua-parser-js": {
+            "package.json": 91,
+            "src": {
+              "ua-parser.js": 15243
+            }
+          },
+          "@nivo": {
+            "bar": {
+              "package.json": 126,
+              "dist": {
+                "nivo-bar.cjs.js": 23883
+              }
+            },
+            "core": {
+              "package.json": 129,
+              "dist": {
+                "nivo-core.cjs.js": 45987
+              }
+            },
+            "tooltip": {
+              "package.json": 138,
+              "dist": {
+                "nivo-tooltip.cjs.js": 8782
+              }
+            },
+            "axes": {
+              "package.json": 129,
+              "dist": {
+                "nivo-axes.cjs.js": 14344
+              }
+            },
+            "legends": {
+              "package.json": 138,
+              "dist": {
+                "nivo-legends.cjs.js": 23772
+              }
+            },
+            "colors": {
+              "package.json": 135,
+              "dist": {
+                "nivo-colors.cjs.js": 7749
+              }
+            },
+            "annotations": {
+              "package.json": 150,
+              "dist": {
+                "nivo-annotations.cjs.js": 15184
+              }
+            },
+            "line": {
+              "package.json": 129,
+              "dist": {
+                "nivo-line.cjs.js": 24824
+              }
+            },
+            "scales": {
+              "package.json": 135,
+              "dist": {
+                "nivo-scales.cjs.js": 7229
+              }
+            },
+            "voronoi": {
+              "package.json": 138,
+              "dist": {
+                "nivo-voronoi.cjs.js": 6326
+              }
+            },
+            "heatmap": {
+              "package.json": 138,
+              "dist": {
+                "nivo-heatmap.cjs.js": 19451
+              }
+            },
+            "pie": {
+              "package.json": 126,
+              "dist": {
+                "nivo-pie.cjs.js": 36150
+              }
+            }
+          },
+          "react-motion": {
+            "package.json": 93,
+            "lib": {
+              "react-motion.js": 390,
+              "Motion.js": 4064,
+              "mapToZero.js": 178,
+              "stripStyle.js": 212,
+              "stepper.js": 231,
+              "shouldStopAnimation.js": 251,
+              "StaggeredMotion.js": 4283,
+              "TransitionMotion.js": 6768,
+              "mergeDiff.js": 835,
+              "spring.js": 408,
+              "presets.js": 216,
+              "reorderKeys.js": 103
+            },
+            "node_modules": {
+              "performance-now": {
+                "package.json": 99,
+                "lib": {
+                  "performance-now.js": 483
+                }
+              }
+            }
+          },
+          "raf": {
+            "package.json": 73,
+            "index.js": 888
+          },
+          "performance-now": {
+            "package.json": 99,
+            "lib": {
+              "performance-now.js": 518
+            }
+          },
+          "react-measure": {
+            "package.json": 119,
+            "dist": {
+              "index.cjs.js": 3126
+            }
+          },
+          "resize-observer-polyfill": {
+            "package.json": 143,
+            "dist": {
+              "ResizeObserver.js": 7877
+            }
+          },
+          "lodash": {
+            "merge.js": 110,
+            "_baseMerge.js": 333,
+            "_Stack.js": 309,
+            "_ListCache.js": 350,
+            "_listCacheClear.js": 72,
+            "_listCacheDelete.js": 196,
+            "_assocIndexOf.js": 120,
+            "eq.js": 71,
+            "_listCacheGet.js": 126,
+            "_listCacheHas.js": 100,
+            "_listCacheSet.js": 156,
+            "_stackClear.js": 99,
+            "_stackDelete.js": 104,
+            "_stackGet.js": 72,
+            "_stackHas.js": 72,
+            "_stackSet.js": 295,
+            "_Map.js": 78,
+            "_getNative.js": 126,
+            "_baseIsNative.js": 422,
+            "isFunction.js": 245,
+            "_baseGetTag.js": 234,
+            "_Symbol.js": 58,
+            "_root.js": 147,
+            "_freeGlobal.js": 100,
+            "_getRawTag.js": 252,
+            "_objectToString.js": 95,
+            "isObject.js": 104,
+            "_isMasked.js": 163,
+            "_coreJsData.js": 73,
+            "_toSource.js": 159,
+            "_getValue.js": 73,
+            "_MapCache.js": 345,
+            "_mapCacheClear.js": 162,
+            "_Hash.js": 325,
+            "_hashClear.js": 109,
+            "_nativeCreate.js": 73,
+            "_hashDelete.js": 113,
+            "_hashGet.js": 227,
+            "_hashHas.js": 162,
+            "_hashSet.js": 185,
+            "_mapCacheDelete.js": 121,
+            "_getMapData.js": 143,
+            "_isKeyable.js": 142,
+            "_mapCacheGet.js": 93,
+            "_mapCacheHas.js": 93,
+            "_mapCacheSet.js": 144,
+            "_assignMergeValue.js": 146,
+            "_baseAssignValue.js": 161,
+            "_defineProperty.js": 139,
+            "_baseFor.js": 62,
+            "_createBaseFor.js": 169,
+            "_baseMergeDeep.js": 712,
+            "_cloneBuffer.js": 296,
+            "_cloneTypedArray.js": 156,
+            "_cloneArrayBuffer.js": 139,
+            "_Uint8Array.js": 62,
+            "_copyArray.js": 112,
+            "_initCloneObject.js": 170,
+            "_baseCreate.js": 207,
+            "_getPrototype.js": 84,
+            "_overArg.js": 81,
+            "_isPrototype.js": 142,
+            "isArguments.js": 249,
+            "_baseIsArguments.js": 135,
+            "isObjectLike.js": 79,
+            "isArray.js": 50,
+            "isArrayLikeObject.js": 109,
+            "isArrayLike.js": 121,
+            "isLength.js": 112,
+            "isBuffer.js": 217,
+            "stubFalse.js": 52,
+            "isPlainObject.js": 384,
+            "isTypedArray.js": 131,
+            "_baseIsTypedArray.js": 806,
+            "_baseUnary.js": 76,
+            "_nodeUtil.js": 287,
+            "_safeGet.js": 122,
+            "toPlainObject.js": 102,
+            "_copyObject.js": 244,
+            "_assignValue.js": 189,
+            "keysIn.js": 139,
+            "_arrayLikeKeys.js": 469,
+            "_baseTimes.js": 96,
+            "_isIndex.js": 187,
+            "_baseKeysIn.js": 255,
+            "_nativeKeysIn.js": 106,
+            "_createAssigner.js": 325,
+            "_baseRest.js": 133,
+            "identity.js": 53,
+            "_overRest.js": 274,
+            "_apply.js": 211,
+            "_setToString.js": 84,
+            "_baseSetToString.js": 194,
+            "constant.js": 72,
+            "_shortOut.js": 205,
+            "_isIterateeCall.js": 227,
+            "get.js": 120,
+            "_baseGet.js": 170,
+            "_castPath.js": 157,
+            "_isKey.js": 294,
+            "isSymbol.js": 151,
+            "_stringToPath.js": 310,
+            "_memoizeCapped.js": 147,
+            "memoize.js": 364,
+            "toString.js": 94,
+            "_baseToString.js": 296,
+            "_arrayMap.js": 124,
+            "_toKey.js": 149,
+            "set.js": 96,
+            "_baseSet.js": 411,
+            "last.js": 92,
+            "isString.js": 175,
+            "without.js": 149,
+            "_baseDifference.js": 468,
+            "_SetCache.js": 240,
+            "_setCacheAdd.js": 113,
+            "_setCacheHas.js": 72,
+            "_arrayIncludes.js": 120,
+            "_baseIndexOf.js": 150,
+            "_baseFindIndex.js": 128,
+            "_baseIsNaN.js": 56,
+            "_strictIndexOf.js": 110,
+            "_arrayIncludesWith.js": 120,
+            "_cacheHas.js": 62,
+            "isEqual.js": 86,
+            "_baseIsEqual.js": 177,
+            "_baseIsEqualDeep.js": 701,
+            "_equalArrays.js": 575,
+            "_arraySome.js": 120,
+            "_equalByTag.js": 951,
+            "_mapToArray.js": 119,
+            "_setToArray.js": 113,
+            "_equalObjects.js": 700,
+            "_getAllKeys.js": 124,
+            "_baseGetAllKeys.js": 124,
+            "_arrayPush.js": 109,
+            "_getSymbols.js": 241,
+            "_arrayFilter.js": 138,
+            "stubArray.js": 52,
+            "keys.js": 134,
+            "_baseKeys.js": 230,
+            "_nativeKeys.js": 74,
+            "_getTag.js": 594,
+            "_DataView.js": 83,
+            "_Promise.js": 82,
+            "_Set.js": 78,
+            "_WeakMap.js": 82,
+            "partialRight.js": 205,
+            "_createWrap.js": 831,
+            "_baseSetData.js": 111,
+            "_metaMap.js": 63,
+            "_createBind.js": 209,
+            "_createCtor.js": 498,
+            "_createCurry.js": 467,
+            "_createHybrid.js": 721,
+            "_composeArgs.js": 232,
+            "_composeArgsRight.js": 248,
+            "_countHolders.js": 97,
+            "_createRecurry.js": 342,
+            "_isLaziable.js": 254,
+            "_LazyWrapper.js": 292,
+            "_baseLodash.js": 44,
+            "_getData.js": 101,
+            "noop.js": 44,
+            "_getFuncName.js": 222,
+            "_realNames.js": 39,
+            "wrapperLodash.js": 380,
+            "_LodashWrapper.js": 243,
+            "_wrapperClone.js": 278,
+            "_setData.js": 80,
+            "_setWrapToString.js": 193,
+            "_getWrapDetails.js": 139,
+            "_insertWrapDetails.js": 237,
+            "_updateWrapDetails.js": 351,
+            "_arrayEach.js": 115,
+            "_getHolder.js": 71,
+            "_reorder.js": 191,
+            "_replaceHolders.js": 170,
+            "_createPartial.js": 322,
+            "_mergeData.js": 594,
+            "toInteger.js": 105,
+            "toFinite.js": 164,
+            "toNumber.js": 419,
+            "pick.js": 117,
+            "_basePick.js": 131,
+            "_basePickBy.js": 195,
+            "hasIn.js": 113,
+            "_baseHasIn.js": 77,
+            "_hasPath.js": 330,
+            "_flatRest.js": 135,
+            "flatten.js": 113,
+            "_baseFlatten.js": 226,
+            "_isFlattenable.js": 169,
+            "isNumber.js": 151,
+            "min.js": 141,
+            "_baseExtremum.js": 185,
+            "_baseLt.js": 57,
+            "max.js": 141,
+            "_baseGt.js": 57,
+            "range.js": 60,
+            "_createRange.js": 261,
+            "_baseRange.js": 156,
+            "flattenDepth.js": 156,
+            "uniqBy.js": 126,
+            "_baseIteratee.js": 239,
+            "_baseMatches.js": 221,
+            "_baseIsMatch.js": 411,
+            "_getMatchData.js": 166,
+            "_isStrictComparable.js": 85,
+            "_matchesStrictComparable.js": 123,
+            "_baseMatchesProperty.js": 300,
+            "property.js": 155,
+            "_baseProperty.js": 91,
+            "_basePropertyDeep.js": 100,
+            "_baseUniq.js": 508,
+            "_createSet.js": 151,
+            "filter.js": 166,
+            "_baseFilter.js": 131,
+            "_baseEach.js": 85,
+            "_baseForOwn.js": 101,
+            "_createBaseEach.js": 219,
+            "omit.js": 402,
+            "_baseClone.js": 1832,
+            "_baseAssign.js": 107,
+            "_baseAssignIn.js": 109,
+            "_copySymbols.js": 111,
+            "_copySymbolsIn.js": 113,
+            "_getSymbolsIn.js": 207,
+            "_getAllKeysIn.js": 128,
+            "_initCloneArray.js": 210,
+            "_initCloneByTag.js": 888,
+            "_cloneDataView.js": 160,
+            "_cloneRegExp.js": 134,
+            "_cloneSymbol.js": 139,
+            "isMap.js": 117,
+            "_baseIsMap.js": 125,
+            "isSet.js": 117,
+            "_baseIsSet.js": 125,
+            "_baseUnset.js": 168,
+            "_parent.js": 123,
+            "_baseSlice.js": 180,
+            "_customOmitClone.js": 92,
+            "uniq.js": 94,
+            "sortBy.js": 261,
+            "_baseOrderBy.js": 495,
+            "_baseMap.js": 174,
+            "_baseSortBy.js": 105,
+            "_compareMultiple.js": 233,
+            "_compareAscending.js": 297,
+            "isDate.js": 119,
+            "_baseIsDate.js": 130,
+            "partial.js": 205
+          },
+          "d3-scale": {
+            "package.json": 108,
+            "dist": {
+              "d3-scale.js": 16305
+            }
+          },
+          "d3-array": {
+            "package.json": 108,
+            "dist": {
+              "d3-array.js": 8342
+            }
+          },
+          "d3-interpolate": {
+            "package.json": 120,
+            "dist": {
+              "d3-interpolate.js": 7880
+            }
+          },
+          "d3-color": {
+            "package.json": 108,
+            "dist": {
+              "d3-color.js": 10343
+            }
+          },
+          "d3-format": {
+            "package.json": 110,
+            "dist": {
+              "d3-format.js": 5196
+            }
+          },
+          "d3-time": {
+            "package.json": 106,
+            "dist": {
+              "d3-time.js": 5799
+            }
+          },
+          "d3-time-format": {
+            "package.json": 120,
+            "dist": {
+              "d3-time-format.js": 9359
+            }
+          },
+          "d3-scale-chromatic": {
+            "package.json": 128,
+            "dist": {
+              "d3-scale-chromatic.js": 19755
+            }
+          },
+          "d3-shape": {
+            "package.json": 108,
+            "dist": {
+              "d3-shape.js": 28752
+            }
+          },
+          "d3-path": {
+            "package.json": 106,
+            "dist": {
+              "d3-path.js": 2106
+            }
+          },
+          "d3-hierarchy": {
+            "package.json": 116,
+            "dist": {
+              "d3-hierarchy.js": 13651
+            }
+          },
+          "recompose": {
+            "withProps.js": 369,
+            "wrapDisplayName.js": 216,
+            "getDisplayName.js": 168,
+            "setDisplayName.js": 212,
+            "setStatic.js": 135,
+            "mapProps.js": 311,
+            "compose.js": 281,
+            "setPropTypes.js": 210,
+            "defaultProps.js": 325,
+            "withPropsOnChange.js": 1027,
+            "utils": {
+              "pick.js": 185
+            },
+            "shallowEqual.js": 176,
+            "pure.js": 334,
+            "shouldUpdate.js": 556,
+            "withState.js": 900
+          },
+          "react-lifecycles-compat": {
+            "package.json": 154,
+            "react-lifecycles-compat.cjs.js": 2404
+          },
+          "fbjs": {
+            "lib": {
+              "shallowEqual.js": 405
+            }
+          },
+          "lodash.get": {
+            "package.json": 64,
+            "index.js": 4506
+          },
+          "lodash.isplainobject": {
+            "package.json": 74,
+            "index.js": 574
+          },
+          "d3-delaunay": {
+            "package.json": 114,
+            "dist": {
+              "d3-delaunay.js": 16438
+            }
+          },
+          "moment-timezone": {
+            "package.json": 88,
+            "index.js": 99,
+            "moment-timezone.js": 7164,
+            "data": {
+              "packed": {
+                "latest.json": 188191
+              }
+            }
+          },
+          "yaqrcode": {
+            "package.json": 62,
+            "index.js": 405,
+            "qrcode.js": 15998
+          },
+          "less": {
+            "browser.js": 52,
+            "lib": {
+              "less-browser": {
+                "index.js": 3118,
+                "utils.js": 444,
+                "browser.js": 830,
+                "file-manager.js": 1737,
+                "log-listener.js": 425,
+                "error-reporting.js": 3068,
+                "cache.js": 499
+              },
+              "less": {
+                "index.js": 720,
+                "data": {
+                  "index.js": 91,
+                  "colors.js": 2980,
+                  "unit-conversions.js": 183
+                },
+                "tree": {
+                  "index.js": 975,
+                  "node.js": 961,
+                  "alpha.js": 384,
+                  "color.js": 2371,
+                  "directive.js": 2156,
+                  "selector.js": 2187,
+                  "element.js": 856,
+                  "paren.js": 251,
+                  "combinator.js": 341,
+                  "ruleset.js": 7864,
+                  "rule.js": 1609,
+                  "value.js": 536,
+                  "keyword.js": 283,
+                  "debug-info.js": 642,
+                  "detached-ruleset.js": 461,
+                  "operation.js": 765,
+                  "dimension.js": 2384,
+                  "unit.js": 1954,
+                  "variable.js": 876,
+                  "attribute.js": 512,
+                  "quoted.js": 1080,
+                  "js-eval-node.js": 1105,
+                  "expression.js": 896,
+                  "comment.js": 537,
+                  "call.js": 892,
+                  "url.js": 832,
+                  "import.js": 2199,
+                  "media.js": 2229,
+                  "anonymous.js": 564,
+                  "mixin-call.js": 2457,
+                  "mixin-definition.js": 3023,
+                  "javascript.js": 459,
+                  "assignment.js": 396,
+                  "condition.js": 630,
+                  "unicode-descriptor.js": 121,
+                  "negative.js": 336,
+                  "extend.js": 797,
+                  "ruleset-call.js": 220
+                },
+                "contexts.js": 1320,
+                "functions": {
+                  "function-registry.js": 325,
+                  "default.js": 328,
+                  "function-caller.js": 554,
+                  "index.js": 274,
+                  "color.js": 3915,
+                  "color-blending.js": 812,
+                  "data-uri.js": 1213,
+                  "math.js": 522,
+                  "number.js": 1613,
+                  "string.js": 847,
+                  "svg.js": 1919,
+                  "types.js": 1403
+                },
+                "environment": {
+                  "environment.js": 905,
+                  "abstract-file-manager.js": 1665
+                },
+                "logger.js": 513,
+                "visitors": {
+                  "index.js": 217,
+                  "visitor.js": 1217,
+                  "import-visitor.js": 2607,
+                  "import-sequencer.js": 825,
+                  "extend-visitor.js": 6160,
+                  "join-selector-visitor.js": 867,
+                  "to-css-visitor.js": 3130
+                },
+                "parser": {
+                  "parser.js": 16093,
+                  "parser-input.js": 2237,
+                  "chunker.js": 1202
+                },
+                "less-error.js": 632,
+                "utils.js": 202,
+                "source-map-output.js": 2668,
+                "source-map-builder.js": 1513,
+                "parse-tree.js": 1001,
+                "transform-tree.js": 760,
+                "import-manager.js": 1506,
+                "plugins": {
+                  "function-importer.js": 488
+                },
+                "render.js": 387,
+                "parse.js": 771,
+                "plugin-manager.js": 1262
+              }
+            },
+            "node_modules": {
+              "promise": {
+                "package.json": 77,
+                "index.js": 138,
+                "lib": {
+                  "core.js": 1122,
+                  "done.js": 221,
+                  "es6-extensions.js": 1226,
+                  "node-extensions.js": 832
+                }
+              },
+              "asap": {
+                "package.json": 70,
+                "asap.js": 771
+              }
+            }
+          },
+          "react-window": {
+            "package.json": 118,
+            "dist": {
+              "index.cjs.js": 24267
+            }
+          },
+          "memoize-one": {
+            "package.json": 129,
+            "dist": {
+              "memoize-one.cjs.js": 354
+            }
+          },
+          "react-window-infinite-loader": {
+            "package.json": 134,
+            "dist": {
+              "index.cjs.js": 3887
+            }
+          },
+          "process": {
+            "package.json": 104,
+            "browser.js": 1688
+          }
+        }
+      }
+    ],
+    "packages/modern-browsers.js": 35,
+    "packages/babel-compiler.js": 34,
+    "packages/ecmascript.js": 30,
+    "packages/ecmascript-runtime.js": 38,
+    "packages/babel-runtime.js": [
+      984,
+      {
+        "node_modules": {
+          "meteor": {
+            "babel-runtime": {
+              "babel-runtime.js": 631
+            }
+          }
+        }
+      }
+    ],
+    "packages/promise.js": [
+      5677,
+      {
+        "node_modules": {
+          "meteor": {
+            "promise": {
+              "modern.js": 25,
+              "legacy.js": 97,
+              "client.js": 73,
+              "extensions.js": 403,
+              "node_modules": {
+                "promise": {
+                  "lib": {
+                    "es6-extensions.js": 1227,
+                    "core.js": 1838
+                  }
+                },
+                "asap": {
+                  "package.json": 249,
+                  "raw.js": 63,
+                  "browser-raw.js": 673
+                },
+                "meteor-promise": {
+                  "package.json": 121,
+                  "promise_client.js": 268
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "packages/fetch.js": [
+      7902,
+      {
+        "node_modules": {
+          "meteor": {
+            "fetch": {
+              "legacy.js": 112,
+              "node_modules": {
+                "whatwg-fetch": {
+                  "package.json": 82,
+                  "fetch.js": 7297
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "packages/dynamic-import.js": [
+      4678,
+      {
+        "node_modules": {
+          "meteor": {
+            "dynamic-import": {
+              "client.js": 1574,
+              "cache.js": 1952,
+              "common.js": 62,
+              "dynamic-versions.js": 652
+            }
+          }
+        }
+      }
+    ],
+    "packages/es5-shim.js": [
+      28488,
+      {
+        "node_modules": {
+          "meteor": {
+            "es5-shim": {
+              "client.js": 134,
+              "console.js": 291,
+              "export_globals.js": 154,
+              "import_globals.js": 77,
+              "node_modules": {
+                "es5-shim": {
+                  "es5-shim.js": 22551,
+                  "es5-sham.js": 4835
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "packages/ecmascript-runtime-client.js": [
+      117591,
+      {
+        "node_modules": {
+          "meteor": {
+            "ecmascript-runtime-client": {
+              "modern.js": 766,
+              "legacy.js": 1059,
+              "node_modules": {
+                "core-js": {
+                  "es": {
+                    "symbol": {
+                      "index.js": 814
+                    },
+                    "map": {
+                      "index.js": 217
+                    },
+                    "set": {
+                      "index.js": 217
+                    },
+                    "array": {
+                      "index.js": 1158
+                    },
+                    "function": {
+                      "index.js": 187
+                    },
+                    "math": {
+                      "index.js": 663
+                    },
+                    "object": {
+                      "index.js": 1234
+                    },
+                    "regexp": {
+                      "index.js": 376
+                    },
+                    "string": {
+                      "index.js": 1244
+                    },
+                    "weak-map": {
+                      "index.js": 188
+                    },
+                    "weak-set": {
+                      "index.js": 188
+                    }
+                  },
+                  "modules": {
+                    "es.array.concat.js": 993,
+                    "es.object.to-string.js": 174,
+                    "es.symbol.js": 4691,
+                    "es.symbol.async-iterator.js": 80,
+                    "es.symbol.description.js": 890,
+                    "es.symbol.has-instance.js": 78,
+                    "es.symbol.is-concat-spreadable.js": 85,
+                    "es.symbol.iterator.js": 75,
+                    "es.symbol.match.js": 72,
+                    "es.symbol.match-all.js": 75,
+                    "es.symbol.replace.js": 74,
+                    "es.symbol.search.js": 73,
+                    "es.symbol.species.js": 74,
+                    "es.symbol.split.js": 72,
+                    "es.symbol.to-primitive.js": 78,
+                    "es.symbol.to-string-tag.js": 78,
+                    "es.symbol.unscopables.js": 78,
+                    "es.math.to-string-tag.js": 72,
+                    "es.json.to-string-tag.js": 101,
+                    "es.map.js": 213,
+                    "es.string.iterator.js": 409,
+                    "web.dom-collections.iterator.js": 432,
+                    "es.array.iterator.js": 618,
+                    "es.set.js": 213,
+                    "es.array.from.js": 204,
+                    "es.array.is-array.js": 110,
+                    "es.array.of.js": 368,
+                    "es.array.copy-within.js": 182,
+                    "es.array.every.js": 339,
+                    "es.array.fill.js": 163,
+                    "es.array.filter.js": 353,
+                    "es.array.find.js": 374,
+                    "es.array.find-index.js": 394,
+                    "es.array.flat.js": 404,
+                    "es.array.flat-map.js": 401,
+                    "es.array.for-each.js": 155,
+                    "es.array.includes.js": 354,
+                    "es.array.index-of.js": 439,
+                    "es.array.join.js": 316,
+                    "es.array.last-index-of.js": 156,
+                    "es.array.map.js": 341,
+                    "es.array.reduce.js": 361,
+                    "es.array.reduce-right.js": 372,
+                    "es.array.reverse.js": 255,
+                    "es.array.slice.js": 874,
+                    "es.array.some.js": 335,
+                    "es.array.sort.js": 405,
+                    "es.array.species.js": 59,
+                    "es.array.splice.js": 1029,
+                    "es.array.unscopables.flat.js": 69,
+                    "es.array.unscopables.flat-map.js": 72,
+                    "es.function.bind.js": 116,
+                    "es.function.name.js": 272,
+                    "es.function.has-instance.js": 405,
+                    "es.math.acosh.js": 303,
+                    "es.math.asinh.js": 209,
+                    "es.math.atanh.js": 178,
+                    "es.math.cbrt.js": 173,
+                    "es.math.clz32.js": 166,
+                    "es.math.cosh.js": 225,
+                    "es.math.expm1.js": 134,
+                    "es.math.fround.js": 111,
+                    "es.math.hypot.js": 303,
+                    "es.math.imul.js": 298,
+                    "es.math.log10.js": 134,
+                    "es.math.log1p.js": 109,
+                    "es.math.log2.js": 130,
+                    "es.math.sign.js": 107,
+                    "es.math.sinh.js": 295,
+                    "es.math.tanh.js": 203,
+                    "es.math.trunc.js": 139,
+                    "es.object.assign.js": 144,
+                    "es.object.create.js": 153,
+                    "es.object.define-property.js": 186,
+                    "es.object.define-properties.js": 188,
+                    "es.object.entries.js": 155,
+                    "es.object.freeze.js": 310,
+                    "es.object.from-entries.js": 226,
+                    "es.object.get-own-property-descriptor.js": 335,
+                    "es.object.get-own-property-descriptors.js": 414,
+                    "es.object.get-own-property-names.js": 248,
+                    "es.object.get-prototype-of.js": 305,
+                    "es.object.is.js": 108,
+                    "es.object.is-extensible.js": 238,
+                    "es.object.is-frozen.js": 228,
+                    "es.object.is-sealed.js": 228,
+                    "es.object.keys.js": 228,
+                    "es.object.prevent-extensions.js": 332,
+                    "es.object.seal.js": 306,
+                    "es.object.set-prototype-of.js": 133,
+                    "es.object.values.js": 153,
+                    "es.object.define-getter.js": 382,
+                    "es.object.define-setter.js": 382,
+                    "es.object.lookup-getter.js": 452,
+                    "es.object.lookup-setter.js": 452,
+                    "es.regexp.constructor.js": 1188,
+                    "es.regexp.to-string.js": 457,
+                    "es.regexp.exec.js": 149,
+                    "es.regexp.flags.js": 261,
+                    "es.regexp.sticky.js": 399,
+                    "es.regexp.test.js": 484,
+                    "es.string.match.js": 694,
+                    "es.string.replace.js": 1797,
+                    "es.string.search.js": 577,
+                    "es.string.split.js": 2089,
+                    "es.string.from-code-point.js": 423,
+                    "es.string.raw.js": 304,
+                    "es.string.code-point-at.js": 178,
+                    "es.string.ends-with.js": 639,
+                    "es.string.includes.js": 334,
+                    "es.string.match-all.js": 2041,
+                    "es.string.pad-end.js": 252,
+                    "es.string.pad-start.js": 256,
+                    "es.string.repeat.js": 116,
+                    "es.string.starts-with.js": 623,
+                    "es.string.trim.js": 215,
+                    "es.string.trim-start.js": 260,
+                    "es.string.trim-end.js": 253,
+                    "es.string.anchor.js": 228,
+                    "es.string.big.js": 220,
+                    "es.string.blink.js": 226,
+                    "es.string.bold.js": 220,
+                    "es.string.fixed.js": 223,
+                    "es.string.fontcolor.js": 238,
+                    "es.string.fontsize.js": 235,
+                    "es.string.italics.js": 226,
+                    "es.string.link.js": 224,
+                    "es.string.small.js": 226,
+                    "es.string.strike.js": 229,
+                    "es.string.sub.js": 220,
+                    "es.string.sup.js": 220,
+                    "es.weak-map.js": 1200,
+                    "es.weak-set.js": 197,
+                    "es.number.epsilon.js": 98,
+                    "es.number.is-finite.js": 120,
+                    "es.number.is-integer.js": 115,
+                    "es.number.is-nan.js": 107,
+                    "es.number.is-safe-integer.js": 183,
+                    "es.number.max-safe-integer.js": 108,
+                    "es.number.min-safe-integer.js": 109,
+                    "es.number.parse-float.js": 156,
+                    "es.number.parse-int.js": 150,
+                    "es.typed-array.uint8-array.js": 133,
+                    "es.typed-array.uint32-array.js": 134
+                  },
+                  "internals": {
+                    "export.js": 612,
+                    "global.js": 237,
+                    "object-get-own-property-descriptor.js": 428,
+                    "descriptors.js": 144,
+                    "fails.js": 76,
+                    "object-property-is-enumerable.js": 178,
+                    "create-property-descriptor.js": 113,
+                    "to-indexed-object.js": 140,
+                    "indexed-object.js": 225,
+                    "classof-raw.js": 88,
+                    "require-object-coercible.js": 104,
+                    "to-primitive.js": 354,
+                    "is-object.js": 96,
+                    "has.js": 86,
+                    "ie8-dom-define.js": 231,
+                    "document-create-element.js": 173,
+                    "create-non-enumerable-property.js": 229,
+                    "object-define-property.js": 359,
+                    "an-object.js": 140,
+                    "redefine.js": 666,
+                    "set-global.js": 163,
+                    "inspect-source.js": 185,
+                    "shared-store.js": 131,
+                    "internal-state.js": 783,
+                    "native-weak-map.js": 153,
+                    "shared-key.js": 133,
+                    "shared.js": 258,
+                    "is-pure.js": 31,
+                    "uid.js": 131,
+                    "hidden-keys.js": 31,
+                    "copy-constructor-properties.js": 279,
+                    "own-keys.js": 284,
+                    "get-built-in.js": 222,
+                    "path.js": 61,
+                    "object-get-own-property-names.js": 187,
+                    "object-keys-internal.js": 306,
+                    "array-includes.js": 363,
+                    "to-length.js": 125,
+                    "to-integer.js": 104,
+                    "to-absolute-index.js": 138,
+                    "enum-bug-keys.js": 138,
+                    "object-get-own-property-symbols.js": 49,
+                    "is-forced.js": 279,
+                    "is-array.js": 114,
+                    "to-object.js": 110,
+                    "create-property.js": 226,
+                    "array-species-create.js": 320,
+                    "well-known-symbol.js": 331,
+                    "native-symbol.js": 127,
+                    "use-symbol-as-uid.js": 106,
+                    "array-method-has-species-support.js": 281,
+                    "engine-v8-version.js": 257,
+                    "engine-user-agent.js": 96,
+                    "to-string-tag-support.js": 124,
+                    "object-to-string.js": 172,
+                    "classof.js": 435,
+                    "object-create.js": 955,
+                    "object-define-properties.js": 284,
+                    "object-keys.js": 149,
+                    "html.js": 97,
+                    "object-get-own-property-names-external.js": 363,
+                    "well-known-symbol-wrapped.js": 64,
+                    "define-well-known-symbol.js": 245,
+                    "set-to-string-tag.js": 234,
+                    "array-iteration.js": 664,
+                    "function-bind-context.js": 358,
+                    "a-function.js": 122,
+                    "collection.js": 1497,
+                    "internal-metadata.js": 701,
+                    "freezing.js": 133,
+                    "iterate.js": 749,
+                    "is-array-iterator-method.js": 190,
+                    "iterators.js": 31,
+                    "get-iterator-method.js": 204,
+                    "call-with-safe-iteration-closing.js": 173,
+                    "an-instance.js": 131,
+                    "check-correctness-of-iteration.js": 380,
+                    "inherit-if-required.js": 229,
+                    "object-set-prototype-of.js": 368,
+                    "a-possible-prototype.js": 161,
+                    "collection-strong.js": 2312,
+                    "redefine-all.js": 116,
+                    "define-iterator.js": 1369,
+                    "create-iterator-constructor.js": 370,
+                    "iterators-core.js": 442,
+                    "object-get-prototype-of.js": 372,
+                    "correct-prototype-getter.js": 169,
+                    "set-species.js": 302,
+                    "string-multibyte.js": 386,
+                    "dom-iterables.js": 530,
+                    "add-to-unscopables.js": 261,
+                    "array-from.js": 718,
+                    "array-copy-within.js": 403,
+                    "array-method-is-strict.js": 164,
+                    "array-method-uses-to-length.js": 419,
+                    "array-fill.js": 311,
+                    "flatten-into-array.js": 399,
+                    "array-for-each.js": 297,
+                    "array-last-index-of.js": 565,
+                    "array-reduce.js": 462,
+                    "function-bind.js": 487,
+                    "math-log1p.js": 112,
+                    "math-sign.js": 88,
+                    "math-expm1.js": 197,
+                    "math-fround.js": 287,
+                    "object-assign.js": 818,
+                    "object-to-array.js": 358,
+                    "same-value.js": 96,
+                    "object-prototype-accessors-forced.js": 224,
+                    "is-regexp.js": 214,
+                    "regexp-flags.js": 237,
+                    "regexp-sticky-helpers.js": 267,
+                    "regexp-exec.js": 972,
+                    "fix-regexp-well-known-symbol-logic.js": 1357,
+                    "advance-string-index.js": 135,
+                    "regexp-exec-abstract.js": 363,
+                    "species-constructor.js": 228,
+                    "not-a-regexp.js": 157,
+                    "correct-is-regexp-logic.js": 180,
+                    "string-pad.js": 378,
+                    "string-repeat.js": 291,
+                    "string-pad-webkit-bug.js": 129,
+                    "string-trim.js": 305,
+                    "whitespaces.js": 107,
+                    "string-trim-forced.js": 181,
+                    "create-html.js": 213,
+                    "string-html-forced.js": 162,
+                    "collection-weak.js": 1480,
+                    "number-is-finite.js": 133,
+                    "is-integer.js": 125,
+                    "number-parse-float.js": 244,
+                    "number-parse-int.js": 268,
+                    "typed-array-constructor.js": 3176,
+                    "typed-array-constructors-require-wrappers.js": 413,
+                    "array-buffer-view-core.js": 2089,
+                    "array-buffer-native.js": 90,
+                    "array-buffer.js": 3777,
+                    "to-index.js": 207,
+                    "ieee754.js": 825,
+                    "to-offset.js": 147,
+                    "to-positive-integer.js": 157,
+                    "typed-array-from.js": 584
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "packages/base64.js": [
+      2002,
+      {
+        "node_modules": {
+          "meteor": {
+            "base64": {
+              "base64.js": 1510
+            }
+          }
+        }
+      }
+    ],
+    "packages/ejson.js": [
+      8073,
+      {
+        "node_modules": {
+          "meteor": {
+            "ejson": {
+              "ejson.js": 5357,
+              "stringify.js": 974,
+              "utils.js": 1209
+            }
+          }
+        }
+      }
+    ],
+    "packages/diff-sequence.js": [
+      3087,
+      {
+        "node_modules": {
+          "meteor": {
+            "diff-sequence": {
+              "diff.js": 2548
+            }
+          }
+        }
+      }
+    ],
+    "packages/geojson-utils.js": [
+      5218,
+      {
+        "node_modules": {
+          "meteor": {
+            "geojson-utils": {
+              "main.js": 50,
+              "geojson-utils.js": 4794
+            }
+          }
+        }
+      }
+    ],
+    "packages/id-map.js": [
+      1828,
+      {
+        "node_modules": {
+          "meteor": {
+            "id-map": {
+              "id-map.js": 1318
+            }
+          }
+        }
+      }
+    ],
+    "packages/random.js": [
+      4854,
+      {
+        "node_modules": {
+          "meteor": {
+            "random": {
+              "main_client.js": 345,
+              "AbstractRandomGenerator.js": 928,
+              "AleaRandomGenerator.js": 1312,
+              "BrowserRandomGenerator.js": 535,
+              "createAleaGenerator.js": 691,
+              "createRandom.js": 411
+            }
+          }
+        }
+      }
+    ],
+    "packages/mongo-id.js": [
+      2347,
+      {
+        "node_modules": {
+          "meteor": {
+            "mongo-id": {
+              "id.js": 1782
+            }
+          }
+        }
+      }
+    ],
+    "packages/ordered-dict.js": [
+      3974,
+      {
+        "node_modules": {
+          "meteor": {
+            "ordered-dict": {
+              "ordered_dict.js": 3445
+            }
+          }
+        }
+      }
+    ],
+    "packages/tracker.js": [
+      5257,
+      {
+        "node_modules": {
+          "meteor": {
+            "tracker": {
+              "tracker.js": 4759
+            }
+          }
+        }
+      }
+    ],
+    "packages/minimongo.js": [
+      48007,
+      {
+        "node_modules": {
+          "meteor": {
+            "minimongo": {
+              "minimongo_client.js": 50,
+              "common.js": 13450,
+              "cursor.js": 5139,
+              "local_collection.js": 21271,
+              "matcher.js": 3099,
+              "minimongo_common.js": 237,
+              "observe_handle.js": 102,
+              "sorter.js": 3699
+            }
+          }
+        }
+      }
+    ],
+    "packages/check.js": [
+      6641,
+      {
+        "node_modules": {
+          "meteor": {
+            "check": {
+              "match.js": 5779,
+              "isPlainObject.js": 329
+            }
+          }
+        }
+      }
+    ],
+    "packages/retry.js": [
+      1477,
+      {
+        "node_modules": {
+          "meteor": {
+            "retry": {
+              "retry.js": 972
+            }
+          }
+        }
+      }
+    ],
+    "packages/callback-hook.js": [
+      1782,
+      {
+        "node_modules": {
+          "meteor": {
+            "callback-hook": {
+              "hook.js": 1278
+            }
+          }
+        }
+      }
+    ],
+    "packages/ddp-common.js": [
+      5498,
+      {
+        "node_modules": {
+          "meteor": {
+            "ddp-common": {
+              "namespace.js": 18,
+              "heartbeat.js": 1693,
+              "utils.js": 1548,
+              "method_invocation.js": 589,
+              "random_stream.js": 701
+            }
+          }
+        }
+      }
+    ],
+    "packages/reload.js": [
+      2189,
+      {
+        "node_modules": {
+          "meteor": {
+            "reload": {
+              "reload.js": 1697
+            }
+          }
+        }
+      }
+    ],
+    "packages/socket-stream-client.js": [
+      38408,
+      {
+        "node_modules": {
+          "meteor": {
+            "socket-stream-client": {
+              "sockjs-0.3.4.js": 30572,
+              "browser.js": 3603,
+              "common.js": 2902,
+              "urls.js": 743
+            }
+          }
+        }
+      }
+    ],
+    "packages/ddp-client.js": [
+      25710,
+      {
+        "node_modules": {
+          "meteor": {
+            "ddp-client": {
+              "client": {
+                "client.js": 136,
+                "client_convenience.js": 920
+              },
+              "common": {
+                "MethodInvoker.js": 1381,
+                "livedata_connection.js": 21248,
+                "namespace.js": 1068
+              }
+            }
+          }
+        }
+      }
+    ],
+    "packages/ddp.js": 78,
+    "packages/ddp-server.js": 30,
+    "packages/allow-deny.js": [
+      6161,
+      {
+        "node_modules": {
+          "meteor": {
+            "allow-deny": {
+              "allow-deny.js": 5493
+            }
+          }
+        }
+      }
+    ],
+    "packages/mongo.js": [
+      9399,
+      {
+        "node_modules": {
+          "meteor": {
+            "mongo": {
+              "local_collection_driver.js": 440,
+              "collection.js": 8044
+            }
+          }
+        }
+      }
+    ],
+    "packages/email.js": 25,
+    "packages/url.js": [
+      41906,
+      {
+        "node_modules": {
+          "meteor": {
+            "url": {
+              "legacy.js": 273,
+              "modern.js": 110,
+              "bc": {
+                "url_client.js": 172,
+                "url_common.js": 569
+              },
+              "node_modules": {
+                "core-js": {
+                  "proposals": {
+                    "url.js": 108
+                  },
+                  "modules": {
+                    "web.url.js": 11672,
+                    "es.string.iterator.js": 409,
+                    "web.url-search-params.js": 4552,
+                    "es.array.iterator.js": 618,
+                    "web.url.to-json.js": 159
+                  },
+                  "internals": {
+                    "string-multibyte.js": 386,
+                    "to-integer.js": 104,
+                    "require-object-coercible.js": 104,
+                    "internal-state.js": 783,
+                    "native-weak-map.js": 153,
+                    "global.js": 237,
+                    "inspect-source.js": 185,
+                    "shared-store.js": 131,
+                    "set-global.js": 163,
+                    "create-non-enumerable-property.js": 229,
+                    "descriptors.js": 145,
+                    "fails.js": 76,
+                    "object-define-property.js": 359,
+                    "ie8-dom-define.js": 231,
+                    "document-create-element.js": 173,
+                    "is-object.js": 96,
+                    "an-object.js": 140,
+                    "to-primitive.js": 354,
+                    "create-property-descriptor.js": 113,
+                    "has.js": 86,
+                    "shared-key.js": 133,
+                    "shared.js": 258,
+                    "is-pure.js": 31,
+                    "uid.js": 131,
+                    "hidden-keys.js": 31,
+                    "define-iterator.js": 1369,
+                    "export.js": 612,
+                    "object-get-own-property-descriptor.js": 428,
+                    "object-property-is-enumerable.js": 178,
+                    "to-indexed-object.js": 140,
+                    "indexed-object.js": 225,
+                    "classof-raw.js": 88,
+                    "redefine.js": 666,
+                    "copy-constructor-properties.js": 279,
+                    "own-keys.js": 284,
+                    "get-built-in.js": 222,
+                    "path.js": 61,
+                    "object-get-own-property-names.js": 187,
+                    "object-keys-internal.js": 306,
+                    "array-includes.js": 363,
+                    "to-length.js": 125,
+                    "to-absolute-index.js": 138,
+                    "enum-bug-keys.js": 138,
+                    "object-get-own-property-symbols.js": 49,
+                    "is-forced.js": 279,
+                    "create-iterator-constructor.js": 370,
+                    "iterators-core.js": 442,
+                    "object-get-prototype-of.js": 372,
+                    "to-object.js": 110,
+                    "correct-prototype-getter.js": 169,
+                    "well-known-symbol.js": 311,
+                    "native-symbol.js": 132,
+                    "use-symbol-as-uid.js": 109,
+                    "object-create.js": 739,
+                    "object-define-properties.js": 284,
+                    "object-keys.js": 149,
+                    "html.js": 97,
+                    "set-to-string-tag.js": 234,
+                    "iterators.js": 31,
+                    "object-set-prototype-of.js": 368,
+                    "a-possible-prototype.js": 161,
+                    "native-url.js": 615,
+                    "an-instance.js": 131,
+                    "object-assign.js": 823,
+                    "array-from.js": 699,
+                    "bind-context.js": 358,
+                    "a-function.js": 122,
+                    "call-with-safe-iteration-closing.js": 173,
+                    "is-array-iterator-method.js": 190,
+                    "create-property.js": 226,
+                    "get-iterator-method.js": 204,
+                    "classof.js": 435,
+                    "to-string-tag-support.js": 124,
+                    "punycode-to-ascii.js": 1273,
+                    "add-to-unscopables.js": 243,
+                    "redefine-all.js": 116,
+                    "get-iterator.js": 216
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "packages/http.js": [
+      3465,
+      {
+        "node_modules": {
+          "meteor": {
+            "http": {
+              "httpcall_client.js": 2122,
+              "httpcall_common.js": 934
+            }
+          }
+        }
+      }
+    ],
+    "packages/rocketchat_mongo-config.js": 43,
+    "packages/ddp-rate-limiter.js": 36,
+    "packages/localstorage.js": 837,
+    "packages/reactive-var.js": 818,
+    "packages/jquery.js": [
+      98087,
+      {
+        "node_modules": {
+          "meteor": {
+            "jquery": {
+              "main.js": 136,
+              "jquery.js": 97602
+            }
+          }
+        }
+      }
+    ],
+    "packages/underscore.js": 14427,
+    "packages/observe-sequence.js": 2935,
+    "packages/deps.js": 111,
+    "packages/htmljs.js": 10030,
+    "packages/blaze.js": [
+      40508,
+      {
+        "node_modules": {
+          "meteor": {
+            "blaze": {
+              "preamble.js": 505,
+              "dombackend.js": 1766,
+              "domrange.js": 6005,
+              "events.js": 1960,
+              "attrs.js": 4104,
+              "materializer.js": 2142,
+              "exceptions.js": 481,
+              "view.js": 10098,
+              "builtins.js": 3896,
+              "lookup.js": 2522,
+              "template.js": 5365,
+              "backcompat.js": 246
+            }
+          }
+        }
+      }
+    ],
+    "packages/accounts-base.js": [
+      15143,
+      {
+        "node_modules": {
+          "meteor": {
+            "accounts-base": {
+              "client_main.js": 302,
+              "accounts_client.js": 9447,
+              "accounts_common.js": 4635
+            }
+          }
+        }
+      }
+    ],
+    "packages/oauth.js": [
+      4139,
+      {
+        "node_modules": {
+          "meteor": {
+            "oauth": {
+              "oauth_client.js": 1939,
+              "oauth_cordova.js": 710,
+              "oauth_common.js": 631,
+              "deprecated.js": 17
+            }
+          }
+        }
+      }
+    ],
+    "packages/accounts-oauth.js": [
+      1914,
+      {
+        "node_modules": {
+          "meteor": {
+            "accounts-oauth": {
+              "oauth_common.js": 405,
+              "oauth_client.js": 843
+            }
+          }
+        }
+      }
+    ],
+    "packages/service-configuration.js": 711,
+    "packages/oauth2.js": 26,
+    "packages/facebook-oauth.js": [
+      1428,
+      {
+        "node_modules": {
+          "meteor": {
+            "facebook-oauth": {
+              "facebook_client.js": 775
+            }
+          }
+        }
+      }
+    ],
+    "packages/accounts-facebook.js": [
+      1543,
+      {
+        "node_modules": {
+          "meteor": {
+            "accounts-facebook": {
+              "notice.js": 340,
+              "facebook.js": 552
+            }
+          }
+        }
+      }
+    ],
+    "packages/github-oauth.js": [
+      1265,
+      {
+        "node_modules": {
+          "meteor": {
+            "github-oauth": {
+              "github_client.js": 624
+            }
+          }
+        }
+      }
+    ],
+    "packages/accounts-github.js": [
+      1457,
+      {
+        "node_modules": {
+          "meteor": {
+            "accounts-github": {
+              "notice.js": 332,
+              "github.js": 490
+            }
+          }
+        }
+      }
+    ],
+    "packages/google-oauth.js": [
+      3388,
+      {
+        "node_modules": {
+          "meteor": {
+            "google-oauth": {
+              "google_client.js": 1417,
+              "google_sign-in.js": 1105,
+              "namespace.js": 69
+            }
+          }
+        }
+      }
+    ],
+    "packages/accounts-google.js": [
+      1957,
+      {
+        "node_modules": {
+          "meteor": {
+            "accounts-google": {
+              "notice.js": 332,
+              "google.js": 990
+            }
+          }
+        }
+      }
+    ],
+    "packages/meteor-developer-oauth.js": [
+      1686,
+      {
+        "node_modules": {
+          "meteor": {
+            "meteor-developer-oauth": {
+              "meteor_developer_common.js": 141,
+              "meteor_developer_client.js": 729
+            }
+          }
+        }
+      }
+    ],
+    "packages/accounts-meteor-developer.js": [
+      1726,
+      {
+        "node_modules": {
+          "meteor": {
+            "accounts-meteor-developer": {
+              "notice.js": 381,
+              "meteor-developer.js": 623
+            }
+          }
+        }
+      }
+    ],
+    "packages/sha.js": 2521,
+    "packages/srp.js": [
+      19519,
+      {
+        "node_modules": {
+          "meteor": {
+            "srp": {
+              "srp.js": 1322,
+              "biginteger.js": 17620
+            }
+          }
+        }
+      }
+    ],
+    "packages/accounts-password.js": [
+      3075,
+      {
+        "node_modules": {
+          "meteor": {
+            "accounts-password": {
+              "password_client.js": 2427
+            }
+          }
+        }
+      }
+    ],
+    "packages/oauth1.js": 26,
+    "packages/twitter-oauth.js": 1053,
+    "packages/accounts-twitter.js": [
+      1547,
+      {
+        "node_modules": {
+          "meteor": {
+            "accounts-twitter": {
+              "notice.js": 332,
+              "twitter.js": 552
+            }
+          }
+        }
+      }
+    ],
+    "packages/blaze-html-templates.js": 40,
+    "packages/typescript.js": 30,
+    "packages/fastclick.js": 8277,
+    "packages/logging.js": [
+      28899,
+      {
+        "node_modules": {
+          "meteor": {
+            "logging": {
+              "logging.js": 3665,
+              "logging_cordova.js": 201,
+              "node_modules": {
+                "cli-color": {
+                  "package.json": 74,
+                  "lib": {
+                    "index.js": 2486,
+                    "_xterm-match.js": 500,
+                    "_xterm-colors.js": 2347
+                  },
+                  "node_modules": {
+                    "es5-ext": {
+                      "lib": {
+                        "Object": {
+                          "descriptor.js": 872,
+                          "is-callable.js": 249,
+                          "valid-callable.js": 141,
+                          "valid-value.js": 126,
+                          "copy.js": 365,
+                          "is-plain-object.js": 212,
+                          "for-each.js": 68,
+                          "_iterate.js": 342,
+                          "extend.js": 277,
+                          "map.js": 217,
+                          "reduce.js": 470,
+                          "is.js": 96,
+                          "is-empty.js": 148
+                        },
+                        "String": {
+                          "is-string.js": 189,
+                          "prototype": {
+                            "contains.js": 123,
+                            "repeat.js": 178
+                          }
+                        },
+                        "Number": {
+                          "to-uint.js": 102,
+                          "to-int.js": 166,
+                          "is-nan.js": 66,
+                          "is-number.js": 179
+                        },
+                        "Math": {
+                          "sign.js": 100
+                        },
+                        "Error": {
+                          "custom.js": 333
+                        },
+                        "Array": {
+                          "prototype": {
+                            "e-index-of.js": 325,
+                            "last.js": 125,
+                            "last-index.js": 203
+                          },
+                          "from.js": 199
+                        },
+                        "Function": {
+                          "is-arguments.js": 148
+                        },
+                        "global.js": 71
+                      }
+                    },
+                    "memoizee": {
+                      "package.json": 73,
+                      "lib": {
+                        "index.js": 319,
+                        "regular.js": 2666,
+                        "_base.js": 614,
+                        "primitive.js": 1195,
+                        "ext": {
+                          "dispose.js": 501,
+                          "resolvers.js": 588,
+                          "async.js": 1297,
+                          "ref-counter.js": 441,
+                          "method.js": 712,
+                          "max-age.js": 829,
+                          "max.js": 542
+                        }
+                      },
+                      "node_modules": {
+                        "event-emitter": {
+                          "lib": {
+                            "has-listeners.js": 270,
+                            "_id.js": 49,
+                            "core.js": 1569
+                          }
+                        },
+                        "next-tick": {
+                          "package.json": 84,
+                          "lib": {
+                            "next-tick.js": 242
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "packages/meteor-base.js": 31,
+    "packages/mobile-experience.js": 37,
+    "packages/rate-limit.js": [
+      3422,
+      {
+        "node_modules": {
+          "meteor": {
+            "rate-limit": {
+              "rate-limit.js": 2879
+            }
+          }
+        }
+      }
+    ],
+    "packages/reactive-dict.js": [
+      4672,
+      {
+        "node_modules": {
+          "meteor": {
+            "reactive-dict": {
+              "migration.js": 821,
+              "reactive-dict.js": 3233
+            }
+          }
+        }
+      }
+    ],
+    "packages/session.js": [
+      713,
+      {
+        "node_modules": {
+          "meteor": {
+            "session": {
+              "session.js": 153
+            }
+          }
+        }
+      }
+    ],
+    "packages/shell-server.js": 32,
+    "packages/spacebars.js": 2950,
+    "packages/standard-minifier-js.js": 40,
+    "packages/rocketchat_livechat.js": 39,
+    "packages/rocketchat_streamer.js": [
+      6216,
+      {
+        "node_modules": {
+          "meteor": {
+            "rocketchat:streamer": {
+              "lib": {
+                "ev.js": 1121
+              },
+              "client": {
+                "client.js": 4346
+              }
+            }
+          }
+        }
+      }
+    ],
+    "packages/rocketchat_version.js": 38,
+    "packages/nooitaf_colors.js": 34,
+    "packages/konecty_multiple-instances-status.js": 53,
+    "packages/konecty_user-presence.js": [
+      2690,
+      {
+        "node_modules": {
+          "meteor": {
+            "konecty:user-presence": {
+              "common": {
+                "common.js": 49
+              },
+              "client": {
+                "client.js": 1622
+              },
+              "utils": {
+                "index.js": 247
+              }
+            }
+          }
+        }
+      }
+    ],
+    "packages/deepwell_bootstrap-datepicker2.js": 27111,
+    "packages/dispatch_run-as-user.js": 2263,
+    "packages/matb33_collection-hooks.js": [
+      12707,
+      {
+        "node_modules": {
+          "meteor": {
+            "matb33:collection-hooks": {
+              "client.js": 416,
+              "advices.js": 177,
+              "collection-hooks.js": 4129,
+              "find.js": 467,
+              "findone.js": 449,
+              "insert.js": 1235,
+              "remove.js": 1145,
+              "update.js": 1640,
+              "upsert.js": 1918,
+              "users-compat.js": 285
+            }
+          }
+        }
+      }
+    ],
+    "packages/jalik_ufs.js": [
+      43358,
+      {
+        "node_modules": {
+          "meteor": {
+            "jalik:ufs": {
+              "ufs.js": 2789,
+              "ufs-config.js": 1591,
+              "ufs-filter.js": 2894,
+              "ufs-methods.js": 3799,
+              "ufs-mime.js": 2528,
+              "ufs-server.js": 5212,
+              "ufs-store-permissions.js": 1005,
+              "ufs-store.js": 8471,
+              "ufs-tokens.js": 150,
+              "ufs-uploader.js": 5454,
+              "node_modules": {
+                "spark-md5": {
+                  "package.json": 83,
+                  "spark-md5.js": 8536
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "packages/jalik_ufs-gridfs.js": [
+      2013,
+      {
+        "node_modules": {
+          "meteor": {
+            "jalik:ufs-gridfs": {
+              "ufs-gridfs.js": 1477
+            }
+          }
+        }
+      }
+    ],
+    "packages/jparker_crypto-core.js": 3363,
+    "packages/jparker_crypto-md5.js": 3227,
+    "packages/jparker_gravatar.js": 729,
+    "packages/templating-compiler.js": 39,
+    "packages/templating-runtime.js": 3095,
+    "packages/templating.js": 103,
+    "packages/kadira_blaze-layout.js": 2064,
+    "packages/kadira_flow-router.js": [
+      25961,
+      {
+        "node_modules": {
+          "meteor": {
+            "kadira:flow-router": {
+              "client": {
+                "modules.js": 36,
+                "triggers.js": 1080,
+                "router.js": 6778,
+                "group.js": 1064,
+                "route.js": 1814,
+                "_init.js": 98
+              },
+              "lib": {
+                "router.js": 159
+              },
+              "node_modules": {
+                "page": {
+                  "package.json": 58,
+                  "index.js": 4637,
+                  "node_modules": {
+                    "path-to-regexp": {
+                      "package.json": 68,
+                      "index.js": 2767,
+                      "node_modules": {
+                        "isarray": {
+                          "package.json": 77,
+                          "index.js": 114
+                        }
+                      }
+                    }
+                  }
+                },
+                "qs": {
+                  "package.json": 76,
+                  "lib": {
+                    "index.js": 88,
+                    "stringify.js": 1588,
+                    "utils.js": 1794,
+                    "parse.js": 2399
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "packages/mizzao_timesync.js": [
+      2738,
+      {
+        "node_modules": {
+          "meteor": {
+            "mizzao:timesync": {
+              "client": {
+                "index.js": 192,
+                "timesync-client.js": 1894
+              }
+            }
+          }
+        }
+      }
+    ],
+    "packages/mrt_reactive-store.js": 3110,
+    "packages/ui.js": 137,
+    "packages/mystor_device-detection.js": 5610,
+    "packages/coffeescript.js": 32,
+    "packages/simple_json-routes.js": 38,
+    "packages/nimble_restivus.js": 35,
+    "packages/ostrio_cookies.js": [
+      9628,
+      {
+        "node_modules": {
+          "meteor": {
+            "ostrio:cookies": {
+              "cookies.js": 9106
+            }
+          }
+        }
+      }
+    ],
+    "packages/pauli_linkedin-oauth.js": [
+      1574,
+      {
+        "node_modules": {
+          "meteor": {
+            "pauli:linkedin-oauth": {
+              "linkedin-client.js": 903
+            }
+          }
+        }
+      }
+    ],
+    "packages/pauli_accounts-linkedin.js": [
+      1494,
+      {
+        "node_modules": {
+          "meteor": {
+            "pauli:accounts-linkedin": {
+              "notice.js": 336,
+              "linkedin.js": 457
+            }
+          }
+        }
+      }
+    ],
+    "packages/raix_handlebar-helpers.js": 3087,
+    "packages/raix_ui-dropped-event.js": 724,
+    "packages/raix_eventemitter.js": 2215,
+    "packages/meteorspark_util.js": 495,
+    "packages/rocketchat_tap-i18n.js": 39157,
+    "packages/littledata_synced-cron.js": 42,
+    "packages/edgee_slingshot.js": 4718,
+    "packages/jalik_ufs-local.js": [
+      2748,
+      {
+        "node_modules": {
+          "meteor": {
+            "jalik:ufs-local": {
+              "ufs-local.js": 2217
+            }
+          }
+        }
+      }
+    ],
+    "packages/autoupdate.js": [
+      3162,
+      {
+        "node_modules": {
+          "meteor": {
+            "autoupdate": {
+              "autoupdate_cordova.js": 1019,
+              "client_versions.js": 1490
+            }
+          }
+        }
+      }
+    ],
+    "packages/less.js": 24,
+    "packages/meteorhacks_inject-initial.js": 577,
+    "packages/routepolicy.js": 31,
+    "packages/webapp.js": [
+      605,
+      {
+        "node_modules": {
+          "meteor": {
+            "webapp": {
+              "webapp_cordova.js": 97
+            }
+          }
+        }
+      }
+    ],
+    "packages/webapp-hashing.js": 78,
+    "packages/rocketchat_oauth2-server.js": 87,
+    "packages/rocketchat_i18n.js": 251457,
+    "packages/rocketchat_postcss.js": 38,
+    "packages/dandv_caret-position.js": 1505,
+    "packages/facts-base.js": [
+      706,
+      {
+        "node_modules": {
+          "meteor": {
+            "facts-base": {
+              "facts_base_common.js": 184
+            }
+          }
+        }
+      }
+    ],
+    "packages/livedata.js": 105,
+    "packages/hot-code-push.js": 33,
+    "packages/mobile-status-bar.js": 37,
+    "packages/launch-screen.js": 795,
+    "app/global-imports.js": [
+      2757,
+      {}
+    ],
+    "app/app.js": [
+      2584777,
+      {
+        "app": {
+          "ui": {
+            "client": {
+              "lib": {
+                "codeMirror": {
+                  "codeMirrorComponent.html": 73,
+                  "template.codeMirrorComponent.js": 367,
+                  "codeMirror.js": 4227,
+                  "codeMirrorComponent.js": 1635,
+                  "index.js": 50
+                },
+                "recorderjs": {
+                  "audioEncoder.js": 1560,
+                  "audioRecorder.js": 2547,
+                  "videoRecorder.js": 2152
+                },
+                "Modernizr.js": 9578,
+                "Tooltip.js": 1234,
+                "TooltipComponent.js": 477,
+                "UserCard.js": 1107,
+                "accounts.js": 411,
+                "chatMessages.js": 13929,
+                "collections.js": 430,
+                "fileUpload.js": 7684,
+                "iframeCommands.js": 2699,
+                "menu.js": 488,
+                "msgTyping.js": 1970,
+                "notification.js": 4707,
+                "parentTemplate.js": 266,
+                "rocket.js": 2029,
+                "textarea-cursor.js": 298,
+                "userPopoverStatus.js": 1161
+              },
+              "views": {
+                "app": {
+                  "videoCall": {
+                    "videoButtons.html": 66,
+                    "template.videoButtons.js": 1411,
+                    "videoCall.html": 63,
+                    "template.videoCall.js": 6265,
+                    "videoButtons.js": 1040,
+                    "videoCall.js": 3913
+                  },
+                  "CreateDirectMessage.html": 73,
+                  "template.CreateDirectMessage.js": 1650,
+                  "burger.html": 60,
+                  "template.burger.js": 720,
+                  "createChannel.html": 67,
+                  "template.createChannel.js": 15517,
+                  "editStatus.html": 64,
+                  "template.editStatus.js": 2517,
+                  "fullModal.html": 63,
+                  "template.fullModal.js": 851,
+                  "home.html": 58,
+                  "template.home.js": 536,
+                  "invite.html": 60,
+                  "template.invite.js": 760,
+                  "notAuthorized.html": 67,
+                  "template.notAuthorized.js": 256,
+                  "pageContainer.html": 67,
+                  "template.pageContainer.js": 984,
+                  "pageCustomContainer.html": 73,
+                  "template.pageCustomContainer.js": 352,
+                  "pageSettingsContainer.html": 75,
+                  "template.pageSettingsContainer.js": 812,
+                  "photoswipe.html": 64,
+                  "template.photoswipe.js": 1451,
+                  "room.html": 58,
+                  "template.room.js": 13443,
+                  "roomSearch.html": 64,
+                  "template.roomSearch.js": 658,
+                  "secretURL.html": 63,
+                  "template.secretURL.js": 778,
+                  "userSearch.html": 64,
+                  "template.userSearch.js": 759,
+                  "CreateDirectMessage.js": 3307,
+                  "burger.js": 1036,
+                  "createChannel.js": 10486,
+                  "editStatus.css": 14,
+                  "editStatus.js": 1326,
+                  "fullModal.js": 14,
+                  "helpers.js": 581,
+                  "home.js": 265,
+                  "invite.js": 1759,
+                  "photoswipe.js": 1537,
+                  "room.js": 28379,
+                  "roomSearch.js": 329,
+                  "secretURL.js": 1153
+                },
+                "cmsPage.html": 61,
+                "template.cmsPage.js": 652,
+                "cmsPage.js": 770
+              },
+              "components": {
+                "header": {
+                  "header.html": 60,
+                  "template.header.js": 1940,
+                  "headerRoom.html": 64,
+                  "template.headerRoom.js": 6256,
+                  "header.js": 481,
+                  "headerRoom.js": 5848
+                },
+                "contextualBar.html": 67,
+                "template.contextualBar.js": 2382,
+                "icon.html": 58,
+                "template.icon.js": 501,
+                "popupList.html": 63,
+                "template.popupList.js": 4720,
+                "selectDropdown.html": 68,
+                "template.selectDropdown.js": 1486,
+                "status.html": 60,
+                "template.status.js": 899,
+                "table.html": 59,
+                "template.table.js": 672,
+                "tabs.html": 58,
+                "template.tabs.js": 947,
+                "tooltip.html": 61,
+                "template.tooltip.js": 249,
+                "contextualBar.js": 617,
+                "icon.js": 680,
+                "popupList.js": 854,
+                "status.js": 1174,
+                "table.js": 723,
+                "tabs.js": 719,
+                "tooltip.css": 14,
+                "tooltip.js": 942
+              },
+              "index.js": 2852
+            },
+            "index.js": 55
+          },
+          "lib": {
+            "client": {
+              "views": {
+                "customFieldsForm.html": 70,
+                "template.customFieldsForm.js": 4533,
+                "customFieldsForm.js": 1221
+              },
+              "lib": {
+                "startup": {
+                  "commands.js": 431
+                },
+                "LoginPresence.js": 818,
+                "RocketChatAnnouncement.js": 1380,
+                "formatDate.js": 1271,
+                "index.js": 263,
+                "settings.js": 1173,
+                "userRoles.js": 1242
+              },
+              "methods": {
+                "sendMessage.js": 1092
+              },
+              "CustomTranslations.js": 413,
+              "OAuthProxy.js": 698,
+              "UserDeleted.js": 313,
+              "defaultTabBars.js": 1480,
+              "index.js": 457
+            },
+            "lib": {
+              "roomTypes": {
+                "conversation.js": 627,
+                "direct.js": 4180,
+                "favorite.js": 731,
+                "index.js": 633,
+                "private.js": 2872,
+                "public.js": 3128,
+                "unread.js": 634
+              },
+              "startup": {
+                "settingsOnLoadSiteUrl.js": 725
+              },
+              "MessageTypes.js": 3010
+            },
+            "startup": {
+              "defaultRoomTypes.js": 406
+            },
+            "index.js": 198
+          },
+          "spotify": {
+            "lib": {
+              "client": {
+                "oembedSpotifyWidget.html": 73,
+                "template.oembedSpotifyWidget.js": 1906,
+                "widget.js": 512
+              },
+              "spotify.js": 1474
+            },
+            "client": {
+              "index.js": 123
+            }
+          },
+          "ui-utils": {
+            "client": {
+              "lib": {
+                "alerts.html": 60,
+                "template.alerts.js": 2249,
+                "collapseArrow.html": 67,
+                "template.collapseArrow.js": 701,
+                "modal.html": 59,
+                "template.modal.js": 6237,
+                "popout.html": 60,
+                "template.popout.js": 5918,
+                "popover.html": 61,
+                "template.popover.js": 4338,
+                "AccountBox.js": 1835,
+                "ChannelActions.js": 2959,
+                "IframeLogin.js": 1940,
+                "Layout.js": 402,
+                "MessageAction.js": 7279,
+                "RocketChatTabBar.js": 1903,
+                "RoomHistoryManager.js": 7116,
+                "RoomManager.js": 7864,
+                "SideNav.js": 3166,
+                "TabBar.js": 2016,
+                "alerts.js": 1569,
+                "avatar.js": 546,
+                "callMethod.js": 660,
+                "collapseArrow.js": 765,
+                "fireGlobalEvent.js": 470,
+                "getUidDirectMessage.js": 429,
+                "isIE11.js": 233,
+                "keyCodes.js": 407,
+                "mainReady.js": 146,
+                "menu.js": 5061,
+                "messageArgs.js": 147,
+                "messageBox.js": 1079,
+                "messageContext.js": 2100,
+                "modal.js": 4763,
+                "openRoom.js": 4882,
+                "popout.js": 5476,
+                "popover.js": 4472,
+                "prependReplies.js": 1204,
+                "readMessages.js": 3290,
+                "renderMessageBody.js": 441,
+                "rtl.js": 206,
+                "warnUserDeletionMayRemoveRooms.js": 1720
+              },
+              "config.js": 254,
+              "index.js": 1934
+            },
+            "lib": {
+              "Message.js": 790,
+              "MessageProperties.js": 364,
+              "MessageTypes.js": 395
+            },
+            "index.js": 198
+          },
+          "livechat": {
+            "client": {
+              "views": {
+                "app": {
+                  "analytics": {
+                    "livechatAnalytics.html": 71,
+                    "template.livechatAnalytics.js": 6984,
+                    "livechatAnalyticsCustomDaterange.html": 86,
+                    "template.livechatAnalyticsCustomDaterange.js": 1176,
+                    "livechatAnalyticsDaterange.html": 80,
+                    "template.livechatAnalyticsDaterange.js": 3384,
+                    "livechatAnalytics.js": 6120,
+                    "livechatAnalyticsCustomDaterange.js": 1238,
+                    "livechatAnalyticsDaterange.js": 1591
+                  },
+                  "dialog": {
+                    "closeRoom.html": 63,
+                    "template.closeRoom.js": 5351,
+                    "closeRoom.js": 4690
+                  },
+                  "tabbar": {
+                    "agentEdit.html": 63,
+                    "template.agentEdit.js": 7000,
+                    "agentInfo.html": 63,
+                    "template.agentInfo.js": 5991,
+                    "contactChatHistory.html": 72,
+                    "template.contactChatHistory.js": 2980,
+                    "contactChatHistoryItem.html": 76,
+                    "template.contactChatHistoryItem.js": 2709,
+                    "contactChatHistoryMessages.html": 80,
+                    "template.contactChatHistoryMessages.js": 4000,
+                    "visitorEdit.html": 65,
+                    "template.visitorEdit.js": 7425,
+                    "visitorEditCustomField.html": 76,
+                    "template.visitorEditCustomField.js": 2277,
+                    "visitorForward.html": 68,
+                    "template.visitorForward.js": 4032,
+                    "visitorInfo.html": 65,
+                    "template.visitorInfo.js": 12077,
+                    "visitorNavigation.html": 71,
+                    "template.visitorNavigation.js": 1252,
+                    "visitorTranscript.html": 71,
+                    "template.visitorTranscript.js": 3974,
+                    "agentEdit.js": 3738,
+                    "agentInfo.js": 4348,
+                    "contactChatHistory.js": 3979,
+                    "contactChatHistoryItem.js": 920,
+                    "contactChatHistoryMessages.js": 2662,
+                    "visitorEdit.js": 6276,
+                    "visitorEditCustomField.js": 321,
+                    "visitorForward.js": 3924,
+                    "visitorInfo.js": 7811,
+                    "visitorNavigation.js": 2156,
+                    "visitorTranscript.js": 3905
+                  },
+                  "livechatAutocompleteUser.html": 78,
+                  "template.livechatAutocompleteUser.js": 2495,
+                  "livechatDashboard.html": 71,
+                  "template.livechatDashboard.js": 360,
+                  "livechatDepartmentForm.html": 76,
+                  "template.livechatDepartmentForm.js": 17258,
+                  "livechatDepartments.html": 73,
+                  "template.livechatDepartments.js": 4994,
+                  "livechatNotSubscribed.html": 75,
+                  "template.livechatNotSubscribed.js": 293,
+                  "livechatQueue.html": 67,
+                  "template.livechatQueue.js": 7260,
+                  "livechatReadOnly.html": 70,
+                  "template.livechatReadOnly.js": 1447,
+                  "livechatRoomTagSelector.html": 77,
+                  "template.livechatRoomTagSelector.js": 1321,
+                  "business-hours": {
+                    "BusinessHours.ts": 811,
+                    "Single.ts": 415
+                  },
+                  "customTemplates": {
+                    "register.js": 312
+                  },
+                  "livechatAutocompleteUser.js": 2460,
+                  "livechatDepartmentForm.js": 10989,
+                  "livechatDepartments.js": 2619,
+                  "livechatQueue.js": 3341,
+                  "livechatReadOnly.js": 2854,
+                  "livechatRoomTagSelector.js": 596
+                },
+                "sideNav": {
+                  "livechat.html": 62,
+                  "template.livechat.js": 2632,
+                  "livechat.js": 3103
+                },
+                "admin.js": 288,
+                "regular.js": 645
+              },
+              "externalFrame": {
+                "externalFrameContainer.html": 76,
+                "template.externalFrameContainer.js": 327,
+                "crypto.ts": 2087,
+                "externalFrameContainer.js": 1608,
+                "generateNewKey.ts": 548,
+                "index.js": 99,
+                "tabBar.js": 567
+              },
+              "lib": {
+                "stream": {
+                  "inquiry.js": 253,
+                  "queueManager.js": 2875
+                },
+                "chartHandler.js": 2986,
+                "dateHandler.js": 2165,
+                "messageTypes.js": 171
+              },
+              "collections": {
+                "LivechatInquiry.js": 152
+              },
+              "hooks": {
+                "onCreateRoomTabBar.js": 386
+              },
+              "startup": {
+                "notifyUnreadRooms.js": 784
+              },
+              "stylesheets": {
+                "livechat.css": 14
+              },
+              "index.js": 343,
+              "roomType.js": 155,
+              "route.js": 1355,
+              "ui.js": 1186
+            },
+            "lib": {
+              "stream": {
+                "constants.js": 130
+              },
+              "LivechatRoomType.js": 3097,
+              "messageTypes.js": 1850
+            }
+          },
+          "discussion": {
+            "client": {
+              "views": {
+                "creationDialog": {
+                  "CreateDiscussion.html": 70,
+                  "template.CreateDiscussion.js": 7585,
+                  "CreateDiscussion.js": 7232
+                },
+                "DiscussionList.html": 68,
+                "template.DiscussionList.js": 861,
+                "DiscussionTabbar.html": 70,
+                "template.DiscussionTabbar.js": 360,
+                "DiscussionList.js": 735,
+                "DiscussionTabbar.js": 236
+              },
+              "lib": {
+                "messageTypes": {
+                  "discussionMessage.js": 387
+                }
+              },
+              "public": {
+                "stylesheets": {
+                  "discussion.css": 14
+                }
+              },
+              "createDiscussionMessageAction.js": 1430,
+              "discussionFromMessageBox.js": 879,
+              "index.js": 363,
+              "tabBar.js": 439
+            },
+            "lib": {
+              "discussionRoomType.js": 702
+            }
+          },
+          "message-snippet": {
+            "client": {
+              "tabBar": {
+                "views": {
+                  "snippetedMessages.html": 71,
+                  "template.snippetedMessages.js": 1662,
+                  "snippetedMessages.js": 2201
+                },
+                "tabBar.js": 523
+              },
+              "page": {
+                "snippetPage.html": 65,
+                "template.snippetPage.js": 2056,
+                "stylesheets": {
+                  "snippetPage.css": 14
+                },
+                "snippetPage.js": 1385
+              },
+              "actionButton.js": 14,
+              "index.js": 338,
+              "messageType.js": 457,
+              "router.js": 432,
+              "snippetMessage.js": 546
+            }
+          },
+          "apps": {
+            "client": {
+              "gameCenter": {
+                "gameCenter.html": 64,
+                "template.gameCenter.js": 3959,
+                "gameContainer.html": 67,
+                "template.gameContainer.js": 2045,
+                "invitePlayers.html": 67,
+                "template.invitePlayers.js": 3930,
+                "gameCenter.js": 2200,
+                "gameContainer.js": 1876,
+                "invitePlayers.js": 5434,
+                "tabBar.js": 1092
+              },
+              "communication": {
+                "index.js": 111,
+                "websockets.js": 1798
+              },
+              "RealAppsEngineUIHost.js": 2016,
+              "i18n.js": 1456,
+              "index.js": 197,
+              "orchestrator.js": 7652
+            },
+            "lib": {
+              "misc": {
+                "Utilities.js": 1320
+              }
+            }
+          },
+          "authorization": {
+            "client": {
+              "views": {
+                "permissions.html": 65,
+                "template.permissions.js": 6807,
+                "permissionsRole.html": 69,
+                "template.permissionsRole.js": 9825,
+                "index.js": 132,
+                "permissions.js": 3349,
+                "permissionsRole.js": 6504
+              },
+              "requiresPermission.html": 72,
+              "template.requiresPermission.js": 846,
+              "lib": {
+                "ChatPermissions.js": 161,
+                "streamer.js": 153
+              },
+              "stylesheets": {
+                "permissions.css": 14
+              },
+              "hasPermission.js": 1914,
+              "hasRole.js": 183,
+              "index.js": 717,
+              "route.js": 1541,
+              "startup.js": 1340,
+              "usersNameChanged.js": 345
+            },
+            "lib": {
+              "AuthorizationUtils.ts": 934,
+              "index.js": 255
+            },
+            "index.js": 198
+          },
+          "autotranslate": {
+            "client": {
+              "views": {
+                "autoTranslateFlexTab.html": 74,
+                "template.autoTranslateFlexTab.js": 3186,
+                "autoTranslateFlexTab.js": 3763
+              },
+              "lib": {
+                "actionButton.js": 1851,
+                "autotranslate.js": 3315,
+                "tabBar.js": 630
+              },
+              "stylesheets": {
+                "autotranslate.css": 14
+              },
+              "index.js": 259
+            }
+          },
+          "channel-settings": {
+            "client": {
+              "views": {
+                "channelSettings.html": 69,
+                "template.channelSettings.js": 8270,
+                "Multiselect.js": 385,
+                "channelSettings.js": 4161
+              },
+              "lib": {
+                "ChannelSettings.js": 1027
+              },
+              "startup": {
+                "messageTypes.js": 1195,
+                "tabBar.js": 313,
+                "trackSettingsChange.js": 1224
+              },
+              "stylesheets": {
+                "channel-settings.css": 14
+              },
+              "index.js": 336
+            },
+            "index.js": 198
+          },
+          "chatpal-search": {
+            "client": {
+              "template": {
+                "admin.html": 59,
+                "template.admin.js": 3173,
+                "result.html": 60,
+                "template.result.js": 11795,
+                "suggestion.html": 64,
+                "template.suggestion.js": 706,
+                "admin.js": 1654,
+                "result.js": 3417,
+                "suggestion.js": 242
+              },
+              "index.js": 247,
+              "route.js": 352,
+              "style.css": 14
+            }
+          },
+          "livestream": {
+            "client": {
+              "views": {
+                "broadcastView.html": 67,
+                "template.broadcastView.js": 329,
+                "liveStreamTab.html": 67,
+                "template.liveStreamTab.js": 5670,
+                "liveStreamView.html": 68,
+                "template.liveStreamView.js": 231,
+                "livestreamBroadcast.html": 73,
+                "template.livestreamBroadcast.js": 295,
+                "broadcastView.js": 5936,
+                "liveStreamTab.js": 7461,
+                "liveStreamView.js": 1457,
+                "livestreamBroadcast.js": 14
+              },
+              "styles": {
+                "liveStreamTab.css": 14
+              },
+              "index.js": 364,
+              "oauth.js": 741,
+              "tabBar.js": 785
+            }
+          },
+          "mail-messages": {
+            "client": {
+              "views": {
+                "mailerUnsubscribe.html": 71,
+                "template.mailerUnsubscribe.js": 627,
+                "index.js": 83,
+                "mailerUnsubscribe.js": 171
+              },
+              "index.js": 57,
+              "router.js": 713,
+              "startup.js": 284
+            }
+          },
+          "mentions-flextab": {
+            "client": {
+              "views": {
+                "mentionsFlexTab.html": 69,
+                "template.mentionsFlexTab.js": 1620,
+                "mentionsFlexTab.js": 2335
+              },
+              "actionButton.js": 882,
+              "index.js": 135,
+              "tabBar.js": 285
+            }
+          },
+          "message-pin": {
+            "client": {
+              "views": {
+                "pinnedMessages.html": 68,
+                "template.pinnedMessages.js": 1581,
+                "stylesheets": {
+                  "messagepin.css": 14
+                },
+                "pinnedMessages.js": 2248
+              },
+              "actionButton.js": 2607,
+              "index.js": 225,
+              "messageType.js": 237,
+              "pinMessage.js": 993,
+              "tabBar.js": 511
+            }
+          },
+          "message-star": {
+            "client": {
+              "views": {
+                "starredMessages.html": 69,
+                "template.starredMessages.js": 1585,
+                "stylesheets": {
+                  "messagestar.css": 14
+                },
+                "starredMessages.js": 2256
+              },
+              "actionButton.js": 2853,
+              "index.js": 205,
+              "starMessage.js": 744,
+              "tabBar.js": 306
+            }
+          },
+          "oauth2-server-config": {
+            "client": {
+              "oauth": {
+                "oauth2-client.html": 67,
+                "template.oauth2-client.js": 3910,
+                "stylesheets": {
+                  "oauth2.css": 14
+                },
+                "oauth2-client.js": 1681
+              },
+              "admin": {
+                "startup.js": 306
+              },
+              "index.js": 154
+            }
+          },
+          "otr": {
+            "client": {
+              "views": {
+                "otrFlexTab.html": 64,
+                "template.otrFlexTab.js": 2210,
+                "otrFlexTab.js": 1601
+              },
+              "stylesheets": {
+                "otr.css": 14
+              },
+              "index.js": 191,
+              "rocketchat.otr.js": 1997,
+              "rocketchat.otr.room.js": 5632,
+              "tabBar.js": 603
+            }
+          },
+          "push-notifications": {
+            "client": {
+              "views": {
+                "pushNotificationsFlexTab.html": 78,
+                "template.pushNotificationsFlexTab.js": 12293,
+                "pushNotificationsFlexTab.js": 7520
+              },
+              "stylesheets": {
+                "pushNotifications.css": 14
+              },
+              "index.js": 174,
+              "tabBar.js": 325
+            }
+          },
+          "search": {
+            "client": {
+              "provider": {
+                "result.html": 60,
+                "template.result.js": 2200,
+                "suggestion.html": 64,
+                "template.suggestion.js": 332,
+                "result.js": 3171
+              },
+              "search": {
+                "search.html": 60,
+                "template.search.js": 3104,
+                "search.js": 3623
+              },
+              "style": {
+                "style.css": 14
+              },
+              "index.js": 201
+            }
+          },
+          "threads": {
+            "client": {
+              "flextab": {
+                "messageBoxFollow.html": 70,
+                "template.messageBoxFollow.js": 347,
+                "thread.html": 60,
+                "template.thread.js": 2886,
+                "threads.html": 61,
+                "template.threads.js": 364,
+                "messageBoxFollow.js": 282,
+                "thread.js": 7982,
+                "threadlist.js": 862,
+                "threads.js": 293
+              },
+              "lib": {
+                "normalizeThreadTitle.js": 1462
+              },
+              "components": {
+                "ThreadComponent.js": 4657
+              },
+              "messageAction": {
+                "follow.js": 1211,
+                "replyInThread.js": 843,
+                "unfollow.js": 1223
+              },
+              "index.js": 212,
+              "threads.css": 14
+            }
+          },
+          "ui-account": {
+            "client": {
+              "avatar": {
+                "avatar.html": 60,
+                "template.avatar.js": 424,
+                "avatar.js": 935
+              },
+              "index.js": 75
+            },
+            "index.js": 55
+          },
+          "ui-clean-history": {
+            "client": {
+              "views": {
+                "cleanHistory.html": 66,
+                "template.cleanHistory.js": 11954,
+                "stylesheets": {
+                  "cleanHistory.css": 14
+                },
+                "cleanHistory.js": 7975
+              },
+              "lib": {
+                "startup.js": 522
+              },
+              "index.js": 156
+            },
+            "index.js": 55
+          },
+          "ui-flextab": {
+            "client": {
+              "tabs": {
+                "createInviteLink.html": 70,
+                "template.createInviteLink.js": 4526,
+                "inviteUsers.html": 65,
+                "template.inviteUsers.js": 2250,
+                "keyboardShortcuts.html": 71,
+                "template.keyboardShortcuts.js": 3117,
+                "membersList.html": 65,
+                "template.membersList.js": 6236,
+                "uploadedFilesList.html": 71,
+                "template.uploadedFilesList.js": 5346,
+                "createInviteLink.js": 2217,
+                "inviteUsers.js": 3906,
+                "membersList.js": 7093,
+                "uploadedFilesList.js": 6154,
+                "userActions.js": 11902
+              },
+              "flexTabBar.html": 64,
+              "template.flexTabBar.js": 7115,
+              "flexTabBar.js": 5020,
+              "index.js": 383
+            },
+            "index.js": 55
+          },
+          "ui-login": {
+            "client": {
+              "login": {
+                "footer.html": 60,
+                "template.footer.js": 493,
+                "form.html": 58,
+                "template.form.js": 9828,
+                "header.html": 60,
+                "template.header.js": 275,
+                "layout.html": 60,
+                "template.layout.js": 812,
+                "services.html": 62,
+                "template.services.js": 1587,
+                "social.html": 60,
+                "template.social.js": 1445,
+                "footer.js": 1813,
+                "form.js": 7513,
+                "header.js": 313,
+                "layout.js": 418,
+                "services.js": 1625,
+                "social.js": 14
+              },
+              "reset-password": {
+                "resetPassword.html": 67,
+                "template.resetPassword.js": 2349,
+                "resetPassword.js": 3148
+              },
+              "username": {
+                "layout.html": 60,
+                "template.layout.js": 697,
+                "username.html": 62,
+                "template.username.js": 3580,
+                "layout.js": 345,
+                "username.js": 1694
+              },
+              "index.js": 580,
+              "routes.js": 289
+            },
+            "index.js": 55
+          },
+          "ui-master": {
+            "client": {
+              "loading": {
+                "loading.html": 61,
+                "template.loading.js": 361,
+                "index.js": 67,
+                "loading.css": 14
+              },
+              "error.html": 59,
+              "template.error.js": 512,
+              "logoLayout.html": 64,
+              "template.logoLayout.js": 596,
+              "main.html": 58,
+              "template.main.js": 4278,
+              "index.js": 128,
+              "main.js": 6963
+            }
+          },
+          "ui-message": {
+            "client": {
+              "messageBox": {
+                "messageBox.html": 64,
+                "template.messageBox.js": 8688,
+                "messageBoxAudioMessage.html": 76,
+                "template.messageBoxAudioMessage.js": 1995,
+                "messageBoxNotSubscribed.html": 77,
+                "template.messageBoxNotSubscribed.js": 2092,
+                "messageBoxReadOnly.html": 72,
+                "template.messageBoxReadOnly.js": 954,
+                "messageBoxReplyPreview.html": 76,
+                "template.messageBoxReplyPreview.js": 926,
+                "messageBoxTyping.html": 70,
+                "template.messageBoxTyping.js": 1402,
+                "messageBox.js": 8939,
+                "messageBoxActions.js": 4943,
+                "messageBoxAudioMessage.js": 4139,
+                "messageBoxAutogrow.js": 1201,
+                "messageBoxFormatting.js": 2464,
+                "messageBoxNotSubscribed.js": 2270,
+                "messageBoxReadOnly.js": 269,
+                "messageBoxReplyPreview.js": 416,
+                "messageBoxTyping.js": 652
+              },
+              "popup": {
+                "messagePopup.html": 66,
+                "template.messagePopup.js": 2999,
+                "messagePopupChannel.html": 73,
+                "template.messagePopupChannel.js": 408,
+                "messagePopupConfig.html": 72,
+                "template.messagePopupConfig.js": 1364,
+                "messagePopupEmoji.html": 71,
+                "template.messagePopupEmoji.js": 393,
+                "messagePopupSlashCommand.html": 78,
+                "template.messagePopupSlashCommand.js": 719,
+                "messagePopupSlashCommandPreview.html": 85,
+                "template.messagePopupSlashCommandPreview.js": 3577,
+                "messagePopupUser.html": 70,
+                "template.messagePopupUser.js": 2187,
+                "customMessagePopups.js": 338,
+                "messagePopup.js": 6819,
+                "messagePopupChannel.js": 257,
+                "messagePopupConfig.js": 6697,
+                "messagePopupEmoji.js": 211,
+                "messagePopupSlashCommandPreview.js": 5655
+              },
+              "message.html": 61,
+              "template.message.js": 23352,
+              "messageThread.html": 67,
+              "template.messageThread.js": 1481,
+              "ActionManager.js": 3729,
+              "index.js": 341,
+              "message.js": 10068,
+              "messageThread.js": 2015
+            },
+            "index.js": 55
+          },
+          "videobridge": {
+            "client": {
+              "views": {
+                "bbbLiveView.html": 65,
+                "template.bbbLiveView.js": 392,
+                "videoFlexTab.html": 66,
+                "template.videoFlexTab.js": 763,
+                "videoFlexTabBbb.html": 69,
+                "template.videoFlexTabBbb.js": 1319,
+                "videoFlexTab.js": 4676,
+                "videoFlexTabBbb.js": 1362
+              },
+              "stylesheets": {
+                "video.css": 14
+              },
+              "actionLink.js": 565,
+              "index.js": 298,
+              "tabBar.js": 1724
+            },
+            "lib": {
+              "messageType.js": 319
+            },
+            "constants.js": 142
+          },
+          "emoji": {
+            "client": {
+              "emojiPicker.html": 65,
+              "template.emojiPicker.js": 4186,
+              "lib": {
+                "EmojiPicker.js": 4085,
+                "emojiRenderer.js": 747
+              },
+              "emojiParser.js": 1672,
+              "emojiPicker.js": 5470,
+              "function-isSet.js": 224,
+              "index.js": 336
+            },
+            "lib": {
+              "rocketchat.js": 538
+            },
+            "index.js": 198
+          },
+          "lazy-load": {
+            "client": {
+              "lazyloadImage.html": 67,
+              "template.lazyloadImage.js": 631,
+              "index.js": 622,
+              "lazyloadImage.js": 811
+            },
+            "index.js": 55
+          },
+          "message-action": {
+            "client": {
+              "messageAction.html": 67,
+              "template.messageAction.js": 2423,
+              "stylesheets": {
+                "messageAction.css": 14
+              },
+              "index.js": 117,
+              "messageAction.js": 325
+            },
+            "index.js": 55
+          },
+          "message-attachments": {
+            "client": {
+              "messageAttachment.html": 71,
+              "template.messageAttachment.js": 13276,
+              "renderField.html": 65,
+              "template.renderField.js": 1699,
+              "stylesheets": {
+                "messageAttachments.css": 14
+              },
+              "index.js": 233,
+              "messageAttachment.js": 3363,
+              "renderField.js": 693
+            },
+            "index.js": 55
+          },
+          "meteor-autocomplete": {
+            "client": {
+              "inputs.html": 60,
+              "template.inputs.js": 2426,
+              "autocomplete-client.js": 7855,
+              "autocomplete.css": 14,
+              "collection.js": 114,
+              "index.js": 206,
+              "templates.js": 1534
+            }
+          },
+          "oembed": {
+            "client": {
+              "baseWidget.html": 64,
+              "template.baseWidget.js": 339,
+              "oembedAudioWidget.html": 71,
+              "template.oembedAudioWidget.js": 1336,
+              "oembedFrameWidget.html": 71,
+              "template.oembedFrameWidget.js": 2929,
+              "oembedImageWidget.html": 71,
+              "template.oembedImageWidget.js": 1276,
+              "oembedUrlWidget.html": 69,
+              "template.oembedUrlWidget.js": 2736,
+              "oembedVideoWidget.html": 71,
+              "template.oembedVideoWidget.js": 1326,
+              "oembedYoutubeWidget.html": 73,
+              "template.oembedYoutubeWidget.js": 1294,
+              "baseWidget.js": 846,
+              "index.js": 367,
+              "oembedImageWidget.js": 410,
+              "oembedUrlWidget.js": 1231,
+              "oembedVideoWidget.js": 570
+            }
+          },
+          "slider": {
+            "client": {
+              "rocketchat-slider.html": 71,
+              "template.rocketchat-slider.js": 607,
+              "index.js": 83,
+              "rocketchat-slider.js": 255
+            },
+            "index.js": 55
+          },
+          "tokenpass": {
+            "client": {
+              "tokenChannelsList.html": 71,
+              "template.tokenChannelsList.js": 813,
+              "tokenpassChannelSettings.html": 78,
+              "template.tokenpassChannelSettings.js": 3335,
+              "channelSettings.css": 14,
+              "index.js": 311,
+              "login-button.css": 14,
+              "roomType.js": 675,
+              "startup.js": 422,
+              "styles.css": 14,
+              "tokenChannelsList.js": 762,
+              "tokenpassChannelSettings.js": 2891
+            },
+            "lib": {
+              "common.js": 864
+            }
+          },
+          "ui-sidenav": {
+            "client": {
+              "chatRoomItem.html": 66,
+              "template.chatRoomItem.js": 318,
+              "roomList.html": 62,
+              "template.roomList.js": 1581,
+              "sideNav.html": 61,
+              "template.sideNav.js": 2687,
+              "sidebarHeader.html": 67,
+              "template.sidebarHeader.js": 1510,
+              "sidebarItem.html": 65,
+              "template.sidebarItem.js": 7396,
+              "toolbar.html": 61,
+              "template.toolbar.js": 1996,
+              "userPresence.html": 66,
+              "template.userPresence.js": 273,
+              "chatRoomItem.js": 1303,
+              "index.js": 433,
+              "roomList.js": 3338,
+              "sideNav.js": 2322,
+              "sidebarHeader.js": 6096,
+              "sidebarItem.js": 4601,
+              "toolbar.js": 3186,
+              "userPresence.js": 2435
+            },
+            "index.js": 55
+          },
+          "ui-vrecord": {
+            "client": {
+              "vrecord.html": 61,
+              "template.vrecord.js": 1348,
+              "VRecDialog.js": 1060,
+              "index.js": 192,
+              "vrecord.css": 14,
+              "vrecord.js": 2312
+            }
+          },
+          "webdav": {
+            "client": {
+              "addWebdavAccount.html": 70,
+              "template.addWebdavAccount.js": 2470,
+              "selectWebdavAccount.html": 73,
+              "template.selectWebdavAccount.js": 770,
+              "webdavFilePicker.html": 70,
+              "template.webdavFilePicker.js": 10719,
+              "startup": {
+                "messageBoxActions.js": 1333,
+                "sync.js": 1001
+              },
+              "actionButton.js": 1049,
+              "addWebdavAccount.js": 1915,
+              "index.js": 694,
+              "selectWebdavAccount.js": 982,
+              "webdavFilePicker.css": 14,
+              "webdavFilePicker.js": 9728
+            }
+          },
+          "markdown": {
+            "lib": {
+              "parser": {
+                "filtered": {
+                  "filtered.js": 1043
+                },
+                "marked": {
+                  "marked.js": 1834
+                },
+                "original": {
+                  "code.js": 1400,
+                  "markdown.js": 3137,
+                  "original.js": 247
+                }
+              },
+              "hljs.js": 20032,
+              "markdown.js": 2620
+            },
+            "client": {
+              "index.js": 68
+            }
+          },
+          "action-links": {
+            "client": {
+              "lib": {
+                "actionLinks.js": 1100
+              },
+              "stylesheets": {
+                "actionLinks.css": 14
+              },
+              "index.js": 187,
+              "init.js": 788
+            }
+          },
+          "custom-sounds": {
+            "client": {
+              "lib": {
+                "CustomSounds.js": 2532
+              },
+              "notifications": {
+                "deleteCustomSound.js": 436,
+                "updateCustomSound.js": 436
+              },
+              "index.js": 167
+            }
+          },
+          "emoji-custom": {
+            "client": {
+              "lib": {
+                "emojiCustom.js": 5725,
+                "function-isSet.js": 224
+              },
+              "admin": {
+                "startup.js": 293
+              },
+              "notifications": {
+                "deleteEmojiCustom.js": 317,
+                "updateEmojiCustom.js": 317
+              },
+              "index.js": 160
+            }
+          },
+          "file-upload": {
+            "client": {
+              "lib": {
+                "fileUploadHandler.js": 885
+              },
+              "index.js": 148
+            },
+            "lib": {
+              "FileUploadBase.js": 1683
+            },
+            "index.js": 198
+          },
+          "notifications": {
+            "client": {
+              "lib": {
+                "Notifications.js": 2801
+              },
+              "index.js": 130
+            },
+            "index.js": 198
+          },
+          "settings": {
+            "client": {
+              "lib": {
+                "settings.ts": 1262
+              },
+              "index.ts": 121
+            },
+            "lib": {
+              "settings.ts": 1681
+            },
+            "index.js": 198
+          },
+          "user-status": {
+            "client": {
+              "lib": {
+                "customUserStatus.js": 1091,
+                "userStatus.js": 400
+              },
+              "admin": {
+                "startup.js": 322
+              },
+              "notifications": {
+                "deleteCustomUserStatus.js": 337,
+                "updateCustomUserStatus.js": 337
+              },
+              "index.js": 330
+            },
+            "index.js": 198
+          },
+          "utils": {
+            "client": {
+              "lib": {
+                "CustomTranslations.js": 570,
+                "RestApiClient.js": 3255,
+                "baseuri.js": 420,
+                "canDeleteMessage.js": 692,
+                "handleError.js": 1028,
+                "roomTypes.js": 4135
+              },
+              "index.js": 1867
+            },
+            "lib": {
+              "RoomTypeConfig.js": 4782,
+              "RoomTypesCommon.js": 2111,
+              "fileUploadRestrictions.js": 784,
+              "getAvatarColor.js": 297,
+              "getAvatarURL.js": 305,
+              "getDefaultSubscriptionPref.js": 509,
+              "getRoomAvatarURL.js": 360,
+              "getURL.js": 1570,
+              "getUserAvatarURL.js": 428,
+              "getUserNotificationPreference.js": 624,
+              "getUserPreference.js": 618,
+              "getValidRoomName.js": 1667,
+              "isEmail.js": 414,
+              "isJSON.js": 122,
+              "isURL.js": 212,
+              "mimeTypes.js": 298,
+              "placeholders.js": 796,
+              "roomExit.js": 1404,
+              "slashCommand.js": 2117,
+              "tapi18n.js": 639,
+              "templateVarHandler.js": 652,
+              "timeConverter.js": 285
+            },
+            "stream": {
+              "constants.js": 86
+            },
+            "index.js": 198,
+            "rocketchat.info": 60,
+            "rocketchat.info.js": 470
+          },
+          "callbacks": {
+            "lib": {
+              "callbacks.js": 2106
+            },
+            "client": {
+              "index.js": 125
+            },
+            "index.js": 198
+          },
+          "cors": {
+            "lib": {
+              "common.js": 235
+            },
+            "client": {
+              "index.js": 42
+            }
+          },
+          "dolphin": {
+            "lib": {
+              "common.js": 1850
+            },
+            "client": {
+              "index.js": 71,
+              "login-button.css": 14
+            }
+          },
+          "drupal": {
+            "lib": {
+              "common.js": 866
+            },
+            "client": {
+              "index.js": 71,
+              "login-button.css": 14
+            }
+          },
+          "emoji-emojione": {
+            "lib": {
+              "emojiPicker.js": 25852,
+              "emojioneRender.js": 242,
+              "rocketchat.js": 5928
+            },
+            "client": {
+              "emojione-sprites.css": 14,
+              "index.js": 79
+            }
+          },
+          "github-enterprise": {
+            "lib": {
+              "common.js": 801
+            },
+            "client": {
+              "github-enterprise-login-button.css": 14,
+              "index.js": 89
+            }
+          },
+          "gitlab": {
+            "lib": {
+              "common.js": 1353
+            },
+            "client": {
+              "gitlab-login-button.css": 14,
+              "index.js": 78
+            }
+          },
+          "importer": {
+            "lib": {
+              "ImporterInfo.js": 388,
+              "ImporterProgressStep.js": 1371,
+              "Importers.js": 587
+            },
+            "client": {
+              "index.js": 203
+            }
+          },
+          "importer-csv": {
+            "lib": {
+              "info.js": 522
+            },
+            "client": {
+              "adder.js": 161,
+              "index.js": 36
+            }
+          },
+          "importer-hipchat": {
+            "lib": {
+              "info.js": 439
+            },
+            "client": {
+              "adder.js": 165,
+              "index.js": 36
+            }
+          },
+          "importer-hipchat-enterprise": {
+            "lib": {
+              "info.js": 593
+            },
+            "client": {
+              "adder.js": 175,
+              "index.js": 36
+            }
+          },
+          "importer-slack": {
+            "lib": {
+              "info.js": 427
+            },
+            "client": {
+              "adder.js": 163,
+              "index.js": 36
+            }
+          },
+          "importer-slack-users": {
+            "lib": {
+              "info.js": 557
+            },
+            "client": {
+              "adder.js": 168,
+              "index.js": 36
+            }
+          },
+          "integrations": {
+            "lib": {
+              "rocketchat.js": 979
+            },
+            "client": {
+              "startup.js": 421
+            }
+          },
+          "mentions": {
+            "lib": {
+              "MentionsParser.js": 3051
+            },
+            "client": {
+              "client.js": 904,
+              "index.js": 65,
+              "mentionLink.css": 14
+            }
+          },
+          "nextcloud": {
+            "lib": {
+              "common.js": 970
+            },
+            "client": {
+              "index.js": 42
+            }
+          },
+          "promises": {
+            "lib": {
+              "promises.js": 1046
+            },
+            "client": {
+              "index.js": 122
+            }
+          },
+          "slashcommand-asciiarts": {
+            "lib": {
+              "gimme.js": 324,
+              "lenny.js": 331,
+              "shrug.js": 316,
+              "tableflip.js": 344,
+              "unflip.js": 336
+            },
+            "client": {
+              "index.js": 138
+            }
+          },
+          "slashcommands-topic": {
+            "lib": {
+              "topic.js": 724
+            },
+            "client": {
+              "index.js": 41
+            }
+          },
+          "wordpress": {
+            "lib": {
+              "common.js": 2195
+            },
+            "client": {
+              "index.js": 81,
+              "wordpress-login-button.css": 14
+            }
+          },
+          "theme": {
+            "client": {
+              "vendor": {
+                "fontello": {
+                  "css": {
+                    "fontello.css": 14
+                  }
+                },
+                "photoswipe.css": 14
+              },
+              "imports": {
+                "components": {
+                  "emojiPicker.css": 3520
+                }
+              },
+              "index.js": 150,
+              "rocketchat.font.css": 14,
+              "main.css": 14
+            }
+          },
+          "e2e": {
+            "client": {
+              "stylesheets": {
+                "e2e.css": 14
+              },
+              "events.js": 180,
+              "helper.js": 4984,
+              "index.js": 89,
+              "rocketchat.e2e.js": 15885,
+              "rocketchat.e2e.room.js": 9480,
+              "tabbar.js": 882
+            }
+          },
+          "models": {
+            "client": {
+              "models": {
+                "Avatars.js": 407,
+                "CachedChannelList.js": 154,
+                "CachedChatRoom.js": 178,
+                "CachedChatSubscription.js": 194,
+                "CachedUserList.js": 151,
+                "ChatMessage.js": 308,
+                "ChatPermissions.js": 264,
+                "ChatRoom.js": 350,
+                "ChatSubscription.js": 172,
+                "CustomSounds.js": 418,
+                "EmojiCustom.js": 544,
+                "Roles.js": 523,
+                "RoomRoles.js": 146,
+                "Subscriptions.js": 701,
+                "Uploads.js": 407,
+                "UserAndRoom.js": 148,
+                "UserDataFiles.js": 419,
+                "UserRoles.js": 146,
+                "Users.js": 608,
+                "WebdavAccounts.js": 151,
+                "_Base.js": 1915
+              },
+              "index.js": 2459
+            },
+            "index.js": 198
+          },
+          "reactions": {
+            "client": {
+              "methods": {
+                "setReaction.js": 1222
+              },
+              "stylesheets": {
+                "reaction.css": 14
+              },
+              "index.js": 104,
+              "init.js": 1847
+            }
+          },
+          "ui-cached-collection": {
+            "client": {
+              "models": {
+                "CachedCollection.js": 10643
+              },
+              "index.js": 144
+            },
+            "index.js": 55
+          },
+          "2fa": {
+            "client": {
+              "TOTPPassword.js": 883,
+              "callWithTwoFactorRequired.js": 2198,
+              "index.js": 81
+            }
+          },
+          "analytics": {
+            "client": {
+              "index.js": 65,
+              "loadScript.js": 2011,
+              "trackEvents.js": 3872
+            }
+          },
+          "autolinker": {
+            "client": {
+              "client.js": 1426,
+              "index.js": 37
+            }
+          },
+          "blockstack": {
+            "client": {
+              "index.js": 1241,
+              "routes.js": 1275
+            }
+          },
+          "cas": {
+            "client": {
+              "cas_client.js": 1188,
+              "index.js": 41
+            }
+          },
+          "colors": {
+            "client": {
+              "client.js": 599,
+              "index.js": 37,
+              "style.css": 14
+            }
+          },
+          "crowd": {
+            "client": {
+              "index.js": 42,
+              "loginHelper.js": 410
+            }
+          },
+          "custom": {
+            "client": {
+              "index.js": 14
+            }
+          },
+          "custom-oauth": {
+            "client": {
+              "custom_oauth_client.js": 2226
+            },
+            "index.js": 226
+          },
+          "favico": {
+            "client": {
+              "favico.js": 8992,
+              "index.js": 111
+            },
+            "index.js": 55
+          },
+          "google-vision": {
+            "client": {
+              "googlevision.js": 1836,
+              "index.js": 43
+            }
+          },
+          "highlight-words": {
+            "client": {
+              "client.js": 899,
+              "helper.js": 1079,
+              "index.js": 37
+            },
+            "index.js": 55
+          },
+          "iframe-login": {
+            "client": {
+              "iframe_client.js": 728,
+              "index.js": 44
+            }
+          },
+          "issuelinks": {
+            "client": {
+              "client.js": 516,
+              "index.js": 37
+            }
+          },
+          "katex": {
+            "client": {
+              "index.js": 3977,
+              "style.css": 14
+            },
+            "katex.min.css": 40
+          },
+          "ldap": {
+            "client": {
+              "index.js": 42,
+              "loginHelper.js": 882
+            }
+          },
+          "logger": {
+            "client": {
+              "index.js": 37,
+              "logger.js": 1570
+            },
+            "index.js": 198
+          },
+          "mapview": {
+            "client": {
+              "index.js": 38,
+              "mapview.js": 802
+            }
+          },
+          "message-mark-as-unread": {
+            "client": {
+              "actionButton.js": 856,
+              "index.js": 43
+            }
+          },
+          "meteor-accounts-saml": {
+            "client": {
+              "index.js": 42,
+              "saml_client.js": 1226
+            }
+          },
+          "nrr": {
+            "client": {
+              "index.js": 34,
+              "nrr.js": 1478
+            },
+            "index.js": 55
+          },
+          "slackbridge": {
+            "client": {
+              "index.js": 56,
+              "slackbridge_import.client.js": 315
+            }
+          },
+          "slashcommands-archiveroom": {
+            "client": {
+              "client.js": 171,
+              "index.js": 37
+            }
+          },
+          "slashcommands-create": {
+            "client": {
+              "client.js": 192,
+              "index.js": 37
+            }
+          },
+          "slashcommands-hide": {
+            "client": {
+              "hide.js": 143,
+              "index.js": 35
+            }
+          },
+          "slashcommands-invite": {
+            "client": {
+              "client.js": 204,
+              "index.js": 37
+            }
+          },
+          "slashcommands-inviteall": {
+            "client": {
+              "client.js": 403,
+              "index.js": 37
+            }
+          },
+          "slashcommands-join": {
+            "client": {
+              "client.js": 337,
+              "index.js": 37
+            }
+          },
+          "slashcommands-kick": {
+            "client": {
+              "client.js": 247,
+              "index.js": 37
+            }
+          },
+          "slashcommands-open": {
+            "client": {
+              "client.js": 951,
+              "index.js": 37
+            },
+            "index.js": 55
+          },
+          "slashcommands-unarchiveroom": {
+            "client": {
+              "client.js": 177,
+              "index.js": 37
+            }
+          },
+          "token-login": {
+            "client": {
+              "index.js": 49,
+              "login_token_client.js": 549
+            }
+          },
+          "version-check": {
+            "client": {
+              "index.js": 847
+            }
+          },
+          "webrtc": {
+            "client": {
+              "WebRTCClass.js": 18606,
+              "adapter.js": 675,
+              "index.js": 74,
+              "screenShare.js": 1113
+            },
+            "index.js": 179
+          }
+        },
+        "ee": {
+          "app": {
+            "livechat-enterprise": {
+              "client": {
+                "views": {
+                  "app": {
+                    "customTemplates": {
+                      "livechatDepartmentCustomFieldsForm.html": 88,
+                      "template.livechatDepartmentCustomFieldsForm.js": 4134,
+                      "visitorEditCustomFieldsForm.html": 81,
+                      "template.visitorEditCustomFieldsForm.js": 1403,
+                      "visitorInfoCustomForm.html": 75,
+                      "template.visitorInfoCustomForm.js": 497,
+                      "livechatDepartmentCustomFieldsForm.js": 2878,
+                      "visitorEditCustomFieldsForm.js": 1042,
+                      "visitorInfoCustomForm.js": 911
+                    },
+                    "registerCustomTemplates.js": 492
+                  },
+                  "business-hours": {
+                    "Multiple.ts": 553
+                  },
+                  "livechatSideNavItems.js": 698
+                },
+                "SingleBusinessHour.ts": 542,
+                "index.js": 318,
+                "route.js": 1192,
+                "startup.ts": 993
+              },
+              "lib": {
+                "messageTypes.js": 442
+              }
+            },
+            "auditing": {
+              "client": {
+                "templates": {
+                  "audit": {
+                    "audit.html": 59,
+                    "template.audit.js": 11613,
+                    "audit.js": 10554
+                  },
+                  "auditLog": {
+                    "auditLog.html": 62,
+                    "template.auditLog.js": 5216,
+                    "auditLog.js": 1988
+                  },
+                  "index.js": 78
+                },
+                "index.css": 14,
+                "index.js": 647,
+                "routes.js": 352,
+                "utils.js": 499
+              }
+            },
+            "canned-responses": {
+              "client": {
+                "views": {
+                  "popup": {
+                    "messagePopupCannedResponse.html": 80,
+                    "template.messagePopupCannedResponse.js": 547,
+                    "addMessagePopupCannedResponse.js": 750
+                  },
+                  "tabbar": {
+                    "cannedResponses.html": 69,
+                    "template.cannedResponses.js": 7804,
+                    "departmentCannedResponses.html": 79,
+                    "template.departmentCannedResponses.js": 391,
+                    "cannedResponses.js": 4151,
+                    "departmentCannedResponses.js": 377
+                  },
+                  "icons.html": 59,
+                  "template.icons.js": 1850
+                },
+                "collections": {
+                  "CannedResponse.js": 151
+                },
+                "startup": {
+                  "responses.js": 1506
+                },
+                "stylesheets": {
+                  "cannedResponses.css": 14
+                },
+                "index.js": 338,
+                "streamer.js": 174,
+                "ui.js": 763
+              }
+            },
+            "authorization": {
+              "lib": {
+                "addRoleRestrictions.js": 307,
+                "guestPermissions.js": 142
+              },
+              "client": {
+                "index.ts": 249
+              }
+            },
+            "engagement-dashboard": {
+              "client": {
+                "components": {
+                  "ChannelsTab": {
+                    "TableSection.js": 4504,
+                    "index.js": 252
+                  },
+                  "MessagesTab": {
+                    "MessagesPerChannelSection.js": 6252,
+                    "MessagesSentSection.js": 4504,
+                    "index.js": 464
+                  },
+                  "UsersTab": {
+                    "ActiveUsersSection.js": 5497,
+                    "BusiestChatTimesSection.js": 5915,
+                    "NewUsersSection.js": 4473,
+                    "UsersByTimeOfTheDaySection.js": 4658,
+                    "index.js": 947
+                  },
+                  "data": {
+                    "LegendSymbol.js": 463
+                  },
+                  "EngagementDashboardPage.js": 1311,
+                  "EngagementDashboardRoute.js": 571,
+                  "Section.js": 619
+                },
+                "index.js": 37,
+                "routes.js": 1194
+              }
+            },
+            "license": {
+              "client": {
+                "index.ts": 1065
+              }
+            }
+          },
+          "client": {
+            "omnichannel": {
+              "additionalForms": {
+                "BusinessHoursMultiple.js": 2278,
+                "BusinessHoursTimeZone.js": 958,
+                "CustomFieldsAdditionalForm.js": 3019,
+                "MaxChatsPerAgent.js": 976,
+                "MaxChatsPerAgentDisplay.js": 540,
+                "register.js": 1318
+              },
+              "priorities": {
+                "EditPriority.js": 4095,
+                "PrioritiesPage.js": 2026,
+                "PrioritiesRoute.js": 5201,
+                "Skeleton.js": 524
+              },
+              "tags": {
+                "CurrentChatTags.js": 729,
+                "EditTag.js": 4441,
+                "Skeleton.js": 524,
+                "TagsPage.js": 2009,
+                "TagsRoute.js": 4923
+              },
+              "units": {
+                "EditUnit.js": 5790,
+                "Skeleton.js": 524,
+                "UnitsPage.js": 2012,
+                "UnitsRoute.js": 4923
+              },
+              "BusinessHoursTable.js": 5198,
+              "MonitorsPage.js": 3088,
+              "MonitorsTable.js": 3585,
+              "index.js": 74,
+              "routes.js": 382
+            },
+            "hooks": {
+              "useHasLicense.js": 434
+            },
+            "index.js": 311
+          },
+          "i18n": {
+            "af.i18n.json": 288,
+            "ar.i18n.json": 119,
+            "az.i18n.json": 126,
+            "bas-CM.i18n.json": 137,
+            "be-BY.i18n.json": 144,
+            "bg.i18n.json": 126,
+            "bs.i18n.json": 114,
+            "ca.i18n.json": 113,
+            "cs.i18n.json": 116,
+            "cy.i18n.json": 111,
+            "da.i18n.json": 110,
+            "de-AT.i18n.json": 145,
+            "de.i18n.json": 112,
+            "el.i18n.json": 120,
+            "en.i18n.json": 6687,
+            "eo.i18n.json": 117,
+            "es.i18n.json": 122,
+            "et.i18n.json": 112,
+            "eu.i18n.json": 112,
+            "fa.i18n.json": 116,
+            "fi.i18n.json": 111,
+            "fr.i18n.json": 123,
+            "he.i18n.json": 115,
+            "hi-IN.i18n.json": 115,
+            "hr.i18n.json": 115,
+            "hu.i18n.json": 114,
+            "id.i18n.json": 125,
+            "it.i18n.json": 114,
+            "ja.i18n.json": 116,
+            "ka-GE.i18n.json": 115,
+            "km.i18n.json": 131,
+            "ko.i18n.json": 114,
+            "ku.i18n.json": 128,
+            "lo.i18n.json": 123,
+            "lt.i18n.json": 124,
+            "lv.i18n.json": 122,
+            "mn.i18n.json": 120,
+            "ms-MY.i18n.json": 123,
+            "nl.i18n.json": 114,
+            "no.i18n.json": 113,
+            "pl.i18n.json": 111,
+            "pt-BR.i18n.json": 144,
+            "pt.i18n.json": 130,
+            "ro.i18n.json": 115,
+            "ru.i18n.json": 120,
+            "sk-SK.i18n.json": 122,
+            "sl-SI.i18n.json": 127,
+            "sq.i18n.json": 112,
+            "sr.i18n.json": 129,
+            "sv.i18n.json": 113,
+            "ta-IN.i18n.json": 125,
+            "th-TH.i18n.json": 118,
+            "tr.i18n.json": 114,
+            "ug.i18n.json": 114,
+            "uk.i18n.json": 128,
+            "vi-VN.i18n.json": 129,
+            "zh-HK.i18n.json": 148,
+            "zh-TW.i18n.json": 145,
+            "zh.i18n.json": 112
+          }
+        },
+        "imports": {
+          "message-read-receipt": {
+            "client": {
+              "readReceipts.html": 66,
+              "template.readReceipts.js": 1412,
+              "index.js": 97,
+              "message.js": 302,
+              "readReceipts.css": 708,
+              "readReceipts.js": 984,
+              "room.js": 904,
+              "main.js": 271
+            }
+          },
+          "client": {
+            "hepburn": {
+              "lib": {
+                "hepburn.js": 38
+              }
+            },
+            "limax": {
+              "lib": {
+                "limax.js": 34
+              }
+            },
+            "pinyin": {
+              "lib": {
+                "phonetic-symbol.js": 45,
+                "pinyin.js": 36,
+                "web-pinyin.js": 40
+              },
+              "data": {
+                "dict-zi-web.js": 42
+              }
+            },
+            "@rocket.chat": {
+              "apps-engine": {
+                "definition": {
+                  "uikit": {
+                    "blocks": {
+                      "BlockBuilder.js": 80,
+                      "Blocks.js": 74,
+                      "Elements.js": 76,
+                      "Objects.js": 75,
+                      "index.js": 73
+                    },
+                    "livechat": {
+                      "UIKitLivechatInteractionContext.js": 101,
+                      "index.js": 75
+                    },
+                    "IUIKitIncomingInteraction.js": 86,
+                    "IUIKitInteractionType.js": 82,
+                    "IUIKitView.js": 71,
+                    "UIKitIncomingInteractionContainer.js": 94,
+                    "UIKitInteractionContext.js": 84,
+                    "UIKitInteractionPayloadFormatter.js": 93,
+                    "UIKitInteractionResponder.js": 86,
+                    "index.js": 66
+                  },
+                  "AppStatus.js": 64
+                },
+                "client": {
+                  "constants": {
+                    "index.js": 66
+                  },
+                  "definition": {
+                    "AppsEngineUIMethods.js": 81,
+                    "index.js": 67
+                  },
+                  "AppClientManager.js": 67,
+                  "AppServerCommunicator.js": 72,
+                  "AppsEngineUIHost.js": 67
+                }
+              }
+            },
+            "map-age-cleaner": {
+              "dist": {
+                "index.js": 45
+              }
+            },
+            "scheduler": {
+              "cjs": {
+                "scheduler-tracing.development.js": 62,
+                "scheduler-tracing.production.min.js": 65,
+                "scheduler.development.js": 54,
+                "scheduler.production.min.js": 57
+              },
+              "index.js": 34,
+              "tracing.js": 36
+            },
+            "mem": {
+              "index.js": 28
+            },
+            "mimic-fn": {
+              "index.js": 50
+            },
+            "p-defer": {
+              "index.js": 32
+            }
+          },
+          "startup": {
+            "client": {
+              "index.js": 92,
+              "listenActiveUsers.js": 1042
+            }
+          }
+        },
+        "client": {
+          "lib": {
+            "settings": {
+              "PrivateSettingsCachedCollection.ts": 1417,
+              "PublicSettingsCachedCollection.ts": 603
+            },
+            "meteorCallWrapper.ts": 1144,
+            "saveFile.js": 362,
+            "toastr.js": 56,
+            "userData.js": 1530
+          },
+          "channel": {
+            "Discussions": {
+              "ContextualBar": {
+                "components": {
+                  "Message.js": 2123
+                },
+                "List.js": 6672
+              }
+            },
+            "Threads": {
+              "ContextualBar": {
+                "components": {
+                  "Message.js": 3397
+                },
+                "List.js": 7784
+              }
+            },
+            "UserInfo": {
+              "actions": {
+                "UserActions.js": 1390
+              },
+              "index.js": 2435
+            },
+            "ChannelInfo": {
+              "EditChannel.js": 11795
+            },
+            "ExportMessages": {
+              "index.js": 6790
+            },
+            "UserCard": {
+              "index.js": 3234
+            },
+            "components": {
+              "Message.js": 2915,
+              "NotificationStatus.js": 837
+            },
+            "helpers": {
+              "clickableItem.js": 643
+            },
+            "hooks": {
+              "useUserInfoActions.js": 8604,
+              "useUserRoom.js": 354
+            },
+            "adapters.js": 633,
+            "index.js": 39
+          },
+          "admin": {
+            "apps": {
+              "hooks": {
+                "useAppInfo.js": 2897,
+                "useFilteredApps.js": 632
+              },
+              "AppDetailsPage.js": 7773,
+              "AppInstallPage.js": 3076,
+              "AppLogsPage.js": 4455,
+              "AppMenu.js": 5161,
+              "AppProvider.tsx": 3675,
+              "AppSettings.js": 1655,
+              "AppStatus.js": 3423,
+              "AppsPage.js": 1119,
+              "AppsRoute.js": 2032,
+              "AppsTable.js": 4528,
+              "AppsWhatIsIt.js": 2191,
+              "CloudLoginModal.js": 1114,
+              "IframeModal.js": 903,
+              "MarketplacePage.js": 1543,
+              "MarketplaceTable.js": 4929,
+              "PriceDisplay.js": 1171,
+              "WarningModal.js": 1003,
+              "helpers.js": 2817
+            },
+            "integrations": {
+              "edit": {
+                "EditIncomingWebhook.js": 4276,
+                "EditIntegrationsPage.js": 2641,
+                "EditOutgoingWebhook.js": 5029,
+                "OutgoingWebhookHistoryPage.js": 8079
+              },
+              "new": {
+                "NewBot.js": 408,
+                "NewIncomingWebhook.js": 1963,
+                "NewIntegrationsPage.js": 1500,
+                "NewOutgoingWebhook.js": 2238,
+                "NewZapier.js": 1853
+              },
+              "IncomingWebhookForm.js": 6672,
+              "IntegrationsPage.js": 1858,
+              "IntegrationsRoute.js": 996,
+              "IntegrationsTable.js": 4378,
+              "OutgoiongWebhookForm.js": 9611,
+              "exampleIncomingData.js": 592
+            },
+            "settings": {
+              "groups": {
+                "AssetsGroupPage.js": 1606,
+                "GenericGroupPage.js": 682,
+                "OAuthGroupPage.js": 3540
+              },
+              "inputs": {
+                "ActionSettingInput.js": 1350,
+                "AssetSettingInput.css": 14,
+                "AssetSettingInput.js": 2558,
+                "BooleanSettingInput.js": 729,
+                "CodeSettingInput.js": 3692,
+                "ColorSettingInput.js": 1779,
+                "FontSettingInput.js": 911,
+                "GenericSettingInput.js": 914,
+                "IntSettingInput.js": 936,
+                "LanguageSettingInput.js": 1037,
+                "MultiSelectSettingInput.js": 1114,
+                "PasswordSettingInput.js": 919,
+                "RelativeUrlSettingInput.js": 978,
+                "RoomPickSettingInput.js": 2088,
+                "SelectSettingInput.js": 1081,
+                "StringSettingInput.js": 1520
+              },
+              "GroupPage.js": 3869,
+              "GroupSelector.tsx": 595,
+              "ResetSettingButton.js": 539,
+              "Section.js": 2060,
+              "Setting.js": 4742,
+              "SettingsRoute.js": 649
+            },
+            "cloud": {
+              "CloudPage.js": 4425,
+              "CloudRoute.js": 392,
+              "ConnectToCloudSection.js": 2489,
+              "ManualWorkspaceRegistrationModal.js": 4341,
+              "TroubleshootingSection.js": 2267,
+              "WhatIsItSection.js": 1073,
+              "WorkspaceLoginSection.js": 3540,
+              "WorkspaceRegistrationSection.js": 2480,
+              "constants.js": 232
+            },
+            "customEmoji": {
+              "AddCustomEmoji.js": 3084,
+              "CustomEmoji.js": 2034,
+              "CustomEmojiRoute.js": 3063,
+              "EditCustomEmoji.js": 6502
+            },
+            "customSounds": {
+              "AddCustomSound.js": 3395,
+              "AdminSounds.js": 2269,
+              "AdminSoundsRoute.js": 3080,
+              "EditCustomSound.js": 6353,
+              "lib.js": 675
+            },
+            "customUserStatus": {
+              "AddCustomUserStatus.js": 2306,
+              "CustomUserStatus.js": 2112,
+              "CustomUserStatusRoute.js": 3146,
+              "EditCustomUserStatus.js": 5662
+            },
+            "federationDashboard": {
+              "FederationDashboardPage.js": 664,
+              "FederationDashboardRoute.tsx": 398,
+              "OverviewSection.js": 1336,
+              "ServersSection.js": 768
+            },
+            "import": {
+              "ImportHistoryPage.js": 4336,
+              "ImportOperationSummary.js": 2431,
+              "ImportProgressPage.js": 3762,
+              "ImportRoute.js": 718,
+              "NewImportPage.js": 6832,
+              "PrepareImportPage.js": 9467,
+              "useErrorHandler.js": 782
+            },
+            "info": {
+              "BuildEnvironmentSection.js": 963,
+              "CommitSection.js": 865,
+              "DescriptionList.js": 1047,
+              "InformationPage.js": 2441,
+              "InformationRoute.js": 1911,
+              "InstancesSection.js": 1666,
+              "RocketChatSection.js": 1802,
+              "RuntimeEnvironmentSection.js": 2231,
+              "UsageSection.js": 4102
+            },
+            "invites": {
+              "InvitesPage.js": 4176,
+              "InvitesRoute.js": 401
+            },
+            "mailer": {
+              "Mailer.js": 2953,
+              "MailerRoute.js": 1019
+            },
+            "oauthApps": {
+              "OAuthAddApp.js": 2891,
+              "OAuthAppsPage.js": 1273,
+              "OAuthAppsRoute.js": 423,
+              "OAuthAppsTable.js": 1526,
+              "OAuthEditApp.js": 6893
+            },
+            "rooms": {
+              "EditRoom.js": 8042,
+              "RoomsPage.js": 1009,
+              "RoomsRoute.js": 404,
+              "RoomsTable.js": 6406
+            },
+            "sidebar": {
+              "AdminSidebar.js": 3805
+            },
+            "users": {
+              "AddUser.js": 2249,
+              "EditUser.js": 4382,
+              "InviteUsers.js": 1640,
+              "Skeleton.js": 524,
+              "UserForm.js": 5504,
+              "UserInfo.js": 2513,
+              "UserInfoActions.js": 7345,
+              "UsersPage.js": 1733,
+              "UsersRoute.js": 404,
+              "UsersTable.js": 4406
+            },
+            "viewLogs": {
+              "ViewLogs.js": 4496,
+              "ViewLogsRoute.js": 410
+            },
+            "AdministrationLayout.tsx": 318,
+            "AdministrationRouter.js": 705,
+            "index.js": 162,
+            "routes.js": 3222,
+            "sidebarItems.js": 1935
+          },
+          "components": {
+            "basic": {
+              "Buttons": {
+                "ActionButton.js": 526
+              },
+              "avatar": {
+                "AppAvatar.js": 526,
+                "BaseAvatar.js": 506,
+                "RoomAvatar.js": 649,
+                "RoomAvatarEditor.js": 2066,
+                "UserAvatar.js": 466,
+                "UserAvatarEditor.js": 2899
+              },
+              "burger": {
+                "BurgerBadge.js": 317,
+                "BurgerIcon.js": 1829,
+                "BurgerMenuButton.js": 1084
+              },
+              "userStatus": {
+                "UserStatus.js": 526,
+                "UserStatusMenu.js": 2020
+              },
+              "AutoComplete.js": 1499,
+              "AutoCompleteAgent.js": 1330,
+              "AutoCompleteDepartment.js": 1340,
+              "Backdrop.js": 321,
+              "ExternalLink.tsx": 470,
+              "Logo.js": 9641,
+              "MarkdownText.js": 895,
+              "Page.tsx": 2455,
+              "PlanTag.js": 1194,
+              "RawText.js": 193,
+              "Sidebar.js": 2982,
+              "Subtitle.js": 354,
+              "TextCopy.js": 1349,
+              "UTCClock.js": 501,
+              "UserCard.js": 3544,
+              "UserInfo.js": 4187,
+              "UserStatus.js": 876,
+              "VerticalBar.js": 2565
+            },
+            "connectionStatus": {
+              "ConnectionStatusAlert.css": 14,
+              "ConnectionStatusAlert.js": 1529
+            },
+            "data": {
+              "Counter.js": 709,
+              "CounterSet.js": 443,
+              "Growth.js": 641,
+              "NegativeGrowthSymbol.js": 1086,
+              "PositiveGrowthSymbol.js": 1085
+            },
+            "ConfirmOwnerChangeWarningModal.js": 1944,
+            "CustomFieldsForm.js": 2975,
+            "DeleteChannelWarning.js": 941,
+            "GenericTable.js": 3993,
+            "ModalPortal.tsx": 485,
+            "NotAuthorizedPage.js": 462,
+            "PageSkeleton.js": 782,
+            "RoomForeword.js": 1619,
+            "SortList.js": 4464
+          },
+          "omnichannel": {
+            "realTimeMonitoring": {
+              "charts": {
+                "AgentStatusChart.js": 1780,
+                "Chart.js": 422,
+                "ChatDurationChart.js": 1943,
+                "ChatsChart.js": 1651,
+                "ChatsPerAgentChart.js": 1768,
+                "ChatsPerDepartmentChart.js": 1788,
+                "ResponseTimesChart.js": 2058,
+                "getMomentChartLabelsAndData.js": 349,
+                "getMomentCurrentLabel.js": 249,
+                "useUpdateChartData.js": 724
+              },
+              "counter": {
+                "CounterContainer.js": 1035,
+                "CounterItem.js": 688,
+                "CounterRow.js": 927
+              },
+              "overviews": {
+                "AgentsOverview.js": 721,
+                "ChatsOverview.js": 746,
+                "ConversationOverview.js": 720,
+                "ProductivityOverview.js": 729
+              },
+              "RealTimeMonitoringPage.js": 4297
+            },
+            "agents": {
+              "AgentEdit.js": 5291,
+              "AgentInfo.js": 2188,
+              "AgentsPage.js": 2606,
+              "AgentsRoute.js": 7136,
+              "Skeleton.js": 524
+            },
+            "appearance": {
+              "AppearanceForm.tsx": 6053,
+              "AppearancePage.tsx": 2964
+            },
+            "businessHours": {
+              "BusinessHoursForm.js": 993,
+              "BusinessHoursFormContainer.js": 1853,
+              "BusinessHoursPage.js": 1052,
+              "BusinessHoursRouter.js": 1186,
+              "EditBusinessHoursPage.js": 3805,
+              "NewBusinessHoursPage.js": 2618,
+              "TimeRangeFieldsAssembler.js": 1110,
+              "TimeRangeInput.js": 1017,
+              "mapBusinessHoursForm.js": 368
+            },
+            "currentChats": {
+              "CurrentChatsPage.js": 7099,
+              "CurrentChatsRoute.js": 5323
+            },
+            "customFields": {
+              "CustomFieldsForm.js": 1610,
+              "CustomFieldsPage.js": 891,
+              "CustomFieldsRouter.js": 501,
+              "CustomFieldsTable.js": 4275,
+              "EditCustomFieldsPage.js": 3394,
+              "NewCustomFieldsPage.js": 2622
+            },
+            "facebook": {
+              "FacebookPage.tsx": 4813
+            },
+            "installation": {
+              "Installation.js": 1685
+            },
+            "managers": {
+              "ManagersPage.js": 2608,
+              "ManagersRoute.js": 4212
+            },
+            "sidebar": {
+              "OmnichannelSidebar.tsx": 1309
+            },
+            "triggers": {
+              "EditTriggerPage.js": 2862,
+              "NewTriggerPage.js": 1989,
+              "TriggersForm.tsx": 3031,
+              "TriggersPage.js": 1756,
+              "TriggersTable.js": 3598
+            },
+            "webhooks": {
+              "WebhooksPage.js": 5954
+            },
+            "DeleteWarningModal.js": 872,
+            "DepartmentAutoComplete.js": 1427,
+            "OmnichannelRouter.tsx": 688,
+            "additionalForms.js": 546,
+            "routes.js": 2585,
+            "sidebarItems.js": 2050
+          },
+          "views": {
+            "setupWizard": {
+              "steps": {
+                "AdminUserInformationStep.js": 5022,
+                "FinalStep.js": 1066,
+                "RegisterServerStep.js": 5778,
+                "SettingsBasedStep.js": 4395
+              },
+              "Pager.js": 610,
+              "SetupWizardPage.js": 2034,
+              "SetupWizardRoute.js": 1070,
+              "SetupWizardState.js": 2528,
+              "SideBar.css": 14,
+              "SideBar.js": 2044,
+              "Step.css": 14,
+              "Step.js": 582,
+              "StepHeader.js": 494
+            },
+            "blocks": {
+              "MessageBlock.js": 1348,
+              "ModalBlock.js": 6522,
+              "index.js": 398
+            },
+            "directory": {
+              "ChannelsTab.js": 4412,
+              "DirectoryPage.js": 1482,
+              "UserTab.js": 4125,
+              "hooks.js": 602
+            },
+            "notFound": {
+              "NotFoundPage.js": 1667
+            }
+          },
+          "account": {
+            "preferences": {
+              "AccountPreferencesPage.js": 3110,
+              "PreferencesGlobalSection.js": 1341,
+              "PreferencesHighlightsSection.js": 1146,
+              "PreferencesLocalizationSection.js": 1291,
+              "PreferencesMessagesSection.js": 5434,
+              "PreferencesMyDataSection.js": 3258,
+              "PreferencesNotificationsSection.js": 4290,
+              "PreferencesSoundSection.js": 2626,
+              "PreferencesUserPresenceSection.js": 1453
+            },
+            "security": {
+              "AccountSecurityPage.js": 1287,
+              "EndToEnd.js": 3258,
+              "TwoFactorEmail.js": 1828,
+              "TwoFactorTOTP.js": 7313
+            },
+            "tokens": {
+              "AccountTokensPage.js": 738,
+              "AccountTokensTable.js": 4574,
+              "AddToken.js": 2549,
+              "InfoModal.js": 815
+            },
+            "AccountIntegrationsPage.js": 1834,
+            "AccountProfileForm.js": 7901,
+            "AccountProfilePage.js": 7942,
+            "AccountRoute.js": 1375,
+            "AccountSidebar.js": 1328,
+            "sidebarItems.js": 1368
+          },
+          "startup": {
+            "contextualBar": {
+              "exportMessages.js": 470,
+              "index.js": 45
+            },
+            "emailVerification.js": 672,
+            "i18n.js": 1705,
+            "loginViaQuery.js": 280,
+            "roomObserve.js": 380,
+            "startup.js": 2407,
+            "theme.js": 3423,
+            "unread.js": 1572,
+            "userSetUtcOffset.js": 471,
+            "usersObserve.js": 804
+          },
+          "contexts": {
+            "AuthorizationContext.ts": 1277,
+            "ConnectionStatusContext.ts": 320,
+            "CustomSoundContext.ts": 248,
+            "EditableSettingsContext.ts": 1162,
+            "ModalContext.ts": 308,
+            "RouterContext.ts": 1902,
+            "ServerContext.ts": 3117,
+            "SessionContext.ts": 644,
+            "SettingsContext.ts": 1580,
+            "SidebarContext.ts": 238,
+            "ToastMessagesContext.ts": 272,
+            "TranslationContext.js": 838,
+            "UserContext.ts": 1444
+          },
+          "helpers": {
+            "capitalize.js": 146,
+            "createRouteGroup.js": 785,
+            "createSidebarItems.js": 470,
+            "download.js": 573,
+            "getDateRange.js": 347,
+            "getUserEmailAddress.js": 231,
+            "statusColors.js": 125
+          },
+          "hooks": {
+            "useCallbacks.js": 172,
+            "useEmbeddedLayout.js": 205,
+            "useEndpointAction.js": 1772,
+            "useEndpointData.js": 1194,
+            "useEndpointDataExperimental.ts": 1671,
+            "useEndpointUpload.js": 1119,
+            "useFileInput.js": 834,
+            "useForm.ts": 2396,
+            "useFormatDate.js": 339,
+            "useFormatDateAndTime.js": 559,
+            "useFormatDuration.js": 513,
+            "useFormatMemorySize.js": 378,
+            "useFormatTime.js": 525,
+            "useHighlightedCode.js": 251,
+            "useIsReducedMotionPreferred.js": 221,
+            "useReactiveValue.ts": 507,
+            "useResizeInlineBreakpoint.js": 587,
+            "useTimeAgo.js": 286,
+            "useTimezoneNameList.js": 244,
+            "useTimezoneTime.js": 622,
+            "useUpdateAvatar.js": 1733,
+            "useWipeInitialPageLoading.js": 298
+          },
+          "methods": {
+            "deleteMessage.js": 400,
+            "hideRoom.js": 265,
+            "openRoom.js": 256,
+            "setUserActiveStatus.js": 170,
+            "toggleFavorite.js": 260,
+            "updateMessage.js": 1566
+          },
+          "notifications": {
+            "UsersNameChanged.js": 561,
+            "notification.js": 1525,
+            "updateAvatar.js": 294,
+            "updateUserState.js": 310
+          },
+          "polyfills": {
+            "cssVars.js": 2108,
+            "customEventPolyfill.js": 359,
+            "index.js": 397
+          },
+          "providers": {
+            "AuthorizationProvider.tsx": 828,
+            "AvatarUrlProvider.js": 345,
+            "ConnectionStatusProvider.js": 589,
+            "CustomSoundProvides.js": 387,
+            "EditableSettingsProvider.tsx": 2492,
+            "MeteorProvider.js": 1372,
+            "ModalProvider.js": 763,
+            "RouterProvider.tsx": 1265,
+            "ServerProvider.js": 1398,
+            "SessionProvider.tsx": 494,
+            "SettingsProvider.tsx": 2450,
+            "SidebarProvider.tsx": 547,
+            "ToastMessagesProvider.tsx": 664,
+            "TranslationProvider.js": 1766,
+            "UserProvider.tsx": 1025,
+            "createReactiveSubscriptionFactory.ts": 502
+          },
+          "templateHelpers": {
+            "index.js": 54,
+            "log.js": 221,
+            "pathFor.js": 229
+          },
+          "importPackages.js": 3730,
+          "reactAdapters.js": 5993,
+          "routes.js": 3730,
+          "main.js": 970
+        },
+        "lib": {
+          "RegExp.js": 90
+        },
+        "definition": {
+          "ILivechatBusinessHour.ts": 286,
+          "ISetting.ts": 507
+        }
+      }
+    ]
+  }
+}
